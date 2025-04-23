@@ -1,0 +1,2936 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+8,Tom and Huck (1995),Adventure|Children
+13,Balto (1995),Adventure|Animation|Children
+27,Now and Then (1995),Children|Drama
+34,Babe (1995),Children|Drama
+38,It Takes Two (1995),Children|Comedy
+48,Pocahontas (1995),Animation|Children|Drama|Musical|Romance
+54,"Big Green, The (1995)",Children|Comedy
+56,Kids of the Round Table (1995),Adventure|Children|Comedy|Fantasy
+60,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+80,"White Balloon, The (Badkonake sefid) (1995)",Children|Drama
+87,Dunston Checks In (1996),Children|Comedy
+107,Muppet Treasure Island (1996),Adventure|Children|Comedy|Musical
+126,"NeverEnding Story III, The (1994)",Adventure|Children|Fantasy
+146,"Amazing Panda Adventure, The (1995)",Adventure|Children
+158,Casper (1995),Adventure|Children
+169,Free Willy 2: The Adventure Home (1995),Adventure|Children|Drama
+181,Mighty Morphin Power Rangers: The Movie (1995),Action|Children
+238,Far From Home: The Adventures of Yellow Dog (1995),Adventure|Children
+239,"Goofy Movie, A (1995)",Animation|Children|Comedy|Romance
+241,Fluke (1995),Children|Drama
+243,Gordy (1995),Children|Comedy|Fantasy
+244,Gumby: The Movie (1995),Animation|Children
+250,Heavyweights (Heavy Weights) (1995),Children|Comedy
+258,"Kid in King Arthur's Court, A (1995)",Adventure|Children|Comedy|Fantasy|Romance
+262,"Little Princess, A (1995)",Children|Drama
+313,"Swan Princess, The (1994)",Animation|Children
+314,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+343,"Baby-Sitters Club, The (1995)",Children
+355,"Flintstones, The (1994)",Children|Comedy|Fantasy
+362,"Jungle Book, The (1994)",Adventure|Children|Romance
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+374,Richie Rich (1994),Children|Comedy
+410,Addams Family Values (1993),Children|Comedy|Fantasy
+421,Black Beauty (1994),Adventure|Children|Drama
+455,Free Willy (1993),Adventure|Children|Drama
+484,Lassie (1994),Adventure|Children
+502,"Next Karate Kid, The (1994)",Action|Children|Romance
+531,"Secret Garden, The (1993)",Children|Drama
+546,Super Mario Bros. (1993),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+551,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical
+558,"Pagemaster, The (1994)",Action|Adventure|Animation|Children|Fantasy
+575,"Little Rascals, The (1994)",Children|Comedy
+577,Andre (1994),Adventure|Children|Drama
+586,Home Alone (1990),Children|Comedy
+588,Aladdin (1992),Adventure|Animation|Children|Comedy|Musical
+594,Snow White and the Seven Dwarfs (1937),Animation|Children|Drama|Fantasy|Musical
+595,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX
+596,Pinocchio (1940),Animation|Children|Fantasy|Musical
+609,Homeward Bound II: Lost in San Francisco (1996),Adventure|Children
+616,"Aristocats, The (1970)",Animation|Children
+631,All Dogs Go to Heaven 2 (1996),Adventure|Animation|Children|Fantasy|Musical|Romance
+641,"Little Indian, Big City (Un indien dans la ville) (1994)",Adventure|Children|Comedy
+661,James and the Giant Peach (1996),Adventure|Animation|Children|Fantasy|Musical
+673,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+709,Oliver & Company (1988),Adventure|Animation|Children|Comedy|Musical
+711,Flipper (1996),Adventure|Children
+745,Wallace & Gromit: A Close Shave (1995),Animation|Children|Comedy
+754,Gold Diggers: The Secret of Bear Mountain (1995),Adventure|Children
+755,Kim (1950),Children|Drama
+783,"Hunchback of Notre Dame, The (1996)",Animation|Children|Drama|Musical|Romance
+801,Harriet the Spy (1996),Children|Comedy
+808,Alaska (1996),Adventure|Children
+810,Kazaam (1996),Children|Comedy|Fantasy
+828,"Adventures of Pinocchio, The (1996)",Adventure|Children
+837,Matilda (1996),Children|Comedy|Fantasy
+840,House Arrest (1996),Children|Comedy
+881,First Kid (1996),Children|Comedy
+885,Bogus (1996),Children|Drama|Fantasy
+917,"Little Princess, The (1939)",Children|Drama
+919,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical
+953,It's a Wonderful Life (1946),Children|Drama|Fantasy|Romance
+986,Fly Away Home (1996),Adventure|Children
+1005,D3: The Mighty Ducks (1996),Children|Comedy
+1007,"Apple Dumpling Gang, The (1975)",Children|Comedy|Western
+1009,Escape to Witch Mountain (1975),Adventure|Children|Fantasy
+1010,"Love Bug, The (1969)",Children|Comedy
+1011,Herbie Rides Again (1974),Children|Comedy|Fantasy|Romance
+1012,Old Yeller (1957),Children|Drama
+1013,"Parent Trap, The (1961)",Children|Comedy|Romance
+1014,Pollyanna (1960),Children|Comedy|Drama
+1015,Homeward Bound: The Incredible Journey (1993),Adventure|Children|Drama
+1016,"Shaggy Dog, The (1959)",Children|Comedy
+1017,Swiss Family Robinson (1960),Adventure|Children
+1018,That Darn Cat! (1965),Children|Comedy|Mystery
+1021,Angels in the Outfield (1994),Children|Comedy
+1022,Cinderella (1950),Animation|Children|Fantasy|Musical|Romance
+1023,Winnie the Pooh and the Blustery Day (1968),Animation|Children|Musical
+1024,"Three Caballeros, The (1945)",Animation|Children|Musical
+1025,"Sword in the Stone, The (1963)",Animation|Children|Fantasy|Musical
+1026,So Dear to My Heart (1949),Children|Drama
+1028,Mary Poppins (1964),Children|Comedy|Fantasy|Musical
+1029,Dumbo (1941),Animation|Children|Drama|Musical
+1030,Pete's Dragon (1977),Adventure|Animation|Children|Musical
+1031,Bedknobs and Broomsticks (1971),Adventure|Children|Musical
+1032,Alice in Wonderland (1951),Adventure|Animation|Children|Fantasy|Musical
+1033,"Fox and the Hound, The (1981)",Animation|Children|Drama
+1073,Willy Wonka & the Chocolate Factory (1971),Children|Comedy|Fantasy|Musical
+1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi
+1099,"Christmas Carol, A (1938)",Children|Drama|Fantasy
+1148,Wallace & Gromit: The Wrong Trousers (1993),Animation|Children|Comedy|Crime
+1223,"Grand Day Out with Wallace and Gromit, A (1989)",Adventure|Animation|Children|Comedy|Sci-Fi
+1282,Fantasia (1940),Animation|Children|Fantasy|Musical
+1302,Field of Dreams (1989),Children|Drama|Fantasy
+1359,Jingle All the Way (1996),Children|Comedy
+1367,101 Dalmatians (1996),Adventure|Children|Comedy
+1426,Zeus and Roxanne (1997),Children
+1460,That Darn Cat (1997),Children|Comedy|Mystery
+1474,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997),Children|Comedy
+1489,Cats Don't Dance (1997),Animation|Children|Musical
+1495,Turbo: A Power Rangers Movie (1997),Action|Adventure|Children
+1525,Warriors of Virtue (1997),Action|Adventure|Children|Fantasy
+1538,"Second Jungle Book: Mowgli & Baloo, The (1997)",Adventure|Children
+1547,Shiloh (1997),Children|Drama
+1551,Buddy (1997),Adventure|Children|Drama
+1566,Hercules (1997),Adventure|Animation|Children|Comedy|Musical
+1582,Wild America (1997),Adventure|Children
+1583,"Simple Wish, A (1997)",Children|Fantasy
+1588,George of the Jungle (1997),Children|Comedy
+1592,Air Bud (1997),Children|Comedy
+1595,Free Willy 3: The Rescue (1997),Adventure|Children|Drama
+1646,RocketMan (a.k.a. Rocket Man) (1997),Children|Comedy|Romance|Sci-Fi
+1654,FairyTale: A True Story (1997),Children|Drama|Fantasy
+1688,Anastasia (1997),Adventure|Animation|Children|Drama|Musical
+1702,Flubber (1997),Children|Comedy|Fantasy
+1707,Home Alone 3 (1997),Children|Comedy
+1713,Mouse Hunt (1997),Children|Comedy
+1739,3 Ninjas: High Noon On Mega Mountain (1998),Action|Children|Comedy
+1750,Star Kid (1997),Adventure|Children|Fantasy|Sci-Fi
+1806,Paulie (1998),Adventure|Children|Comedy
+1812,Wide Awake (1998),Children|Comedy|Drama
+1822,Meet the Deedles (1998),Children|Comedy
+1826,Barney's Great Adventure (1998),Adventure|Children
+1843,Slappy and the Stinkers (1998),Children|Comedy
+1848,"Borrowers, The (1997)",Adventure|Children|Comedy|Fantasy
+1881,Quest for Camelot (1998),Adventure|Animation|Children|Fantasy|Musical
+1907,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+1919,Madeline (1998),Children|Comedy
+1920,Small Soldiers (1998),Animation|Children|Fantasy|War
+2005,"Goonies, The (1985)",Action|Adventure|Children|Comedy|Fantasy
+2014,Freaky Friday (1977),Children|Comedy|Fantasy
+2015,"Absent-Minded Professor, The (1961)",Children|Comedy|Fantasy
+2016,"Apple Dumpling Gang Rides Again, The (1979)",Children|Comedy|Western
+2017,Babes in Toyland (1961),Children|Fantasy|Musical
+2018,Bambi (1942),Animation|Children|Drama
+2031,"Million Dollar Duck, The (a.k.a. $1,000,000 Duck) (1971)",Children|Comedy
+2032,"Barefoot Executive, The (1971)",Children|Comedy
+2033,"Black Cauldron, The (1985)",Adventure|Animation|Children|Fantasy
+2034,"Black Hole, The (1979)",Children|Sci-Fi
+2035,Blackbeard's Ghost (1968),Children|Comedy
+2036,Blank Check (1994),Children|Comedy
+2037,Candleshoe (1977),Adventure|Children|Comedy
+2038,"Cat from Outer Space, The (1978)",Children|Comedy|Sci-Fi
+2039,Cheetah (1989),Adventure|Children
+2040,"Computer Wore Tennis Shoes, The (1969)",Children|Comedy
+2041,Condorman (1981),Action|Adventure|Children|Comedy
+2042,D2: The Mighty Ducks (1994),Children|Comedy
+2043,Darby O'Gill and the Little People (1959),Adventure|Children|Fantasy
+2045,"Far Off Place, A (1993)",Adventure|Children|Drama|Romance
+2046,Flight of the Navigator (1986),Adventure|Children|Sci-Fi
+2047,"Gnome-Mobile, The (1967)",Adventure|Children|Fantasy|Musical
+2048,"Great Mouse Detective, The (1986)",Action|Animation|Children|Crime
+2050,Herbie Goes Bananas (1980),Adventure|Children|Comedy
+2051,Herbie Goes to Monte Carlo (1977),Adventure|Children|Comedy
+2052,Hocus Pocus (1993),Children|Comedy|Fantasy|Horror
+2053,"Honey, I Blew Up the Kid (1992)",Children|Comedy|Sci-Fi
+2054,"Honey, I Shrunk the Kids (1989)",Adventure|Children|Comedy|Fantasy|Sci-Fi
+2056,In Search of the Castaways (1962),Adventure|Children
+2057,"Incredible Journey, The (1963)",Adventure|Children
+2059,"Parent Trap, The (1998)",Children|Comedy|Romance
+2077,"Journey of Natty Gann, The (1985)",Adventure|Children
+2078,"Jungle Book, The (1967)",Animation|Children|Comedy|Musical
+2079,Kidnapped (1960),Adventure|Children|Drama
+2080,Lady and the Tramp (1955),Animation|Children|Comedy|Romance
+2081,"Little Mermaid, The (1989)",Animation|Children|Comedy|Musical|Romance
+2082,"Mighty Ducks, The (1992)",Children|Comedy
+2083,"Muppet Christmas Carol, The (1992)",Children|Comedy|Musical
+2084,Newsies (1992),Children|Musical
+2085,101 Dalmatians (One Hundred and One Dalmatians) (1961),Adventure|Animation|Children
+2087,Peter Pan (1953),Animation|Children|Fantasy|Musical
+2089,"Rescuers Down Under, The (1990)",Adventure|Animation|Children
+2090,"Rescuers, The (1977)",Adventure|Animation|Children|Crime|Drama
+2091,Return from Witch Mountain (1978),Children|Sci-Fi
+2093,Return to Oz (1985),Adventure|Children|Fantasy
+2095,"Shaggy D.A., The (1976)",Children|Comedy
+2096,Sleeping Beauty (1959),Animation|Children|Musical
+2097,Something Wicked This Way Comes (1983),Children|Drama|Fantasy|Mystery|Thriller
+2098,Son of Flubber (1963),Children|Comedy
+2099,Song of the South (1946),Adventure|Animation|Children|Musical
+2102,Steamboat Willie (1928),Animation|Children|Comedy|Musical
+2103,Tall Tale (1995),Adventure|Children|Fantasy|Western
+2116,"Lord of the Rings, The (1978)",Adventure|Animation|Children|Fantasy
+2123,All Dogs Go to Heaven (1989),Animation|Children|Comedy|Drama|Fantasy
+2124,"Addams Family, The (1991)",Children|Comedy|Fantasy
+2135,Doctor Dolittle (1967),Adventure|Children|Musical
+2137,Charlotte's Web (1973),Animation|Children
+2138,Watership Down (1978),Adventure|Animation|Children|Drama|Fantasy
+2139,"Secret of NIMH, The (1982)",Adventure|Animation|Children|Drama
+2141,"American Tail, An (1986)",Adventure|Animation|Children|Comedy
+2142,"American Tail: Fievel Goes West, An (1991)",Adventure|Animation|Children|Musical|Western
+2152,Air Bud: Golden Receiver (1998),Children|Comedy
+2161,"NeverEnding Story, The (1984)",Adventure|Children|Fantasy
+2162,"NeverEnding Story II: The Next Chapter, The (1990)",Adventure|Children|Fantasy
+2294,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy
+2354,"Rugrats Movie, The (1998)",Animation|Children|Comedy
+2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy
+2384,Babe: Pig in the City (1998),Adventure|Children|Drama
+2392,Jack Frost (1998),Children|Comedy|Drama
+2399,Santa Claus: The Movie (1985),Adventure|Children|Fantasy
+2400,Prancer (1989),Children|Drama|Fantasy
+2414,Young Sherlock Holmes (1985),Action|Adventure|Children|Fantasy|Mystery|Thriller
+2422,"Karate Kid, Part III, The (1989)",Action|Adventure|Children|Drama
+2430,Mighty Joe Young (1949),Adventure|Children|Drama
+2449,"Garbage Pail Kids Movie, The (1987)",Adventure|Children|Comedy
+2559,"King and I, The (1999)",Animation|Children
+2566,Doug's 1st Movie (1999),Animation|Children
+2687,Tarzan (1999),Adventure|Animation|Children|Drama
+2709,Muppets From Space (1999),Children|Comedy
+2720,Inspector Gadget (1999),Action|Adventure|Children|Comedy
+2761,"Iron Giant, The (1999)",Adventure|Animation|Children|Drama|Sci-Fi
+2798,Problem Child (1990),Children|Comedy
+2800,Little Nemo: Adventures in Slumberland (1992),Adventure|Animation|Children|Drama|Fantasy
+2804,"Christmas Story, A (1983)",Children|Comedy
+2828,Dudley Do-Right (1999),Children|Comedy
+2831,A Dog of Flanders (1999),Children|Drama
+2846,"Adventures of Milo and Otis, The (Koneko monogatari) (1986)",Adventure|Children|Comedy|Drama
+2876,Thumbelina (1994),Animation|Children|Fantasy
+2886,"Adventures of Elmo in Grouchland, The (1999)",Children|Comedy
+2899,Gulliver's Travels (1939),Adventure|Animation|Children
+2953,Home Alone 2: Lost in New York (1992),Children|Comedy
+2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery
+3034,Robin Hood (1973),Adventure|Animation|Children|Comedy|Musical
+3054,Pokémon: The First Movie (1998),Adventure|Animation|Children|Fantasy|Sci-Fi
+3086,Babes in Toyland (1934),Children|Comedy|Fantasy|Musical
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy
+3157,Stuart Little (1999),Children|Comedy|Fantasy
+3159,Fantasia 2000 (1999),Animation|Children|Musical|IMAX
+3189,My Dog Skip (1999),Children|Drama
+3213,Batman: Mask of the Phantasm (1993),Animation|Children
+3287,"Tigger Movie, The (2000)",Animation|Children
+3332,"Legend of Lobo, The (1962)",Adventure|Children
+3345,"Charlie, the Lonesome Cougar (1967)",Adventure|Children
+3388,Harry and the Hendersons (1987),Children|Comedy
+3396,"Muppet Movie, The (1979)",Adventure|Children|Comedy|Musical
+3397,"Great Muppet Caper, The (1981)",Children|Comedy
+3398,"Muppets Take Manhattan, The (1984)",Children|Comedy|Musical
+3399,Sesame Street Presents Follow That Bird (1985),Children|Comedy
+3400,We're Back! A Dinosaur's Story (1993),Adventure|Animation|Children|Fantasy
+3412,"Bear, The (Ours, L') (1988)",Adventure|Children|Drama
+3438,Teenage Mutant Ninja Turtles (1990),Action|Children|Comedy|Fantasy|Sci-Fi
+3439,Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991),Action|Children|Fantasy
+3440,Teenage Mutant Ninja Turtles III (1993),Action|Adventure|Children|Comedy|Fantasy
+3483,"Road to El Dorado, The (2000)",Animation|Children
+3564,"Flintstones in Viva Rock Vegas, The (2000)",Children|Comedy
+3611,Saludos Amigos (1943),Animation|Children|Comedy
+3612,The Slipper and the Rose: The Story of Cinderella (1976),Adventure|Children|Fantasy|Musical|Romance
+3615,Dinosaur (2000),Adventure|Animation|Children
+3647,Running Free (1999),Adventure|Children|Drama
+3672,Benji (1974),Adventure|Children
+3673,Benji the Hunted (1987),Adventure|Children
+3674,For the Love of Benji (1977),Adventure|Children|Comedy|Drama
+3745,Titan A.E. (2000),Action|Adventure|Animation|Children|Sci-Fi
+3751,Chicken Run (2000),Animation|Children|Comedy
+3754,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy
+3759,Fun and Fancy Free (1947),Animation|Children|Musical
+3775,Make Mine Music (1946),Animation|Children|Musical
+3776,Melody Time (1948),Animation|Children|Musical
+3799,Pokémon the Movie 2000 (2000),Animation|Children
+3820,Thomas and the Magic Railroad (2000),Children
+3945,Digimon: The Movie (2000),Adventure|Animation|Children
+3964,"Adventures of Ichabod and Mr. Toad, The (1949)",Animation|Children
+3974,"Little Vampire, The (2000)",Adventure|Children
+3988,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),Children|Comedy|Fantasy
+3990,Rugrats in Paris: The Movie (2000),Animation|Children|Comedy
+3991,102 Dalmatians (2000),Children|Comedy
+4006,Transformers: The Movie (1986),Adventure|Animation|Children|Sci-Fi
+4016,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy
+4039,Annie (1982),Children|Musical
+4057,Kids World (2000),Adventure|Children|Comedy
+4075,"Monkey's Tale, A (Château des singes, Le) (1999)",Animation|Children
+4087,Big Shots (1987),Adventure|Children|Comedy
+4090,"Brave Little Toaster, The (1987)",Animation|Children
+4154,Recess: School's Out (2001),Animation|Children
+4188,Hans Christian Andersen (1952),Children|Musical
+4232,Spy Kids (2001),Action|Adventure|Children|Comedy
+4241,Pokémon 3: The Movie (2001),Animation|Children
+4294,"5,000 Fingers of Dr. T, The (1953)",Children|Fantasy|Musical
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance
+4366,Atlantis: The Lost Empire (2001),Adventure|Animation|Children|Fantasy
+4386,Cats & Dogs (2001),Children|Comedy
+4477,Big Top Pee-Wee (1988),Adventure|Children|Comedy
+4502,Ernest Saves Christmas (1988),Children|Comedy
+4519,"Land Before Time, The (1988)",Adventure|Animation|Children|Fantasy
+4683,"Wizard, The (1989)",Adventure|Children|Comedy|Drama
+4700,"Princess Diaries, The (2001)",Children|Comedy|Romance
+4748,3 Ninjas (1992),Action|Children|Comedy
+4749,3 Ninjas Kick Back (1994),Action|Children|Comedy
+4750,3 Ninjas Knuckle Up (1995),Action|Children
+4822,Max Keeble's Big Move (2001),Children|Comedy
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy
+4896,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy
+4990,Jimmy Neutron: Boy Genius (2001),Adventure|Animation|Children|Comedy
+5038,"Flight of Dragons, The (1982)",Adventure|Animation|Children|Drama|Fantasy
+5048,Snow Dogs (2002),Adventure|Children|Comedy
+5076,"Adventures of Huck Finn, The (1993)",Adventure|Children|Comedy|Drama
+5092,Big Fat Liar (2002),Children|Comedy
+5099,Heidi (1937),Children|Drama
+5103,"Sandlot, The (1993)",Children|Comedy|Drama
+5109,Return to Never Land (2002),Adventure|Animation|Children
+5159,Ferngully: The Last Rainforest (1992),Animation|Children|Comedy|Musical
+5164,"Troll in Central Park, A (1994)",Animation|Children
+5218,Ice Age (2002),Adventure|Animation|Children|Comedy
+5311,"Watcher in the Woods, The (1980)",Children|Horror|Mystery|Thriller
+5320,Spooky House (2000),Children
+5362,White Fang 2: Myth of the White Wolf (1994),Adventure|Children
+5389,Spirit: Stallion of the Cimarron (2002),Adventure|Animation|Children|Western
+5419,Scooby-Doo (2002),Adventure|Children|Comedy|Fantasy|Mystery
+5444,Lilo & Stitch (2002),Adventure|Animation|Children|Sci-Fi
+5448,Hey Arnold! The Movie (2002),Adventure|Animation|Children|Comedy
+5452,Look Who's Talking Now (1993),Children|Comedy|Romance
+5458,Like Mike (2002),Children|Comedy|Fantasy
+5460,"Powerpuff Girls, The (2002)",Action|Animation|Children|Comedy
+5472,1776 (1972),Children|Drama|Musical
+5480,Stuart Little 2 (2002),Children|Comedy
+5482,"Country Bears, The (2002)",Children|Comedy
+5504,Spy Kids 2: The Island of Lost Dreams (2002),Adventure|Children
+5538,"Care Bears Movie, The (1985)",Animation|Children|Fantasy
+5539,Care Bears Movie II: A New Generation (1986),Animation|Children
+5591,Monkey Trouble (1994),Children|Comedy
+5601,"Yearling, The (1946)",Children|Drama
+5629,Jonah: A VeggieTales Movie (2002),Animation|Children|Musical
+5639,Godzilla's Revenge (Gojira-Minira-Gabara: Oru Kaijû Daishingeki) (All Monsters Attack) (1969),Children
+5672,Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2002),Adventure|Animation|Children|Fantasy
+5683,Hansel & Gretel (2002),Children|Fantasy
+5765,"Looney, Looney, Looney Bugs Bunny Movie, The (1981)",Animation|Children|Comedy
+5804,"Santa Clause 2, The (2002)",Children|Comedy|Fantasy|Romance
+5882,Treasure Planet (2002),Adventure|Animation|Children|Sci-Fi|IMAX
+5892,"Island at the Top of the World, The (1974)",Action|Adventure|Children
+5958,"Wild Thornberrys Movie, The (2002)",Animation|Children|Comedy
+5971,My Neighbor Totoro (Tonari no Totoro) (1988),Animation|Children|Drama|Fantasy
+5990,Pinocchio (2002),Children|Comedy|Fantasy
+6050,Gus (1976),Children|Comedy
+6052,"Horse in the Gray Flannel Suit, The (1968)",Children|Comedy
+6054,"Moon-Spinners, The (1964)",Children|Mystery
+6093,"Last Unicorn, The (1982)",Animation|Children|Fantasy
+6158,"Jungle Book 2, The (2003)",Animation|Children
+6169,"Black Stallion Returns, The (1983)",Adventure|Children
+6170,"Black Stallion, The (1979)",Adventure|Children|Drama
+6173,Into the West (1992),Adventure|Children
+6232,Born Free (1966),Adventure|Children|Drama
+6239,Journey to the Center of the Earth (1959),Adventure|Children|Sci-Fi
+6251,Piglet's Big Movie (2003),Animation|Children
+6259,My Friend Flicka (1943),Children|Western
+6297,Holes (2003),Adventure|Children|Comedy|Mystery
+6316,"Wiz, The (1978)",Adventure|Children|Comedy|Fantasy|Musical
+6332,"Lizzie McGuire Movie, The (2003)",Children|Comedy|Romance
+6338,Daddy Day Care (2003),Children|Comedy
+6350,Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+6371,Pokémon Heroes (2003),Animation|Children
+6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy
+6391,Snowball Express (1972),Children|Comedy
+6405,Treasure Island (1950),Adventure|Children
+6414,Gay Purr-ee (1962),Animation|Children|Musical
+6427,"Railway Children, The (1970)",Children|Drama
+6464,Good Burger (1997),Children|Comedy
+6485,Rugrats Go Wild! (2003),Adventure|Animation|Children|Comedy
+6536,Sinbad: Legend of the Seven Seas (2003),Adventure|Animation|Children|Fantasy
+6557,Born to Be Wild (1995),Adventure|Children|Comedy|Drama
+6559,Little Giants (1994),Children|Comedy
+6566,Spy Kids 3-D: Game Over (2003),Action|Adventure|Children
+6593,Freaky Friday (2003),Children|Comedy|Fantasy
+6624,Agent Cody Banks (2003),Action|Adventure|Children|Fantasy
+6625,Camp Nowhere (1994),Adventure|Children|Comedy
+6747,"Adventures of Huckleberry Finn, The (1960)",Adventure|Children
+6753,Secondhand Lions (2003),Children|Comedy|Drama
+6793,Beethoven (1992),Children|Comedy|Drama
+6794,Beethoven's 2nd (1993),Children|Comedy
+6798,Bugsy Malone (1976),Children|Comedy|Crime|Musical
+6871,Good Boy! (2003),Children|Comedy|Sci-Fi
+6889,Brother Bear (2003),Adventure|Animation|Children
+6936,Elf (2003),Children|Comedy|Fantasy
+6946,Looney Tunes: Back in Action (2003),Action|Animation|Children|Fantasy
+6951,"Cat in the Hat, The (2003)",Children|Comedy
+6958,"Haunted Mansion, The (2003)",Children|Comedy|Fantasy|Horror
+7045,"Witches, The (1990)",Children|Fantasy
+7059,National Velvet (1944),Children|Drama
+7161,Cheaper by the Dozen (2003),Children|Comedy
+7164,Peter Pan (2003),Action|Adventure|Children|Fantasy
+7166,"Young Black Stallion, The (2003)",Adventure|Children|Drama
+7174,Teacher's Pet (2004),Animation|Children
+7224,"Boy with Green Hair, The (1948)",Children|Drama
+7247,Chitty Chitty Bang Bang (1968),Adventure|Children|Comedy|Fantasy|Musical
+7262,Catch That Kid (2004),Action|Adventure|Children|Comedy|Crime
+7345,Agent Cody Banks 2: Destination London (2004),Action|Adventure|Children|Comedy
+7369,Scooby-Doo 2: Monsters Unleashed (2004),Action|Adventure|Children|Comedy|Mystery
+7374,Home on the Range (2004),Animation|Children|Comedy|Musical|Western
+7408,Jack and the Beanstalk (1952),Children|Comedy|Fantasy
+7446,Clifford's Really Big Movie (2004),Animation|Children
+7743,Explorers (1985),Adventure|Children|Sci-Fi
+7774,My Side of the Mountain (1969),Adventure|Children
+7790,"Bon Voyage, Charlie Brown (and Don't Come Back!) (1980)",Animation|Children|Comedy
+7847,"Peanut Butter Solution, The (1985)",Children|Fantasy
+7985,The Wonderful Ice Cream Suit (1998),Children|Comedy|Fantasy
+8015,"Phantom Tollbooth, The (1970)",Adventure|Animation|Children|Fantasy
+8169,*batteries not included (1987),Children|Comedy|Fantasy|Sci-Fi
+8221,War of the Buttons (1994),Adventure|Children|Drama
+8224,"Dexter the Dragon & Bumble the Bear (a.k.a. Dragon That Wasn't (Or Was He?), The) (Als je begrijpt wat ik bedoel) (1983)",Animation|Children|Fantasy
+8360,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Musical|Romance
+8372,Garfield: The Movie (2004),Animation|Children|Comedy
+8423,"Kid Brother, The (1927)",Children|Comedy|Romance
+8444,"Chipmunk Adventure, The (1987)",Adventure|Animation|Children|Comedy|Fantasy|Musical
+8487,Please Don't Eat the Daisies (1960),Children|Comedy|Musical
+8525,"Ugly Dachshund, The (1966)",Children|Comedy
+8526,Around the World in 80 Days (2004),Adventure|Children|Comedy
+8534,Two Brothers (Deux frères) (2004),Adventure|Children|Drama
+8537,Kaena: The Prophecy (Kaena: La prophétie) (2003),Action|Adventure|Animation|Children|Sci-Fi
+8572,"Littlest Rebel, The (1935)",Children|Drama
+8574,"Claymation Christmas Celebration, A (1987)",Animation|Children|Comedy|Musical
+8612,Lassie Come Home (1943),Adventure|Children|Drama
+8616,By the Light of the Silvery Moon (1953),Children|Musical|Romance
+8713,"New Adventures of Pippi Longstocking, The (1988)",Adventure|Children|Fantasy|Musical
+8759,Greyfriars Bobby (a.k.a. Greyfriars Bobby: The True Story of a Dog) (1961),Children|Drama
+8761,"Three Lives of Thomasina, The (1964)",Children|Drama
+8762,"No Deposit, No Return (1976)",Children|Comedy
+8763,"One and Only, Genuine, Original Family Band, The (1968)",Children|Comedy|Musical
+8829,Benji: Off the Leash! (2004),Children|Drama
+8850,Flipper (1963),Adventure|Children|Drama
+8883,"Last Flight of Noah's Ark, The (1980)",Adventure|Children|Comedy
+8907,Shark Tale (2004),Animation|Children|Comedy
+8929,Black Beauty (1971),Children|Drama
+8934,Bebe's Kids (1992),Animation|Children|Comedy
+8935,All I Want for Christmas (1991),Children|Comedy|Romance
+8942,Spin (2003),Children|Drama
+8944,"Dust Factory, The (2004)",Adventure|Children|Romance
+8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy
+8965,"Polar Express, The (2004)",Adventure|Animation|Children|Fantasy|IMAX
+8974,"SpongeBob SquarePants Movie, The (2004)",Adventure|Animation|Children|Comedy
+8978,Christmas with the Kranks (2004),Children|Comedy
+9004,D.A.R.Y.L. (1985),Adventure|Children|Sci-Fi
+25956,"Secret Garden, The (1949)",Children|Drama
+26084,"Music Man, The (1962)",Children|Comedy|Musical|Romance
+26093,"Wonderful World of the Brothers Grimm, The (1962)",Adventure|Animation|Children|Comedy|Drama|Fantasy|Musical|Romance
+26133,"Charlie Brown Christmas, A (1965)",Animation|Children|Comedy
+26160,Asterix and the Gauls (Astérix le Gaulois) (1967),Action|Adventure|Animation|Children|Comedy
+26183,Asterix and Cleopatra (Astérix et Cléopâtre) (1968),Action|Adventure|Animation|Children|Comedy
+26198,"Yours, Mine and Ours (1968)",Children|Comedy
+26327,"Little Prince, The (1974)",Children|Musical|Sci-Fi
+26340,"Twelve Tasks of Asterix, The (Les douze travaux d'Astérix) (1976)",Action|Adventure|Animation|Children|Comedy|Fantasy
+26448,Pelle Svanslös (1981),Animation|Children
+26504,Cloak & Dagger (1984),Action|Adventure|Children|Crime|Mystery|Thriller
+26529,Asterix vs. Caesar (Astérix et la surprise de César) (1985),Adventure|Animation|Children|Comedy
+26553,Pelle Svanslös i Amerikatt (1985),Animation|Children
+26565,Asterix in Britain (Astérix chez les Bretons) (1986),Adventure|Animation|Children|Comedy
+26662,Kiki's Delivery Service (Majo no takkyûbin) (1989),Adventure|Animation|Children|Drama|Fantasy
+26690,Shipwrecked (a.k.a. Haakon Haakonsen) (1990),Adventure|Children
+26792,Sidekicks (1992),Action|Adventure|Children|Comedy
+26828,Mr. Nanny (1993),Action|Children|Comedy
+27186,Kirikou and the Sorceress (Kirikou et la sorcière) (1998),Adventure|Animation|Children|Fantasy
+27671,As If I Didn't Exist (Elina - Som om jag inte fanns) (2002),Children|Drama
+27684,Wondrous Oblivion (2003),Children|Comedy|Drama
+27706,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy
+27731,"Cat Returns, The (Neko no ongaeshi) (2002)",Adventure|Animation|Children|Fantasy
+27790,Millions (2004),Children|Comedy|Crime|Drama|Fantasy
+30793,Charlie and the Chocolate Factory (2005),Adventure|Children|Comedy|Fantasy|IMAX
+31030,I Remember Mama (1948),Children|Drama
+31193,"Many Adventures of Winnie the Pooh, The (1977)",Animation|Children|Musical
+31195,Pippi in the South Seas (Pippi Långstrump på de sju haven) (1970),Adventure|Children
+31201,Pippi on the Run (På rymmen med Pippi Långstrump) (1970),Children
+31223,Racing Stripes (2005),Children|Comedy
+31422,Are We There Yet? (2005),Children|Comedy
+31447,Magic in the Water (1995),Adventure|Children|Fantasy
+31555,Mac and Me (1988),Children|Fantasy|Sci-Fi
+31687,Pooh's Heffalump Movie (2005),Animation|Children
+31698,Son of the Mask (2005),Adventure|Children|Comedy|Fantasy
+31700,Because of Winn-Dixie (2005),Children|Comedy|Drama
+32031,Robots (2005),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi|IMAX
+32062,Courage Mountain (1990),Adventure|Children|Drama
+32153,Once Upon a Forest (1993),Adventure|Animation|Children|Fantasy
+32230,"Snow Queen, The (Lumikuningatar) (1986)",Children|Fantasy
+32289,Ice Princess (2005),Children|Comedy|Drama
+33140,Down and Derby (2005),Children|Comedy
+33463,DuckTales: The Movie - Treasure of the Lost Lamp (1990),Adventure|Animation|Children|Comedy|Fantasy
+33615,Madagascar (2005),Adventure|Animation|Children|Comedy
+33639,Mad Hot Ballroom (2005),Children|Documentary
+33681,"Adventures of Sharkboy and Lavagirl 3-D, The (2005)",Action|Adventure|Children|Fantasy
+34321,Bad News Bears (2005),Children|Comedy
+34332,Sky High (2005),Action|Adventure|Children|Comedy
+34624,Summer Magic (1963),Children|Comedy|Musical
+36289,Asterix & Obelix vs. Caesar (Astérix et Obélix contre César) (1999),Adventure|Children|Comedy|Fantasy
+36397,Valiant (2005),Adventure|Animation|Children|Comedy|Fantasy|War
+37857,MirrorMask (2005),Adventure|Children|Drama|Fantasy
+38038,Wallace & Gromit in The Curse of the Were-Rabbit (2005),Adventure|Animation|Children|Comedy
+39307,Dreamer: Inspired by a True Story (2005),Children|Drama
+39529,"Race for Your Life, Charlie Brown (1977)",Adventure|Animation|Children
+40339,Chicken Little (2005),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+40851,Zathura (2005),Action|Adventure|Children|Fantasy
+41566,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Adventure|Children|Fantasy
+42734,Hoodwinked! (2005),Animation|Children|Comedy
+42761,Casper Meets Wendy (1998),Adventure|Children|Comedy|Fantasy
+42958,Little Manhattan (2005),Children|Comedy|Romance
+43560,Nanny McPhee (2005),Children|Comedy|Fantasy
+43869,Curious George (2006),Adventure|Animation|Children|Comedy
+43926,Doogal (2006),Animation|Children
+44022,Ice Age 2: The Meltdown (2006),Adventure|Animation|Children|Comedy
+44155,Five Children and It (2004),Adventure|Children|Fantasy
+44225,Aquamarine (2006),Children|Comedy|Fantasy
+44399,"Shaggy Dog, The (2006)",Adventure|Children|Comedy|Fantasy
+44763,"Brothers Lionheart, The (Bröderna Lejonhjärta) (1977)",Adventure|Children|Fantasy
+44949,Hoot (2006),Children|Comedy
+44966,Where the Red Fern Grows (1974),Children|Drama
+45038,Pinocchio and the Emperor of the Night (1987),Animation|Children|Fantasy
+45074,"Wild, The (2006)",Adventure|Animation|Children|Comedy|Fantasy
+45208,RV (2006),Adventure|Children|Comedy
+45431,Over the Hedge (2006),Adventure|Animation|Children|Comedy
+45517,Cars (2006),Animation|Children|Comedy
+46062,High School Musical (2006),Children|Comedy|Drama|Musical|Romance
+46337,Garfield: A Tail of Two Kitties (2006),Animation|Children|Comedy
+46948,Monster House (2006),Animation|Children|Fantasy|Mystery
+47124,"Ant Bully, The (2006)",Adventure|Animation|Children|Comedy|Fantasy|IMAX
+47264,Barnyard: The Original Party Animals (2006),Animation|Children|Comedy
+47516,Material Girls (2006),Children|Comedy|Drama
+47606,Captain January (1936),Children|Comedy|Musical
+47642,How to Eat Fried Worms (2006),Children|Drama
+47721,"Red Balloon, The (Ballon rouge, Le) (1956)",Children|Fantasy
+47805,Lassie (2005),Adventure|Children
+47868,Ronja Robbersdaughter (Ronja Rövardotter) (1984),Adventure|Children|Drama
+48059,"Boy Named Charlie Brown, A (1969)",Animation|Children|Comedy|Drama
+48061,Snoopy Come Home (1972),Animation|Children|Comedy|Musical
+48159,Everyone's Hero (2006),Adventure|Animation|Children|Comedy
+48414,Open Season (2006),Adventure|Animation|Children|Comedy|IMAX
+48522,Stormbreaker (Alex Rider: Operation Stormbreaker) (2006),Action|Children
+48791,Flicka (2006),Children|Drama
+48895,Little Secrets (2001),Children|Comedy|Drama
+49274,Happy Feet (2006),Adventure|Animation|Children|Comedy|IMAX
+49642,Unaccompanied Minors (2006),Children|Comedy
+49647,Charlotte's Web (2006),Children|Comedy|Drama|Fantasy
+50149,Happily N'Ever After (2007),Animation|Children|Comedy
+50162,Arthur and the Invisibles (2007),Action|Children|Fantasy
+50601,Bridge to Terabithia (2007),Adventure|Children|Fantasy
+50872,Ratatouille (2007),Animation|Children|Drama
+51194,Like Mike 2: Streetball (2006),Children|Comedy
+51354,Emil i Lönneberga (1971),Children|Drama
+51698,"Last Mimzy, The (2007)",Adventure|Children|Sci-Fi
+51939,TMNT (Teenage Mutant Ninja Turtles) (2007),Action|Adventure|Animation|Children|Comedy|Fantasy
+52287,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+52730,It's a Very Merry Muppet Christmas Movie (2002),Children|Comedy
+52938,"Adventures of Mark Twain, The (1986)",Adventure|Animation|Children
+53121,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy
+53460,Surf's Up (2007),Animation|Children|Comedy
+53554,"Blue Bird, The (1940)",Children|Fantasy
+53855,Johnny Tremain (1957),Adventure|Children|War
+53857,Alan & Naomi (1992),Children|Drama
+54278,Underdog (2007),Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+54768,Daddy Day Camp (2007),Children|Comedy
+55681,Valhalla (1986),Adventure|Animation|Children|Fantasy
+55856,Azur & Asmar (Azur et Asmar) (2006),Adventure|Animation|Children
+55955,Fred Claus (2007),Children|Comedy|Fantasy
+55999,Mr. Magorium's Wonder Emporium (2007),Children|Comedy|Fantasy
+56152,Enchanted (2007),Adventure|Animation|Children|Comedy|Fantasy|Musical|Romance
+56171,"Golden Compass, The (2007)",Adventure|Children|Fantasy
+56176,Alvin and the Chipmunks (2007),Children|Comedy
+56915,"Water Horse: Legend of the Deep, The (2007)",Adventure|Children|Fantasy
+58105,"Spiderwick Chronicles, The (2008)",Adventure|Children|Drama|Fantasy|IMAX
+58299,Horton Hears a Who! (2008),Adventure|Animation|Children|Comedy
+58324,"Pirates Who Don't Do Anything: A VeggieTales Movie, The (2008)",Adventure|Animation|Children|Comedy
+58598,Phar Lap (1983),Children|Drama
+58652,CJ7 (Cheung Gong 7 hou) (2008),Children|Comedy|Sci-Fi
+59037,Speed Racer (2008),Action|Children|Sci-Fi|IMAX
+59141,Son of Rambow (2007),Children|Comedy|Drama
+59382,Flight of the Red Balloon (2007),Children|Drama
+59501,"Chronicles of Narnia: Prince Caspian, The (2008)",Adventure|Children|Fantasy
+59784,Kung Fu Panda (2008),Action|Animation|Children|Comedy|IMAX
+60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi
+60110,Tom Sawyer (1973),Adventure|Children|Musical
+60141,St. Trinian's (2007),Children|Comedy
+60259,Bambi 2 (2006),Animation|Children|Drama
+60289,Kit Kittredge: An American Girl (2008),Children|Comedy|Drama|Mystery
+60487,"It's the Great Pumpkin, Charlie Brown (1966)",Animation|Children|Comedy
+60516,Meet Dave (2008),Adventure|Children|Comedy|Romance|Sci-Fi
+60803,"Little Drummer Boy, The (1968)",Animation|Children|Musical
+61267,Fly Me to the Moon (2008),Adventure|Animation|Children|IMAX
+61634,Son of Lassie (1945),Children|Drama
+62376,City of Ember (2008),Adventure|Children|Sci-Fi
+62729,Niko & the Way to the Stars (a.k.a. The Flight Before Christmas) (Niko - Lentäjän poika) (2008),Adventure|Animation|Children|Drama|Fantasy
+62999,Madagascar: Escape 2 Africa (2008),Action|Adventure|Animation|Children|Comedy|IMAX
+63237,Happily Ever After (1993),Animation|Children|Comedy|Musical
+63239,Cinderella (1997),Children|Fantasy|Musical|Romance
+63329,Christmas Story (Joulutarina) (2007),Children|Drama|Fantasy
+63540,Beverly Hills Chihuahua (2008),Adventure|Children|Comedy
+63859,Bolt (2008),Action|Adventure|Animation|Children|Comedy
+64288,Ace of Hearts (2008),Children|Drama
+65088,Bedtime Stories (2008),Adventure|Children|Comedy
+65261,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy
+65435,Open Season 2 (2008),Adventure|Animation|Children|Comedy
+65577,"Tale of Despereaux, The (2008)",Adventure|Animation|Children|Comedy|Fantasy
+66304,Hotel for Dogs (2009),Adventure|Children|Comedy
+66915,Rock-A-Doodle (1991),Adventure|Animation|Children|Musical
+67845,My Friend Henry (Ystäväni Henry) (2004),Children|Drama
+68954,Up (2009),Adventure|Animation|Children|Drama
+69072,The Winslow Boy (1948),Children|Crime|Drama
+69227,Ernest Rides Again (1993),Children|Comedy
+69644,Ice Age: Dawn of the Dinosaurs (2009),Action|Adventure|Animation|Children|Comedy|Romance
+69689,Resan Till Melonia (1989),Adventure|Animation|Children|Fantasy
+69873,"Corridors of Time: The Visitors II, The (Couloirs du temps: Les visiteurs 2, Les) (1998)",Children|Comedy|Fantasy|Sci-Fi
+69928,"Muppet Musicians of Bremen, The (1972)",Children|Comedy|Musical
+70282,Aliens in the Attic (2009),Adventure|Children|Fantasy|Sci-Fi
+70305,Race to Witch Mountain (2009),Adventure|Children|Fantasy|Sci-Fi|Thriller
+70517,Army Brats (Schatjes!) (1984),Children|Comedy
+70697,G-Force (2009),Action|Adventure|Children|Fantasy
+71264,Cloudy with a Chance of Meatballs (2009),Animation|Children|Fantasy|IMAX
+71745,Where the Wild Things Are (2009),Adventure|Children|Drama|Fantasy|IMAX
+71821,Shorts (2009),Children
+72209,Astro Boy (2009),Action|Animation|Children|Sci-Fi
+72226,Fantastic Mr. Fox (2009),Adventure|Animation|Children|Comedy|Crime
+72294,"Christmas Carol, A (2009)",Animation|Children|Drama|Fantasy|IMAX
+72356,Partly Cloudy (2009),Animation|Children|Comedy|Fantasy
+72618,Summer of the Monkeys (1998),Children|Drama
+72701,Planet 51 (2009),Adventure|Animation|Children|Comedy|Sci-Fi
+72737,"Princess and the Frog, The (2009)",Animation|Children|Fantasy|Musical|Romance
+73042,Alvin and the Chipmunks: The Squeakquel (2009),Animation|Children|Comedy|Musical
+73462,Ernest Goes to School (1994),Children|Comedy|Drama
+73664,Dragon Hunters (Chasseurs de dragons) (2008),Adventure|Animation|Children
+73804,Asterix at the Olympic Games (Astérix aux jeux olympiques) (2008),Adventure|Children|Comedy|Fantasy
+73854,"Rudolph, the Red-Nosed Reindeer (1964)",Adventure|Animation|Children|Fantasy|Musical
+73879,Motocrossed (2001),Action|Children|Comedy|Romance
+74089,Peter Pan (1960),Children|Fantasy|Musical
+74580,"Spy Next Door, The (2010)",Action|Children|Comedy
+74630,Tom Thumb (1958),Children|Fantasy|Musical
+76093,How to Train Your Dragon (2010),Adventure|Animation|Children|Fantasy|IMAX
+76108,Tom and Jerry: The Movie (1992),Animation|Children|Comedy
+77206,Diary of a Wimpy Kid (2010),Children|Comedy
+77264,Ballet Shoes (2007),Children|Drama
+77820,Furry Vengeance (2010),Children|Comedy
+78009,Donkey Skin (Peau d'âne) (1970),Children|Drama|Fantasy|Musical|Romance
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX
+78637,Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX
+78991,Slam Dunk Ernest (1995),Children|Comedy
+79091,Despicable Me (2010),Animation|Children|Comedy|Crime
+79139,"Sorcerer's Apprentice, The (2010)",Action|Adventure|Children|Comedy|Fantasy
+79224,"Karate Kid, The (2010)",Action|Children|Drama
+79287,"Wizard of Oz, The (1925)",Adventure|Children|Comedy|Fantasy
+79463,Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang) (2010),Children|Comedy|Fantasy
+79533,"Bugs Bunny / Road Runner Movie, The (a.k.a. The Great American Chase) (1979)",Animation|Children|Comedy
+79572,Ramona and Beezus (2010),Children|Comedy
+80141,"Christmas Toy, The (1986)",Children|Musical
+80160,"Flintstone Kids' Just Say No Special, The (1988)",Animation|Children
+80442,Freedom Park (2004),Children|Comedy
+80617,Cats & Dogs: The Revenge of Kitty Galore (2010),Action|Children|Comedy
+80748,Alice in Wonderland (1933),Adventure|Children|Fantasy
+80950,"Private War of Major Benson, The (1955)",Children|Comedy|Romance
+81564,Megamind (2010),Action|Animation|Children|Comedy|Sci-Fi|IMAX
+81847,Tangled (2010),Animation|Children|Comedy|Fantasy|Musical|Romance|IMAX
+82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",Adventure|Children|Fantasy
+82395,Saving Shiloh (2006),Children|Drama
+82722,"Sarah, Plain and Tall (1991)",Children|Drama
+83049,Toothless (1997),Children|Comedy
+83115,"Polar Bear King, The (Kvitebjørn Kong Valemon) (1991)",Adventure|Children|Fantasy
+83132,"Secret World of Arrietty, The (Kari-gurashi no Arietti) (2010)",Animation|Children|Fantasy
+83177,Yogi Bear (2010),Children|Comedy
+83803,Day & Night (2010),Animation|Children
+84312,Home Alone 4 (2002),Children|Comedy|Crime
+84637,Gnomeo & Juliet (2011),Adventure|Animation|Children|Comedy|Fantasy|Romance
+84944,Rango (2011),Action|Adventure|Animation|Children|Comedy|Western
+85259,Winnie the Pooh and the Honey Tree (1966),Animation|Children
+85261,Mars Needs Moms (2011),Action|Adventure|Animation|Children|Comedy|Sci-Fi|IMAX
+85295,Scooby-Doo! Curse of the Lake Monster (2010),Adventure|Children|Comedy|Mystery
+85316,Winnie the Pooh and Tigger Too (1974),Animation|Children
+85585,Winnie the Pooh and a Day for Eeyore (1983),Animation|Children
+86059,Hop (2011),Animation|Children|Comedy
+86091,"Nutcracker, The (1993)",Children|Fantasy|Musical
+86286,Daffy Duck's Quackbusters (1988),Animation|Children|Comedy|Horror
+86298,Rio (2011),Adventure|Animation|Children|Comedy
+86412,That's What I Am (2011),Children|Comedy
+86846,Eye of the Dolphin (2006),Children|Drama
+87105,Open Season 3 (2010),Animation|Children|Comedy
+87222,Kung Fu Panda 2 (2011),Action|Adventure|Animation|Children|Comedy|IMAX
+87383,Curly Top (1935),Children|Musical|Romance
+87568,Judy Moody and the Not Bummer Summer (2011),Children|Comedy
+87691,Pelicanman (Pelikaanimies) (2004),Adventure|Children|Fantasy
+87876,Cars 2 (2011),Adventure|Animation|Children|Comedy|IMAX
+88071,Ballerina (La mort du cygne) (1937),Children|Drama|Romance
+88267,Winnie the Pooh (2011),Animation|Children|Comedy
+88356,"Smurfs, The (2011)",Animation|Children|Comedy
+88468,Alpha and Omega (2010),Adventure|Animation|Children|Comedy|Romance
+88756,Christmas Carol: The Movie (2001),Animation|Children
+88801,"Yearling, The (1994)",Adventure|Children|Drama
+89002,Spy Kids: All the Time in the World in 4D (2011),Action|Adventure|Children|Comedy|Sci-Fi
+89881,Superman and the Mole-Men (1951),Children|Mystery|Sci-Fi
+89973,Here Comes Peter Cottontail (1971),Animation|Children|Musical
+90262,"Enchanted World of Danny Kaye: The Emperor's New Clothes, The (1972)",Animation|Children|Musical
+90264,Pinocchio (1976),Children|Fantasy|Musical
+90866,Hugo (2011),Children|Drama|Mystery
+90958,Daffy Duck's Movie: Fantastic Island (1983),Animation|Children|Comedy
+91094,"Muppets, The (2011)",Children|Comedy|Musical
+91266,Another Cinderella Story (2008),Children|Comedy|Musical|Romance
+91286,"Little Colonel, The (1935)",Children|Comedy|Crime|Drama
+91302,"Tree, The (2010)",Children|Drama
+91335,"Gruffalo, The (2009)",Adventure|Animation|Children|Comedy|Drama
+91339,"12 Dogs of Christmas, The (2005)",Children
+91351,Asterix and the Big Fight (Astérix et le coup du menhir) (1989),Adventure|Animation|Children|Comedy
+91353,Asterix in America (a.k.a Asterix Conquers America) (Astérix et les Indiens) (1994),Adventure|Animation|Children|Comedy
+91355,Asterix and the Vikings (Astérix et les Vikings) (2006),Adventure|Animation|Children|Comedy|Fantasy
+91386,Happy Feet Two (2011),Animation|Children|Comedy|IMAX
+91414,Arthur Christmas (2011),Animation|Children|Comedy|Drama
+91488,"Snowman, The (1982)",Animation|Children|Musical
+91821,"Muppet Family Christmas, A (1987)",Children|Comedy|Musical
+91823,Kung Fu Panda Holiday Special (2010),Animation|Children|Comedy
+91886,Dolphin Tale (2011),Children|Drama
+91919,Mr. Bug Goes to Town (1941),Animation|Children|Comedy|Fantasy|Musical
+91960,"Magic Christmas Tree, The (1964)",Children|Comedy|Fantasy
+92348,Puss in Boots (Nagagutsu o haita neko) (1969),Adventure|Animation|Children|Comedy|Fantasy|Romance
+92643,Monsieur Lazhar (2011),Children|Comedy|Drama
+92730,Rollo and the Woods Sprite (Rölli ja metsänhenki) (2001),Children|Fantasy
+92793,Rusalochka (The Little Mermaid) (1976),Children|Fantasy|Musical|Romance
+92852,Ricky Rapper and the Bicycle Thief (Risto Räppääjä ja polkupyörävaras) (2009),Children|Comedy|Musical
+92944,"Monster in Paris, A (Un monstre à Paris) (2011)",Adventure|Animation|Children
+93208,Mickey's The Prince and the Pauper (1990),Animation|Children
+94005,"Ballad of Nessie, The (2011)",Animation|Children
+94833,"Pirates! Band of Misfits, The (2012)",Adventure|Animation|Children|Comedy
+94893,Letters to God (2010),Children|Drama
+94978,I Wish (Kiseki) (2011),Children|Drama
+95105,Madagascar 3: Europe's Most Wanted (2012),Adventure|Animation|Children|Comedy|IMAX
+95167,Brave (2012),Action|Adventure|Animation|Children
+95311,Presto (2008),Animation|Children|Comedy|Fantasy
+95375,Boundin' (2003),Animation|Children
+95654,Geri's Game (1997),Animation|Children
+95756,"Cat in the Hat, The (1971)",Animation|Children
+95856,Knick Knack (1989),Animation|Children
+95858,For the Birds (2000),Animation|Children|Comedy
+96052,"Tortoise and the Hare, The (1935)",Animation|Children|Comedy
+96283,Diary of a Wimpy Kid: Dog Days (2012),Children|Comedy
+96621,Arthur and the Revenge of Maltazard (Arthur et la vengeance de Maltazard) (2009),Animation|Children|Fantasy
+96960,Tobor the Great (1954),Children|Sci-Fi
+97225,Hotel Transylvania (2012),Animation|Children|Comedy
+97390,Marley & Me: The Puppy Years (2011),Children|Comedy
+97730,"Feast at Midnight, A (1994)",Children|Comedy|Drama
+97732,Tom & Thomas (2002),Adventure|Children
+98061,Himizu (2011),Children|Crime|Drama
+98241,Starry starry night (Xing kong) (2011),Children|Drama|Fantasy
+98243,Rise of the Guardians (2012),Adventure|Animation|Children|Fantasy|IMAX
+98441,Rebecca of Sunnybrook Farm (1938),Children|Comedy|Drama|Musical
+98458,Baby Take a Bow (1934),Children|Comedy|Drama
+98511,Kirikou and the Wild Beast (Kirikou et les bêtes sauvages) (2005),Adventure|Animation|Children
+98552,Nativity! (2009),Children|Comedy|Musical
+100490,Living Free (1972),Adventure|Children|Drama
+101170,"Borrowers, The (2011)",Adventure|Children|Fantasy
+101534,For the Love of a Dog (2008),Children
+101536,Alabama Moon (2009),Adventure|Children|Drama
+101581,Angel Dog (2011),Children|Drama
+101670,'Twas the Night Before Christmas (1974),Animation|Children|Fantasy
+102025,Yongary: Monster from the Deep (1967),Children|Horror|Sci-Fi
+102115,Prinsessa Ruusunen (1949),Children|Fantasy|Romance
+102794,After School Midnighters (Hôkago middonaitâzu) (2012),Action|Animation|Children|Comedy|Fantasy
+103120,Beverly Hills Chihuahua 3 (2012),Adventure|Children|Comedy
+103335,Despicable Me 2 (2013),Animation|Children|Comedy|IMAX
+103755,Turbo (2013),Adventure|Animation|Children|Comedy|Fantasy
+104000,And You Thought Your Parents Were Weird (1991),Children|Comedy|Sci-Fi
+104050,Phantom of the Megaplex (2000),Action|Children|Comedy|Mystery
+104074,Percy Jackson: Sea of Monsters (2013),Adventure|Children|Fantasy
+104076,"Smurfs 2, The (2013)",Animation|Children|Comedy
+104097,My Little Pony: Equestria Girls (2013),Animation|Children|Fantasy
+105217,Adventures in Zambezia (2012),Adventure|Animation|Children|Comedy
+105465,Alice's Adventures in Wonderland (1972),Adventure|Children|Fantasy|Musical
+105468,Cloudy with a Chance of Meatballs 2 (2013),Animation|Children|Comedy|Fantasy
+105928,"Day of the Crows, The (Le jour des corneilles) (2012)",Animation|Children|Comedy|Fantasy
+106022,Toy Story of Terror (2013),Animation|Children|Comedy
+106240,Free Birds (2013),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+106286,Bailey's Billion$ (Bailey's Billions) (Bailey) (2005),Children|Comedy
+106441,"Book Thief, The (2013)",Children|Drama|War
+106887,True Heart (1997),Adventure|Children|Drama
+106986,"Life and Adventures of Santa Claus, The (1985)",Animation|Children
+107217,The Nutcracker in 3D (2009),Action|Children|Fantasy|Musical
+107546,Everything Happens to Me (a.k.a. Why Did You Pick on Me?) (Chissà perché... capitano tutte a me) (1980),Children|Comedy|Sci-Fi
+107563,"Princess for Christmas, A (2011)",Children|Comedy
+107658,Mio in the Land of Faraway (Mio min Mio) (1987),Adventure|Children|Drama|Fantasy|Mystery
+107776,Across the Great Divide (1976),Adventure|Children|Western
+107865,"Glass-blower's Children, The (Glasblåsarns barn) (1998)",Children|Drama
+108237,HOUBA! On the Trail of the Marsupilami (Sur la piste du Marsupilami) (2012),Adventure|Children|Comedy|IMAX
+108825,"Young and Prodigious T.S. Spivet, The (L'extravagant voyage du jeune et prodigieux T.S. Spivet) (2013)",Adventure|Children|Drama
+108879,Teen Beach Movie (2013),Children|Musical
+108901,"I, Cesar (Moi César, 10 ans 1/2, 1m39) (2003)",Children|Comedy
+108932,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy
+109102,"Little Brother, Big Trouble: A Christmas Adventure (Niko 2: Lentäjäveljekset) (2012)",Adventure|Animation|Children|Comedy
+109104,Quest for a Heart (Röllin sydän) (2007),Adventure|Animation|Children|Fantasy|Musical
+109364,"King and the Mockingbird, The (Le roi et l'oiseau) (1980)",Animation|Children|Fantasy
+109420,Mater and the Ghostlight (2006),Animation|Children|Comedy
+109425,Dug's Special Mission (2009),Animation|Children|Comedy
+109733,Captain EO (1986),Adventure|Children|Comedy|Musical|Sci-Fi
+109783,"Trouble at Timpetill (Enfants de Timpelbach, Les) (2008)",Adventure|Children|Fantasy
+109953,"Cat Concerto, The (1947)",Animation|Children|Comedy
+109993,George & A.J. (2009),Animation|Children|Comedy
+110130,"Nut Job, The (2014)",Adventure|Animation|Children|Comedy
+110229,George and the Dragon (2004),Action|Adventure|Children|Comedy|Fantasy
+110461,We Are the Best! (Vi är bäst!) (2013),Children|Comedy|Drama
+110635,Beauty and the Beast (1962),Children|Fantasy|Horror|Romance
+110655,Rio 2 (2014),Adventure|Animation|Children|Comedy
+110921,Anne of Green Gables (1934),Children|Comedy|Drama
+111439,Legends of Oz: Dorothy's Return (2014),Animation|Children|Musical
+111659,Maleficent (2014),Action|Adventure|Children|IMAX
+111766,"Pied Piper, The (Pied Piper of Hamelin, The) (1972)",Children|Drama|Fantasy|Musical
+113033,Rasmus på luffen (1981),Children
+113060,Call of the Wild (Call of the Wild 3D) (2009),Adventure|Children|Drama
+113071,Earth to Echo (2014),Adventure|Children|Sci-Fi
+113497,Antboy (2013),Adventure|Children|Comedy
+113549,Captain Nemo and the Underwater City (1969),Adventure|Children|Fantasy|Sci-Fi
+113991,Care Bears to the Rescue (Care Bears: To the Rescue Movie) (2010),Adventure|Animation|Children|Fantasy
+114240,Aladdin (1992),Adventure|Animation|Children|Comedy|Fantasy
+114552,"Boxtrolls, The (2014)",Adventure|Animation|Children|Comedy|Fantasy
+114717,Meg of June Hill (Madicken på Junibacken) (1980),Children
+114721,Bugs Bunny's 3rd Movie: 1001 Rabbit Tales (1982),Adventure|Animation|Children|Comedy
+114958,Moomins on the Riviera (Muumit Rivieralla) (2014),Animation|Children|Comedy
+115038,"Silent One, The (1985)",Adventure|Children|Drama
+115040,"Children of Noisy Village, The (a.k.a Children of Bullerby Village, The) (Alla vi barn i Bullerbyn) (1986)",Children
+115042,More About the Children of Noisy Village (a.k.a. More About the Children of Bullerby Village) (Mer om oss barn i Bullerbyn) (1987),Children
+115075,"Swan Princess: Escape from Castle Mountain, The (1997)",Animation|Children|Fantasy|Romance
+115139,Challenge to Lassie (1949),Children|Drama
+115238,"Jungo Goes Bananas: Jungo III (Jungledyret Hugo: Fræk, flabet og fri) (2007)",Adventure|Animation|Children
+115277,Donkey Hide (Oslinaya shkura) (1982),Children|Comedy|Fantasy|Romance
+115279,That Kiljunen Family (Kiljusen herrasväki) (1981),Children|Comedy|Musical
+115309,"Swan Princess: The Mystery of the Enchanted Treasure, The (1998)",Animation|Children|Fantasy|Mystery
+115364,"Jungle Creature: Hugo, The (Jungledyret) (Go Hugo Go) (1993)",Animation|Children|Musical|Romance
+115558,Amazon Jack 2: The Movie Star (a.k.a. Hugo the Movie Star) (Jungledyret 2 - den store filmhelt) (1996),Animation|Children|Musical|Romance
+115560,Hur gick det sen? (1995),Animation|Children
+115562,Tiny Heroes (Vacak 2 - az erdõ hõse) (1997),Animation|Children|Musical
+115607,"Seventh Brother, The (A hetedik testvér) (1995)",Animation|Children
+115611,Felix the Cat: The Movie (1988),Adventure|Animation|Children|Fantasy|Musical|Sci-Fi
+115687,Mad Monster Party? (1967),Children|Comedy|Horror
+115875,Toy Story Toons: Hawaiian Vacation (2011),Adventure|Animation|Children|Comedy|Fantasy
+115879,Toy Story Toons: Small Fry (2011),Adventure|Animation|Children|Comedy|Fantasy
+115911,"Prodigy, The (2005)",Action|Children|Drama|Mystery|Thriller
+115925,Solan og Ludvig: Jul i Flåklypa (2013),Animation|Children
+115927,Doctor Strange (2007),Action|Animation|Children|Fantasy|Sci-Fi
+115929,Barbie: A Perfect Christmas (2011),Animation|Children
+115931,LEGO Hero Factory: Savage Planet (2011),Action|Adventure|Animation|Children|Sci-Fi
+115933,LEGO Hero Factory: Rise of the Rookies (2010),Action|Children
+115935,Tom Sawyer (2000),Adventure|Animation|Children
+115939,Joulupukki ja noitarumpu (1996),Animation|Children
+115941,The Land Before Time IV: Journey Through the Mists (1996),Adventure|Animation|Children
+115943,The Land Before Time V: The Mysterious Island (1997),Adventure|Animation|Children
+115945,The Land Before Time VI: The Secret of Saurus Rock (1998),Animation|Children
+115949,An American Tail: The Mystery of the Night Monster (1999),Adventure|Animation|Children|Fantasy|Mystery|Sci-Fi
+115981,Soccer Dog 2: European Cup (2004),Children
+116213,Walking With Dinosaurs (2013),Adventure|Animation|Children
+116217,Secret of the Wings (2012),Adventure|Animation|Children|Fantasy
+116219,Tinker Bell and the Lost Treasure (2009),Adventure|Animation|Children|Fantasy
+116235,Confidentially Connie (1953),Children|Comedy
+116251,Cool Dog (2011),Children
+116253,IMAX: Coral Reef Adventure (2003),Children|Documentary|IMAX
+116259,Courage of Lassie (1946),Adventure|Children|Drama
+116265,Cowgirls n' Angels (2012),Children|Drama
+116345,Dakota's Summer (2014),Children
+116427,Air Raid Wardens (1943),Children|Comedy
+116461,How the Toys Saved Christmas (1996),Animation|Children
+116495,52 Tuesdays (2014),Children|Drama
+116499,The True Story of Puss 'n Boots (2009),Adventure|Animation|Children
+116566,Tommy and the Cool Mule (2009),Children|Comedy
+116700,Elle: A Modern Cinderella Tale (2011),Children|Drama|Fantasy|Sci-Fi
+116835,Samson & Sally (1984),Animation|Children|Romance
+116837,The Little Fox (1981),Adventure|Animation|Children
+116903,Head Over Heels (2012),Animation|Children|Comedy|Romance
+116941,Jetsons: The Movie (1990),Animation|Children|Comedy|Musical|Sci-Fi
+116953,Magic Camp (2012),Children|Documentary
+116979,The Legend of Sarila (2013),Adventure|Animation|Children
+117158,"Nono, the Zigzag Kid (2012)",Adventure|Children|Drama
+117166,Liar's Dice (2014),Adventure|Children|Drama
+117194,Dolphin Tale 2 (2014),Children|Drama
+117418,Victor and the Secret of Crocodile Mansion (2012),Adventure|Children|Mystery
+117420,The Boy Who Cried Werewolf (2010),Children|Horror
+117442,The Monkey King (2014),Action|Adventure|Children|IMAX
+117444,Song of the Sea (2014),Animation|Children|Fantasy
+117454,The Magic Crystal (2011),Adventure|Animation|Children|Comedy|Fantasy
+117480,The Care Bears Adventure in Wonderland (1987),Animation|Children|Comedy
+117486,A Connecticut Yankee in King Arthur's Court (1989),Adventure|Children|Comedy|Fantasy
+117498,Fandry (2013),Children|Drama
+117502,Black Beauty (1946),Children|Drama|Romance
+117584,The Boy in the Mirror (2014),Adventure|Children|Drama|Fantasy
+117636,Dr. Dolittle: Million Dollar Mutts (2009),Children|Comedy|Fantasy
+117638,Dr. Dolittle: Tail to the Chief (2008),Children|Comedy|Fantasy
+117720,Nutcracker: The Motion Picture (1986),Children|Fantasy
+117851,Penguins of Madagascar (2014),Adventure|Animation|Children|Comedy
+117885,Grumpy Cat's Worst Christmas Ever (2014),Adventure|Children|Comedy
+117887,Paddington (2014),Children|Comedy
+117913,Scooby-Doo! Frankencreepy (2014),Adventure|Animation|Children|Mystery
+117922,Ice Age: A Mammoth Christmas (2011),Adventure|Animation|Children
+117989,The Story of Robin Hood and His Merrie Men (1952),Action|Adventure|Children
+117997,The Sword and the Rose (1953),Adventure|Children|Drama
+117999,"Rob Roy, The Highland Rogue (1954)",Adventure|Children|Drama|War
+118085,"Welcome, or No Trespassing (1964)",Children|Comedy
+118097,Nativity 2: Danger in the Manger! (2012),Children|Comedy
+118193,Hand in Hand (1961),Children|Drama
+118300,Home Alone: The Holiday Heist (2012),Children|Comedy|Crime
+118496,A Cinderella Story: Once Upon a Song (2011),Children|Comedy|Romance
+118684,Jingle All the Way 2 (2014),Children|Comedy
+118876,Khumba (2013),Adventure|Animation|Children
+118894,Scooby-Doo! Abracadabra-Doo (2010),Animation|Children|Mystery
+118997,Into the Woods (2014),Children|Comedy|Fantasy|Musical
+119135,Momo (2001),Animation|Children|Fantasy
+119147,Holidaze (2013),Children|Drama|Romance
+119155,Night at the Museum: Secret of the Tomb (2014),Adventure|Children|Comedy|Fantasy
+119157,The Nativity (1978),Children|Drama
+119305,The Nutcracker Prince (1990),Adventure|Animation|Children|Fantasy
+119318,Listen Darling (1938),Children|Comedy|Drama|Musical|Romance
+119456,Bugs Bunny's Looney Christmas Tales (1979),Animation|Children
+119563,12 Dates of Christmas (2011),Children|Comedy|Fantasy|Romance
+119569,Quatsch und die Nasenbärbande (2014),Children
+119653,Stormheart (2008),Children|Drama
+119655,Seventh Son (2014),Adventure|Children|Fantasy
+119701,Let It Snow (2013),Children|Drama|Romance
+119776,Father is a Bachelor (1950),Children|Comedy
+119782,FernGully 2: The Magical Rescue (1998),Adventure|Animation|Children|Fantasy
+119802,Miss Minoes (2001),Children|Comedy|Fantasy
+119804,Crazy for Christmas (2005),Children
+119929,Back to School with Franklin (2003),Animation|Children
+119977,Santa Claus (1959),Children|Fantasy
+120098,First Dog (2010),Children
+120102,Fishtales (2008),Children|Fantasy
+120132,Annie (2014),Children|Comedy|Drama|Musical
+120212,Flipper's New Adventure (1964),Adventure|Children|Drama
+120218,Flying By (2009),Children|Drama
+120222,Foodfight! (2012),Action|Animation|Children|Comedy
+120311,Drishyam (2013),Children|Drama|Thriller
+120317,Thunderpants (2002),Children|Comedy|Sci-Fi
+120416,Fuchsia the Mini-Witch (2010),Children
+120438,Garfield Gets Real (2007),Animation|Children|Comedy
+120440,Garfield's Fun Fest (2008),Animation|Children|Comedy|Fantasy
+120468,Toy Story Toons: Partysaurus Rex (2012),Animation|Children|Comedy
+120470,The Legend of Mor'du (2012),Animation|Children
+120474,Toy Story That Time Forgot (2014),Animation|Children
+120488,The Call of the Wild (1972),Adventure|Children
+120600,Gypsy Colt (1954),Children|Drama|Western
+120608,Zebra in the Kitchen (1965),Children|Comedy
+120765,Tru Confessions (2002),Children|Comedy|Drama
+120781,Nocturna (2007),Adventure|Animation|Children|Fantasy|Mystery
+120948,"Pancho, the Millionaire Dog (2014)",Children|Comedy
+120950,The Reef 2: High Tide (2012),Animation|Children|Musical
+121007,Space Buddies (2009),Adventure|Children|Fantasy|Sci-Fi
+121097,To Grandmother's House We Go (1992),Adventure|Children|Comedy
+121099,101 Dalmatians II: Patch's London Adventure (2003),Animation|Children
+121115,Tarzan (2013),Adventure|Animation|Children|Drama
+121139,How the West Was Fun (1994),Children|Western
+121148,The Fox & the Child (2007),Adventure|Children|Drama
+121157,"Tad, the Lost Explorer (2012)",Adventure|Animation|Children|Comedy
+121190,When in Rome (2002),Children|Comedy
+121243,Touchback (2011),Children|Drama|Fantasy
+121249,The Magical Legend of the Leprechauns (1999),Adventure|Children|Comedy|Fantasy|Romance
+121251,Thunderstruck (2012),Children|Comedy
+121279,Little Lord Fauntleroy (1980),Children|Drama|Romance
+121324,Dot and the Whale (1986),Animation|Children
+121336,Big City (2007),Adventure|Children|Western
+121352,Never a Dull Moment (1968),Children|Comedy|Crime
+121366,Get a Horse! (2013),Animation|Children|Comedy
+121409,Christmas Every Day (1996),Children|Comedy|Fantasy
+121451,Will (2012),Children|Drama
+121457,Switching Goals (1999),Children|Comedy
+121596,Born to Fight (2011),Action|Children|Drama
+121679,Whiskers (1997),Children|Comedy|Fantasy
+121775,Kim (1984),Adventure|Children|Drama
+121781,Stuart Little 3: Call of the Wild (2005),Animation|Children|Comedy|Fantasy
+121792,Snow Queen (2002),Adventure|Children|Fantasy
+121825,Witch's Night Out (1978),Animation|Children
+121923,Rising Stars (2010),Children|Drama
+121985,Princess and the Pony (2011),Children|Drama
+122033,Her Best Move (2007),Children|Comedy|Romance
+122039,Snow Buddies (2008),Adventure|Children
+122043,The Haunting Hour: Don't Think About It (2007),Children|Fantasy|Horror|Thriller
+122129,Scooby-Doo! Camp Scare (2010),Adventure|Animation|Children|Comedy|Mystery
+122133,"Hey There, It's Yogi Bear (1964)",Adventure|Animation|Children|Comedy|Romance
+122189,The Sun Comes Up (1949),Children|Drama
+122205,In His Father's Shoes (1997),Children|Drama
+122240,Mister Magoo's Christmas Carol (1962),Animation|Children|Comedy|Drama|Fantasy|Musical
+122246,Tooth Fairy 2 (2012),Children|Comedy
+122300,The Land Before Time VII: The Stone of Cold Fire (2000),Adventure|Animation|Children|Fantasy
+122312,Oliver Twist (1997),Children|Crime|Drama
+122317,Soccer Dog: The Movie (1999),Children|Comedy
+122335,The Land Before Time IX: Journey to the Big Water (2002),Adventure|Animation|Children
+122357,The Canterville Ghost (1996),Children|Drama|Fantasy
+122361,Primates of the Caribbean (2012),Animation|Children|Comedy
+122409,Two Times Lotte (1950),Children|Comedy
+122413,The Land Before Time VIII: The Big Freeze (2001),Adventure|Animation|Children
+122425,The Land Before Time X: The Great Longneck Migration (2003),Adventure|Animation|Children
+122472,The Karate Dog (2004),Action|Adventure|Children|Comedy|Crime
+122505,Trading Mom (1994),Children|Comedy
+122511,Air Bud: Seventh Inning Fetch (2002),Children|Comedy|Drama
+122513,Chestnut: Hero of Central Park (2004),Children
+122517,Air Buddies (2006),Children|Comedy|Sci-Fi
+122519,The Search for Santa Paws (2010),Adventure|Children
+122521,Spooky Buddies (2011),Children|Comedy
+122523,Treasure Buddies (2012),Children|Comedy
+122525,Santa Paws 2: The Santa Pups (2012),Children
+122527,Super Buddies (2013),Children
+122541,The Duke (1999),Children
+122559,Popstar (2005),Children|Comedy|Romance
+122561,Miracle Dogs Too (2006),Children|Drama
+122651,The Rainbow Tribe (2011),Children|Drama
+122699,The Little Rascals Save the Day (2014),Children|Comedy
+122739,Mostly Ghostly (2008),Children
+122762,My Brother the Pig (1999),Children|Comedy|Fantasy|Sci-Fi
+122764,Napoleon (1995),Adventure|Children
+122770,Jack Frost (1979),Children
+122807,Just 4 Kicks (2003),Children
+122813,Space Chimps 2: Zartog Strikes Back (2010),Animation|Children
+122821,The Bad Mother's Handbook (2007),Children|Comedy|Drama|Romance
+122843,Red Riding Hood (1989),Adventure|Children|Fantasy
+122932,Elsa & Fred (2014),Children|Comedy|Romance
+122982,Magic Boy (1961),Adventure|Animation|Children
+123008,Heidi (1952),Children|Drama
+123079,The Newcomers (2000),Children|Drama
+123083,Heidi (1993),Children
+123093,Happily N'Ever After 2 (2009),Animation|Children
+123109,P.U.N.K.S (1999),Children|Comedy|Sci-Fi
+123123,Magic Kid II (1994),Action|Children|Comedy
+123129,Magic Kid (1993),Action|Children|Comedy
+123155,Russkies (1987),Children|Drama
+123176,Shredderman Rules (2007),Action|Adventure|Children|Comedy
+123184,The Secret Agent Club (1996),Action|Children|Comedy
+123192,The Land Before Time XI: Invasion of the Tinysauruses (2005),Animation|Children|Fantasy|Sci-Fi
+123284,The Ballad of Lucy Whipple (2001),Children|Drama|Western
+123304,Scrooge (1935),Action|Children|Comedy|Drama|Fantasy
+123320,Red Riding Hood (2006),Children|Horror
+123405,Tales from Muppetland: The Frog Prince (1971),Children|Fantasy
+123423,Return to Nim's Island (2013),Adventure|Children
+123465,The Derby Stallion (2005),Children|Drama
+123477,The Land Before Time XII: The Great Day of the Flyers (2006),Animation|Children|Sci-Fi
+123639,Skylark (1993),Children|Drama
+123864,Two Bits & Pepper (1995),Adventure|Children|Comedy
+123876,The Happy Elf (2005),Animation|Children|Comedy
+123882,Snow in August (2001),Children|Drama
+124048,Alice in Wonderland (1966),Children|Fantasy|Sci-Fi
+124093,Little Nellie Kelly (1940),Children|Comedy
+124139,Mayor Cupcake (2011),Children|Comedy|Drama
+124151,Vampire Dog (2012),Children
+124279,SeaFood (2012),Adventure|Animation|Children|Comedy
+124292,The Jackie Robinson Story (1950),Children|Drama
+124302,Kermit's Swamp Years (2002),Children|Comedy|Fantasy
+124324,Race to Space (2002),Children|Drama
+124348,The Land Before Time XIII: The Wisdom of Friends (2007),Animation|Children
+124356,The Missing Lynx (2008),Animation|Children
+124404,"Snowflake, the White Gorilla (2011)",Adventure|Animation|Children|Comedy
+124456,Simple Things (2007),Children|Drama
+124458,Hansel and Gretel (1982),Children
+124507,Journey to the Center of the Earth (1989),Action|Children|Fantasy|Sci-Fi
+124519,Snow White and the Three Stooges (1961),Adventure|Children|Comedy|Drama|Fantasy
+124575,The Wind in the Willows (1983),Adventure|Animation|Children|Fantasy
+124763,Hills of Home (1948),Action|Adventure|Children|Drama
+124823,Summer's End (2000),Children|Drama
+124919,The Wind in the Willows (1995),Adventure|Animation|Children|Comedy
+124927,Toys in the Attic (2009),Animation|Children|Fantasy|Thriller
+124951,Heidi (1968),Children|Drama
+124983,Impy's Island (2006),Animation|Children|Fantasy
+124987,Snow White (1987),Children
+124995,The Newest City in the World (1974),Children|Drama
+125135,Unstable Fables: Tortoise vs. Hare (2008),Animation|Children|Drama
+125245,The Great Rupert (1950),Children|Comedy
+125287,Heidi (2005),Children|Drama
+125289,Unstable Fables: 3 Pigs & a Baby (2008),Animation|Children
+125337,The Lovers (1994),Children|Drama|Fantasy|Romance
+125401,Hansel and Gretel (1987),Children|Fantasy
+125453,Space Warriors (2013),Adventure|Children|Sci-Fi
+125475,The Painted Hills (1951),Action|Adventure|Children|Drama
+125489,The River Rat (1984),Adventure|Children|Crime|Drama
+125493,Le petit poucet (2001),Adventure|Children|Fantasy
+125541,Anina (2013),Adventure|Animation|Children
+125596,Parade (1974),Children|Comedy
+125661,Paper Planes (2014),Children
+125836,Those Calloways (1965),Children|Drama
+125902,Seven Alone (1974),Children|Drama
+125932,The Fox and the Hare (1973),Animation|Children
+125952,"I Want a Dog for Christmas, Charlie Brown (2003)",Animation|Children|Comedy
+125962,Charlie Brown's Christmas Tales (2002),Animation|Children|Comedy
+125966,Garfield's Halloween Adventure (1985),Animation|Children
+125970,Halloweentown (1998),Adventure|Children|Comedy|Fantasy
+125972,Halloweentown II: Kalabar's Revenge (2001),Adventure|Children|Comedy|Drama|Fantasy
+125974,Halloweentown High (2004),Adventure|Children|Comedy|Fantasy
+125992,The Butter Battle Book (1989),Animation|Children
+125998,Halloween is Grinch Night (1977),Animation|Children
+126006,Rudolph the Red-Nosed Reindeer (1948),Animation|Children|Fantasy
+126016,The Dot and the Line : A Romance in Lower Mathematics (1965),Animation|Children|Comedy
+126036,Barbie: A Fashion Fairytale (2010),Animation|Children
+126038,The Halloween That Almost Wasn't (1979),Children|Comedy
+126066,Broom-Stick Bunny (1956),Animation|Children|Comedy
+126088,A Flintstones Christmas Carol (1994),Animation|Children|Comedy
+126112,The Great Bear (2011),Adventure|Animation|Children|Fantasy
+126142,The Cave of the Golden Rose (1991),Adventure|Children|Fantasy
+126178,Opposite Day (2009),Children|Comedy
+126184,The Christmas Wish (1998),Children|Drama|Romance
+126335,The Skateboard Kid II (1995),Children|Fantasy
+126397,The Encounter (2010),Children|Drama
+126482,Strange Magic (2015),Animation|Children|Fantasy|Musical
+126544,The Flying Machine (2011),Adventure|Animation|Children
+126652,Raven the Little Rascal (2012),Animation|Children
+126693,Pinocchio (2012),Animation|Children
+126745,Lotta 2: Lotta flyttar hemifrån (1993),Children
+126747,Lotta på Bråkmakargatan (1992),Children
+126749,Babar The Movie (1989),Adventure|Animation|Children|Fantasy
+126751,Karlsson on the Roof (1974),Children
+126921,The Fox and the Hound 2 (2006),Adventure|Animation|Children|Comedy
+126937,Journey to the Beginning of Time (1955),Adventure|Children|Fantasy
+127048,The Radio Pirates (2007),Children|Comedy
+127054,Gertie the Dinosaur (1914),Animation|Children|Comedy
+127188,Advantageous (2015),Children|Drama|Sci-Fi
+127268,Project Wild Thing (2013),Adventure|Children|Documentary|Drama
+127327,Khan Kluay (2006),Adventure|Animation|Children
+127847,In Search of Noah's Ark (1976),Children|Documentary
+128143,When Good Ghouls Go Bad (2001),Children|Comedy|Fantasy
+128165,Scooby-Doo in Arabian Nights (1994),Animation|Children
+128169,Beethoven's 3rd (2000),Children|Comedy
+128171,Beethoven's 5th (2003),Adventure|Children|Comedy
+128173,Beethoven's Big Break (2008),Children|Comedy
+128175,Beethoven's Treasure Tail (2014),Action|Adventure|Children
+128177,Beethoven's Christmas Adventure (2011),Children|Comedy
+128181,Cody the Robosapien (2013),Adventure|Children|Drama|Sci-Fi
+128183,Contest (2013),Children|Drama
+128203,"Lightning, the White Stallion (1986)",Adventure|Children
+128205,Little Monsters (2012),Children
+128241,The Borrowers (1973),Children|Fantasy
+128369,The Anderssons in Greece: All Inclusive (2012),Children|Comedy
+128540,The Gruffalo's Child (2011),Adventure|Animation|Children|Fantasy
+128572,Nils Karlsson Pyssling (1990),Children
+128588,Lilla Jönssonligan och Cornflakeskuppen (1996),Children|Comedy
+128679,The Year Without a Santa Claus (1974),Animation|Children
+128703,Standing Ovation (2010),Children|Comedy
+128715,Eloise at the Plaza (2003),Children|Comedy|Mystery
+128725,Eloise at Christmastime (2003),Children|Comedy|Drama
+128840,As Dreamers Do (2014),Children|Drama
+128850,Bride of Boogedy (1987),Adventure|Children|Drama|Western
+128880,Bey Yaar (2014),Children|Comedy|Drama
+128904,"Runner from Ravenshead, The (2010)",Children
+128944,"Honey, We Shrunk Ourselves (1997)",Action|Adventure|Children|Comedy|Sci-Fi
+128968,Stitch! The Movie (2003),Animation|Children|Comedy
+129370,"SpongeBob Movie: Sponge Out of Water, The (2015)",Adventure|Animation|Children|Comedy
+129484,Arabian Adventure (1979),Children|Fantasy|Sci-Fi
+129784,Xuxa in Crystal Moon (1990),Children|Comedy|Romance
+129826,LEGO DC Comics Super Heroes: Justice League vs. Bizarro League (2015),Action|Adventure|Animation|Children
+129828,Lotte and the Moonstone Secret (2011),Animation|Children
+129830,Animals United (2011),Animation|Children|Comedy
+129834,Tom and Jerry: The Lost Dragon (2014),Animation|Children|Comedy
+130034,Stand by Me Doraemon (2014),Animation|Children|Drama|Fantasy
+130073,Cinderella (2015),Children|Drama|Fantasy|Romance
+130182,Рицар без броня (1966),Children|Drama
+130344,Coast of Death (2013),Children|Documentary|Drama
+130444,Ruby Red (2013),Adventure|Children|Fantasy|Sci-Fi
+130450,Pan (2015),Adventure|Children|Fantasy
+130492,Dum Laga Ke Haisha (2015),Children|Comedy|Romance
+130520,Home (2015),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+130522,The Brave Little Toaster Goes to Mars (1998),Animation|Children
+130554,Where the Lilies Bloom (1974),Children|Drama|Romance
+130758,Puss in Boots (1988),Children|Fantasy
+130772,WindRunner (1994),Children|Drama|Fantasy
+130786,Rappin' (1985),Children|Drama
+130794,Beauty and the Beast (1987),Children|Romance
+130796,Rumpelstiltskin (1987),Children|Fantasy|Sci-Fi
+130800,Sleeping Beauty (1987),Children|Fantasy
+130898,Midnight Stallion (2013),Children|Drama
+130900,Mr. Troop Mom (2009),Children|Comedy
+130904,Balloon Farm (1999),Children|Drama
+130972,Sune på bilsemester (2013),Children|Comedy
+131054,Dinotopia: Quest for the Ruby Sunstone (2005),Children|Fantasy|Sci-Fi
+131058,Santa's Apprentice (2010),Animation|Children
+131080,Cinderella III: A Twist in Time (2007),Animation|Children|Fantasy|Musical|Romance
+131086,The Little Polar Bear: Lars and the Little Tiger (2002),Animation|Children
+131092,"Mickey, Donald, Goofy: The Three Musketeers (2004)",Adventure|Animation|Children|Comedy
+131094,Rudolph the Red-Nosed Reindeer: The Movie (1998),Animation|Children
+131098,Saving Santa (2013),Animation|Children|Comedy
+131102,Lucky Luke: The Ballad of the Daltons (1978),Animation|Children|Comedy|Western
+131106,Casper's Haunted Christmas (2000),Animation|Children
+131120,Superstar Goofy (1991),Animation|Children|Comedy
+131248,Brother Bear 2 (2006),Adventure|Animation|Children|Comedy|Fantasy
+131389,Sabrina the Teenage Witch (1996),Children|Comedy|Fantasy|Sci-Fi
+131429,Thunderhead - Son of Flicka (1945),Children|Drama
+131476,Christmas at Cartwright's (2014),Children|Romance
+131512,Treasure (1990),Action|Adventure|Children
+131554,Somersault in a Coffin (1996),Children|Drama
+131604,Can of Worms (1999),Children|Comedy|Sci-Fi
+131634,Camp Cucamonga (1990),Children|Comedy|Drama
+131656,Shaun the Sheep Movie (2015),Adventure|Animation|Children|Comedy
+131781,Freeze Frame (1992),Children|Thriller
+131834,The Sound of Music Live (2013),Children|Drama
+131872,Dance 'Til Dawn (1988),Children|Comedy
+131896,Getting Lucky (1989),Children|Comedy
+131906,Student Exchange (1987),Children|Comedy|Romance
+131936,Space Dogs (2010),Animation|Children
+132008,"Sarah, Plain and Tall - Winter's End (1999)",Children|Drama
+132012,Lemonade Mouth (2011),Children
+132024,Ghost Chase (1987),Children|Fantasy|Sci-Fi
+132046,Tomorrowland (2015),Action|Adventure|Children|Mystery|Sci-Fi
+132280,"Rico, Oskar und die Tieferschatten (2014)",Adventure|Children|Comedy
+132313,Zip & Zap and the Marble Gang (2013),Adventure|Children|Comedy
+132319,チェブラーシカ (2010),Animation|Children
+132344,Holiday in the Sun (2001),Action|Adventure|Children|Comedy
+132416,Laura's Star (2004),Animation|Children
+132420,Babar: King of the Elephants (1999),Animation|Children
+132474,The Dog Who Saved Christmas (2009),Children|Comedy
+132545,Flicka 2 (2010),Children|Drama
+132584,The Even Stevens Movie (2003),Children|Comedy
+132592,GMO OMG (2013),Children|Documentary
+132626,Peter Pan Live (2014),Adventure|Children
+132630,Tinker Bell and the Legend of the NeverBeast (2014),Adventure|Animation|Children
+132632,The Pirate Fairy (2014),Animation|Children|Fantasy
+132646,The Velveteen Rabbit (2009),Animation|Children|Drama|Sci-Fi
+132650,Pokémon: Mewtwo Returns (2000),Animation|Children
+132664,Weirdo (1983),Children|Drama
+132668,All I Want for Christmas (2007),Children|Drama
+132944,Night Monster (1942),Children|Drama|Horror
+132977,The House of Magic (2014),Adventure|Animation|Children|Fantasy
+133123,Barbie as The Princess & the Pauper (2004),Animation|Children|Comedy
+133125,Barbie: Fairytopia (2005),Animation|Children
+133127,Barbie of Swan Lake (2003),Animation|Children
+133129,Barbie in Princess Power (2015),Animation|Children
+133131,Barbie Diaries (2005),Animation|Children
+133133,Barbie: Princess Charm School (2011),Animation|Children|Fantasy
+133135,Barbie and the Secret Door (2014),Adventure|Animation|Children|Fantasy
+133137,Barbie: A Fairy Secret (2011),Animation|Children|Fantasy
+133139,Barbie in the 12 Dancing Princesses (2006),Animation|Children
+133141,Barbie: The Princess & The Popstar (2012),Animation|Children
+133143,Barbie and the Diamond Castle (2008),Animation|Children
+133145,Barbie in A Mermaid Tale (2010),Animation|Children|Fantasy
+133147,Barbie as the Island Princess (2007),Animation|Children
+133149,Barbie in A Mermaid Tale 2 (2012),Animation|Children
+133151,Barbie and the Three Musketeers (2009),Animation|Children
+133153,Barbie in the Pink Shoes (2013),Animation|Children
+133155,Barbie in 'A Christmas Carol' (2008),Animation|Children
+133157,Barbie: The Pearl Princess (2014),Animation|Children
+133159,Barbie: Mariposa and The Fairy Princess (2013),Animation|Children|Fantasy
+133161,Barbie Presents: Thumbelina (2009),Animation|Children
+133163,Barbie Fairytopia: Magic of the Rainbow (2007),Animation|Children|Fantasy|Romance
+133165,Barbie Fairytopia: Mermaidia (2006),Adventure|Animation|Children|Fantasy
+133167,Barbie as Rapunzel (2002),Animation|Children
+133169,Barbie and the Magic of Pegasus 3-D (2005),Animation|Children|Romance
+133171,Barbie & Her Sisters in A Pony Tale (2013),Animation|Children
+133173,Barbie Mariposa and Her Butterfly Fairy Friends (2008),Animation|Children|Fantasy
+133177,Der var engang (1966),Children|Comedy
+133181,Sommer i Tyrol (1964),Children|Comedy
+133219,Tinker Bell and the Great Fairy Rescue (2010),Adventure|Animation|Children|Fantasy
+133335,Lifted (2010),Children|Drama
+133706,The Buttercream Gang (1992),Children|Drama
+133745,The Ransom of Red Chief (1998),Action|Children|Comedy|Drama
+133818,Me and the Kid (1993),Children|Comedy|Crime|Drama
+133841,The Bear (1984),Children|Drama
+133961,Mee-Shee: The Water Giant (2005),Adventure|Children|Fantasy
+133980,Dark Horse (1992),Children
+133988,Seventeen Again (2000),Children|Comedy|Drama|Fantasy
+134152,Treasure Island (1972),Adventure|Children
+134374,Tinker Bell (2008),Adventure|Animation|Children|Fantasy
+134376,Dazzle (1999),Children|Fantasy
+134463,Nessuno è perfetto (1981),Children|Drama
+134513,Matilda (1978),Children|Comedy|Crime
+134621,A Flying Ship (1979),Animation|Children
+134633,Tony 10 (2012),Children
+134637,Orps: The Movie (2009),Children|Comedy
+134639,My Sister's Kids in Africa (2013),Adventure|Children|Comedy
+134645,Ruudi (2006),Children|Comedy|Fantasy
+134647,The Rain Fairy (2010),Children|Fantasy
+134653,Hier kommt Lola (2010),Children|Comedy|Drama
+134666,The Amazing Mr Blunden (1972),Children|Fantasy
+134668,A Dog of Flanders (1959),Children|Drama
+134678,The Games Maker (2014),Adventure|Children
+134751,The Fantastic Flying Books of Mr. Morris Lessmore (2011),Adventure|Animation|Children|Drama
+134823,Freedom (2014),Children|Drama
+134849,Duck Amuck (1953),Animation|Children|Comedy
+134853,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy
+135113,Edie & Thea: A Very Long Engagement (2009),Children|Documentary|Drama|Romance
+135135,Max (2015),Adventure|Children|Drama
+135210,Binta and the Great Idea (2004),Children|Drama
+135216,The Star Wars Holiday Special (1978),Adventure|Children|Comedy|Sci-Fi
+135230,Mostly Ghostly: Have You Met My Ghoulfriend? (2014),Children|Fantasy
+135234,Pocket Ninjas (1997),Action|Children
+135248,Johnny Tsunami (1999),Children|Drama
+135250,Johnny Kapahala - Back on Board (2007),Children|Comedy|Drama
+135252,'Twas the Night (2001),Children
+135256,The Ultimate Christmas Present (2000),Children|Comedy
+135262,The Paper Brigade (1997),Adventure|Children|Comedy
+135264,Zenon: Girl of the 21st Century (1999),Adventure|Children|Comedy
+135266,Zenon: The Zequel (2001),Adventure|Children|Comedy|Sci-Fi
+135268,Zenon: Z3 (2004),Adventure|Children|Comedy
+135270,"Up, Up, and Away (2000)",Action|Children
+135272,Don't Look Under the Bed (1999),Children|Drama
+135274,The Luck of the Irish (2001),Adventure|Children|Comedy
+135278,Wendy Wu: Homecoming Warrior (2006),Action|Adventure|Children
+135512,Three Wishes for Cinderella (1973),Adventure|Children|Drama|Fantasy|Romance
+135647,Tommy Tricker and the Stamp Traveller (1988),Children|Fantasy
+135699,Grace Stirs Up Success (2015),Children
+135777,Golmaal (2006),Children|Comedy
+135867,Rabbit Fire (1951),Animation|Children|Comedy
+135887,Minions (2015),Adventure|Animation|Children|Comedy
+135941,The Secret of the Sword (1985),Animation|Children
+135953,Leroy & Stitch (2006),Animation|Children|Comedy
+135965,Alice Through the Looking Glass (1998),Children|Fantasy
+135977,Ace Ventura Jr: Pet Detective (2009),Children|Comedy
+135979,Next Avengers: Heroes of Tomorrow (2008),Action|Animation|Children|Sci-Fi
+135997,Every Jack has a Jill (2009),Children|Comedy|Romance
+136000,Journey to the Center of the Earth (1999),Action|Adventure|Children|Fantasy|Sci-Fi
+136010,12 Days of Christmas Eve (2004),Children|Comedy|Drama|Fantasy
+136016,The Good Dinosaur (2015),Adventure|Animation|Children|Comedy|Fantasy
+136190,Rover Dangerfield (1991),Animation|Children|Comedy
+136239,Smart House (1999),Children|Drama|Fantasy|Sci-Fi
+136245,Scooby-Doo! and the Reluctant Werewolf (1988),Animation|Children|Comedy|Mystery
+136247,Scooby-Doo on Zombie Island (1998),Animation|Children|Comedy|Mystery
+136249,Scooby-Doo! and the Monster of Mexico (2003),Animation|Children|Comedy|Mystery
+136251,Scooby-Doo! Stage Fright (2013),Adventure|Animation|Children
+136253,Superman: Brainiac Attacks (2006),Action|Animation|Children
+136309,Scooby-Doo! Moon Monster Madness (2015),Adventure|Animation|Children
+136331,"Chill Out, Scooby-Doo! (2007)",Action|Adventure|Animation|Children|Mystery
+136333,Scooby-Doo and the Ghoul School (1988),Animation|Children
+136335,Scooby-Doo and the Alien Invaders (2000),Animation|Children
+136337,Scooby-Doo and the Cyber Chase (2001),Animation|Children
+136339,Scooby-Doo! in Where's My Mummy? (2005),Animation|Children|Thriller
+136341,Scooby-Doo! and the Samurai Sword (2009),Animation|Children|Comedy
+136343,Scooby-Doo! And the Legend of the Vampire (2003),Animation|Children|Comedy
+136345,Aloha Scooby-Doo! (2005),Animation|Children
+136347,Scooby-Doo Meets the Boo Brothers (1987),Adventure|Animation|Children|Comedy
+136349,Scooby-Doo! Pirates Ahoy! (2006),Animation|Children|Comedy|Mystery
+136351,Scooby-Doo! and the Goblin King (2008),Animation|Children|Comedy|Thriller
+136353,Scooby-Doo! and the Loch Ness Monster (2004),Animation|Children|Comedy
+136355,Big Top Scooby-Doo! (2012),Animation|Children|Comedy
+136357,Scooby-Doo! Legend of the Phantosaur (2011),Animation|Children|Mystery
+136359,Scooby-Doo Goes Hollywood (1979),Animation|Children|Comedy
+136361,Scooby-Doo! Mask of the Blue Falcon (2012),Adventure|Animation|Children|Comedy|Fantasy
+136363,Scooby-Doo! Music of the Vampire (2011),Animation|Children|Mystery
+136365,Scooby-Doo! Adventures: The Mystery Map (2013),Children
+136367,The Flintstones & WWE: Stone Age Smackdown (2015),Animation|Children|Comedy
+136369,The Jetsons Meet the Flintstones (1987),Animation|Children
+136373,Drake And Josh Go Hollywood (2006),Adventure|Children|Comedy|Crime
+136441,Ferdinand the Bull (1938),Animation|Children|Comedy
+136467,Kim Possible: A Sitch in Time (2003),Action|Adventure|Animation|Children
+136477,One Froggy Evening (1955),Animation|Children|Comedy
+136483,Prep & Landing (2009),Animation|Children|Fantasy
+136501,Three Little Pigs (1933),Animation|Children|Comedy|Musical
+136503,Tom and Jerry: Shiver Me Whiskers (2006),Animation|Children|Comedy
+136528,Miracle In Lane 2 (2000),Children|Drama
+136530,Pokémon: Jirachi Wish Maker (2003),Action|Adventure|Animation|Children
+136534,Grandma Got Run Over by a Reindeer (2000),Animation|Children
+136538,Teen Titans: Trouble in Tokyo (2007),Action|Adventure|Animation|Children|Sci-Fi
+136542,Mickey's Christmas Carol (1983),Animation|Children
+136556,Kung Fu Panda: Secrets of the Masters (2011),Animation|Children
+136582,Je vous aime tres beaucoup (2010),Children|Comedy
+136588,Santa Claus is Comin' to Town (1970),Animation|Children|Fantasy
+136594,Dear Dumb Diary (2013),Children
+136618,Pokémon the Movie: Genesect and the Legend Awakened (2013),Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+136620,Pokémon: Arceus and the Jewel of Life (2009),Animation|Children
+136622,Pokémon: The Rise of Darkrai (2007),Adventure|Animation|Children|Fantasy
+136634,Dinosaur Island (2014),Children|Fantasy|Sci-Fi
+136640,Back to the Jurassic (2015),Adventure|Animation|Children
+136662,Hoovey (2015),Children|Drama
+136674,Maya the Bee Movie (2014),Animation|Children
+136680,Battle For SkyArk (2015),Action|Adventure|Children|Sci-Fi
+136764,Postman Pat: The Movie (2014),Adventure|Animation|Children
+136982,Universal Remote (2007),Children|Comedy
+137088,Treasure Island (1999),Adventure|Children
+137202,White Lion (2010),Children|Drama
+137385,Tom and Jerry & The Wizard of Oz (2011),Animation|Children
+137387,Tom and Jerry: The Magic Ring (2002),Animation|Children|Comedy
+137389,Tom and Jerry: The Fast and the Furry (2005),Animation|Children|Comedy
+137391,Tom and Jerry Meet Sherlock Holmes (2010),Animation|Children
+137393,Tom and Jerry's Giant Adventure (2013),Animation|Children
+137401,The Stream (2013),Adventure|Children|Comedy
+137463,16-love (2012),Children|Comedy|Drama|Romance
+137751,Mrs. Ashboro's Cat (2003),Children|Thriller
+137757,Model Behavior (2000),Children|Comedy|Drama
+137759,Susie Q (1996),Children|Comedy|Drama|Mystery
+137869,Flight of the Doves (1971),Children|Drama
+138010,The Other Me (2000),Children|Comedy|Fantasy
+138044,Reuniting the Rubins (2012),Children|Comedy|Drama
+138274,Love/Loss (2010),Children|Drama|Romance
+138298,Bar Sport (2011),Children|Comedy
+138702,Feast (2014),Animation|Children|Comedy|Drama|Romance
+138796,Tom Sawyer & Huckleberry Finn (2014),Action|Adventure|Children|Drama
+138912,The Pirates of Penzance (1985),Children|Comedy
+138952,Scooby-Doo! And Kiss: Rock and Roll Mystery (2015),Animation|Children
+138984,The Deported (2010),Children|Comedy
+139159,Aadhavan (2009),Action|Children|Comedy|Drama|Thriller
+139537,Arcadia (2012),Children|Drama
+139584,Pokémon Ranger and the Temple of the Sea (2006),Animation|Children
+139598,Yellowbird (2014),Animation|Children|Comedy
+139620,Everything's Gonna Be Great (1998),Adventure|Children|Comedy|Drama
+139681,Norville and Trudy (1997),Children|Comedy|Sci-Fi
+139948,The secret of the Old Woods (1993),Children|Fantasy
+140152,Dreamcatcher (2015),Children|Crime|Documentary
+140202,Baker's Hawk (1976),Action|Children|Drama|Western
+140212,Tarzan II (2005),Adventure|Animation|Children
+140228,Giratina and the Sky Warrior (2008),Adventure|Animation|Children
+140317,A Tiger Walks (1964),Children|Drama
+140341,Lava (2015),Animation|Children
+140345,The Man Called Flintstone (1966),Adventure|Animation|Children|Mystery|Romance
+140385,A Horse for Danny (1995),Children|Drama
+140391,Pistol: The Birth of a Legend (1991),Children|Drama
+140395,Where The Red Fern Grows II: The Classic Continues (1992),Children
+140413,Charley and the Angel (1973),Children|Comedy|Fantasy
+140419,The Invisible Boy (1957),Adventure|Children|Comedy|Sci-Fi
+140441,Anne Of Green Gables: The Continuing Story (2000),Children|Drama
+140477,The Parent Trap II (1986),Children
+140491,Puff the Magic Dragon (1978),Animation|Children
+140501,Island of the Blue Dolphins (1964),Children|Drama
+140503,The Biscuit Eater (1972),Children|Drama
+140521,The First Snow of Winter (1998),Children
+140565,Let It Shine (2012),Children
+140569,The Further Adventures of the Wilderness Family (1978),Adventure|Children
+140681,Ghadi (2013),Children|Comedy|Drama
+140699,Dragon Nest: Warriors' Dawn (2014),Adventure|Animation|Children|Fantasy
+140707,Curious George 2: Follow That Monkey! (2009),Animation|Children
+140729,The Keeper - The Legend of Omar Khayyam (2005),Children|Drama
+140747,16 Wishes (2010),Children|Drama|Fantasy
+140822,Just Peck (2009),Children|Comedy
+140830,The Legend Of Secret Pass (2010),Animation|Children|Fantasy
+140836,The Littlest Horse Thieves (1977),Children|Drama
+141038,Get a Clue (2002),Children|Comedy|Mystery
+141120,Brothers (2015),Action|Children|Drama
+141152,After the Wizard (2012),Children|Fantasy
+141154,Against the Wild (2014),Adventure|Children
+141166,Arthur 3: The War of the Two Worlds (2010),Adventure|Animation|Children|Fantasy
+141189,"Get Smart, Again! (1989)",Action|Children|Comedy
+141205,The Wistful Widow of Wagon Gap (1947),Children|Comedy|Western
+141254,Escapade In Japan (1957),Adventure|Children
+141299,Peter Pan (2000),Children|Fantasy
+141341,The Three Investigators and the Secret of Terror Castle (2009),Adventure|Children|Mystery
+141345,Tio Papi (2013),Children|Comedy|Drama
+141493,The Hunchback of Notre Dame II (2002),Adventure|Animation|Children|Romance
+141505,Moscow-Cassiopeia (1973),Adventure|Children|Comedy|Sci-Fi
+141546,Oh How It Hurts 66 (1966),Children|Comedy
+141552,Dadnapped (2009),Action|Adventure|Children|Comedy
+141606,Miracle on Ice (1981),Children|Drama
+141636,Papanasam (2015),Children|Crime|Drama|Thriller
+141644,Santa Baby (2006),Children|Comedy
+141808,A Summer to Remember (1960),Children|Comedy|Drama
+141874,The Adventures of Buratino (1975),Adventure|Children|Fantasy
+141884,A Diva's Christmas Carol (2000),Children|Comedy
+141920,Underdog Kids (2015),Action|Children
+141934,Hamtaro: The Captive Princess (2002),Adventure|Animation|Children|Fantasy
+141938,Hot Wheels Acceleracers Ignition (2005),Animation|Children
+141942,Pokémon: Zoroark: Master of Illusions (2010),Adventure|Animation|Children
+141976,Snowglobe (2007),Children|Fantasy|Sci-Fi
+141982,Mrs. Miracle (2009),Children|Comedy|Fantasy
+141986,Santa Baby 2 (2009),Children|Comedy
+141994,Saving Christmas (2014),Children|Comedy
+142058,The Lorax (1972),Animation|Children
+142060,The Grinch Grinches the Cat in the Hat (1982),Animation|Children
+142086,Fallen: The Beginning (2006),Action|Adventure|Children|Drama|Fantasy
+142094,Alice in Wonderland (1915),Children|Fantasy
+142148,Christmas Cupid (2010),Children|Comedy|Fantasy|Romance
+142158,Return to Halloweentown (2006),Adventure|Children|Comedy|Fantasy
+142160,Carlos Spills the Beans (2014),Children|Comedy|Drama
+142164,Wish You Well (2013),Children|Drama
+142178,Flash (1997),Children|Drama
+142188,Snow 2: Brain Freeze (2008),Children|Comedy
+142204,Twitches Too (2007),Children|Drama|Fantasy
+142574,Cow Belles (2006),Children|Comedy|Romance
+142576,Genius (1999),Children|Comedy|Drama
+142628,The Brave Little Toaster to the Rescue (1997),Animation|Children|Comedy
+142663,Babes in Toyland (1997),Animation|Children
+142813,Full Out (2015),Children|Drama
+142885,"You're a Good Sport, Charlie Brown (1975)",Animation|Children|Comedy
+142919,Snow-White and Rose-Red (1979),Children|Fantasy
+142981,"Bell for Ursli, A (Schellen-Ursli) (2015)",Children
+143029,Stuck in the Suburbs (2004),Children|Comedy
+143033,Winning London (2001),Children|Comedy
+143035,Minutemen (2008),Adventure|Children|Comedy|Sci-Fi
+143053,Oddball (2015),Children
+143055,Jett Jackson: The Movie (2001),Action|Adventure|Children|Comedy|Sci-Fi
+143086,An American Girl: Saige Paints the Sky (2013),Children
+143128,Mrs. Santa Claus (1996),Children|Fantasy
+143207,Jack and the Beanstalk (2010),Adventure|Children|Comedy|Fantasy
+143231,Double Teamed (2002),Children|Drama
+143311,Get Santa (2014),Children|Comedy
+143391,The Lost Medallion: The Adventures of Billy Stone (2013),Adventure|Children
+143436,Manam (2014),Children|Comedy|Drama|Fantasy
+143440,"Mune, le gardien de la lune (2015)",Animation|Children|Fantasy
+143474,Secrets of War (2014),Children|Drama|War
+143486,The Last Day of Summer (2007),Children|Sci-Fi
+143666,The Adventures of Mickey Matson and the Copperhead Conspiracy (2012),Children
+143853,Two Heads Are Better Than None (2000),Children|Comedy
+143890,LEGO DC Super Heroes: Justice League - Attack of the Legion of Doom! (2015),Animation|Children
+143942,"Namu, the Killer Whale (1966)",Adventure|Children|Drama
+144140,Ready? OK! (2008),Children|Comedy
+144202,Catch That Girl (2002),Action|Children
+144298,Avalon High (2010),Children|Drama|Fantasy
+144338,Holiday (2006),Action|Children|Comedy|Crime|Drama|Romance
+144350,Under the Mountain (2009),Action|Adventure|Children|Drama|Fantasy|Sci-Fi
+144390,Turning Point (2009),Action|Children|Crime|Drama|Thriller
+144426,Clockstoppers (2002),Adventure|Children|Sci-Fi|Thriller
+144480,Santa Claws (2014),Children|Fantasy
+144548,Comeback Season (2006),Children|Comedy|Romance
+144664,Ostwind (2013),Adventure|Children
+144700,The Cokeville Miracle (2015),Children|Drama|Mystery|Thriller
+144750,The Professor and His Beloved Equation (2006),Children|Drama|Romance
+144776,"Alfie, the Little Werewolf (2011)",Children
+144860,Fred Rogers: America's Favorite Neighbor (2004),Children|Documentary
+144958,Škola princů (2010),Children
+144962,Phantom Boy (2015),Adventure|Animation|Children
+145082,The Snow Queen 2: Refreeze (2014),Adventure|Animation|Children|Fantasy
+145090,David (1997),Children
+145172,Gulliver Mickey (1934),Animation|Children|Fantasy
+145176,Mickey's Good Deed (1932),Animation|Children
+145190,Three Blind Mouseketeers (1936),Animation|Children
+145218,Balto III: Wings of Change (2004),Adventure|Animation|Children
+145224,Bigfoot (2008),Children
+145226,Bigfoot (1970),Children|Horror|Sci-Fi|Thriller
+145489,Billboard Dad (1998),Children|Comedy|Romance
+145491,Our Lips Are Sealed (2000),Children|Comedy|Drama
+145493,The Challenge (2003),Action|Adventure|Children|Comedy|Sci-Fi
+145496,Delhi Safari (2012),Animation|Children|Comedy
+145731,War of the Buttons (2011),Adventure|Children
+145733,(The New) War of the Buttons (2011),Adventure|Children
+145935,"Peanuts Movie, The (2015)",Adventure|Animation|Children|Comedy
+145939,Sandesham (1991),Children|Comedy
+145978,Batkid Begins (2015),Children|Documentary
+146012,Little Tragedies (1980),Children|Drama
+146030,Cinderella (1947),Children|Comedy|Fantasy|Musical|Romance
+146050,The Elusive Revengers (1966),Action|Adventure|Children
+146082,Yedyanchi Jatra,Children|Comedy|Drama
+146136,Masoom (1983),Children|Drama
+146305,Princes and Princesses (2000),Animation|Children|Comedy|Drama|Fantasy|Romance|Sci-Fi
+146360,Hum Saath Saath Hain (1999),Children|Romance
+146452,Aussie and Ted's Great Adventure (2009),Children|Drama
+146634,Maktub (2011),Children|Comedy
+146684,Cosmic Scrat-tastrophe (2015),Animation|Children|Comedy
+146700,The Little Ghost (2013),Children|Fantasy
+146724,The Challengers (1990),Children|Drama
+146726,A Nanny for Christmas (2010),Children|Comedy
+147004,The Extreme Tragic Story of Celal Tan and His Family (2011),Children|Comedy|Crime
+147051,Manichitrathazhu (1993),Children|Drama|Fantasy|Horror|Mystery|Thriller
+147142,Those Happy Days (2006),Children|Comedy
+147184,Felix and Meira (2015),Children|Drama|Romance
+147188,38 Parrots,Animation|Children
+147190,Treasure Island (1982),Adventure|Children
+147238,The New Adventures of the Elusive Avengers (1968),Action|Adventure|Children
+147242,"Crown of Russian Empire, or the Elusives Again (1971)",Action|Adventure|Children
+147246,Adventures of Mowgli (1973),Animation|Children
+147270,Ne Pokiday (1989),Children|Comedy|Romance
+147336,Tomorrow Was the War (1987),Children|Drama|War
+147402,The King and Queen of Moonlight Bay (2003),Children|Drama
+147456,The Legend of Longwood (2014),Adventure|Children|Drama
+147694,The Christmas That Almost Wasn't (1966),Children|Fantasy
+148087,The Life and Times of Grizzly Adams (1974),Adventure|Children|Western
+148108,My Little Pony: Equestria Girls - Rainbow Rocks (2014),Animation|Children
+148178,Prancer Returns (2001),Children|Comedy
+148240,Elf: Buddy's Musical Christmas (2014),Animation|Children|Fantasy
+148282,Call Me Claus (2001),Children
+148341,All I Want Is Christmas (2012),Children|Comedy
+148618,Dino Time (2012),Adventure|Animation|Children|Comedy
+148659,Ennum Eppozhum (2015),Children|Drama
+148673,Northpole (2014),Children|Fantasy
+148675,North Pole: Open For Christmas (2015),Children|Fantasy
+148711,Steak (R)évolution (2014),Adventure|Children|Documentary
+148767,A Kid in Aladdin's Palace (1998),Adventure|Children
+148773,Spy School (2008),Action|Adventure|Children|Comedy
+148775,Wizards of Waverly Place: The Movie (2009),Adventure|Children|Comedy|Drama|Fantasy|Sci-Fi
+148865,Totally True Love (2011),Action|Children|Drama
+149100,Eskil & Trinidad (2013),Children|Drama
+149120,Hands off Mississippi (2007),Adventure|Children|Comedy
+149152,Mr. Miracle (2014),Children|Drama
+149184,Stealing Christmas (2003),Children|Comedy
+149328,Dreamkeeper (2003),Children|Drama
+149344,Pete's Christmas (2013),Children|Fantasy
+149354,Sisters (2015),Children|Comedy
+149366,Just in Time for Christmas (2015),Children|Drama|Fantasy|Romance
+149370,Angel of Christmas (2015),Children
+149372,Once Upon A Holiday (2015),Children|Romance
+149386,I'm Not Ready for Christmas (2015),Children
+149388,Merry Matrimony (2015),Children|Romance
+149390,Christmas Incorporated (2015),Children|Drama
+149392,12 Gifts of Christmas (2015),Children
+149398,On the Twelfth Day of Christmas (2015),Children
+149402,Santa and the Ice Cream Bunny (1972),Children|Fantasy
+149440,Finding Mr. Destiny (2010),Children|Comedy|Drama|Romance
+149486,A Perfect Christmas List (2014),Children|Comedy|Drama
+149488,Christmas Town (2008),Action|Children|Comedy|Drama|Fantasy|Thriller
+149546,"Nestor, the Long-Eared Christmas Donkey (1977)",Animation|Children
+149550,Gone Fishing (2012),Children|Drama
+149564,Tom Brown's School Days (1940),Children|Drama
+149574,Rudolph and Frosty's Christmas in July (1979),Animation|Children|Fantasy
+149586,When Santa Fell to Earth (2011),Children|Fantasy
+149644,Beyond the Blackboard (2011),Children|Drama
+149747,The Alchemist's Letter (2015),Children|Fantasy|Mystery
+149757,The Frog Prince,Children
+149826,Secret Society of Souptown (2015),Adventure|Children
+149879,Aschenputtel (2010),Children|Fantasy
+149894,Adventures of Rusty (1945),Adventure|Children
+150026,The Ball (1999),Children
+150038,Science Fiction (2002),Adventure|Children|Sci-Fi|Thriller
+150052,Turquaze (2010),Children|Drama|Romance
+150066,Blinker (1999),Children|Mystery
+150072,Mariken (2001),Children|Drama|Fantasy
+150082,K3 en het IJsprinsesje (2006),Children
+150230,Cool Cat Saves the Kids (2015),Adventure|Children
+150234,Frenemies (2012),Children|Drama
+150236,How to Build a Better Boy (2014),Children|Sci-Fi
+150262,Megamind: The Button Of Doom (2011),Action|Animation|Children|Comedy
+150268,Dilwale (2015),Action|Children|Comedy|Crime|Drama|Romance
+150322,Paa (2009),Children|Drama
+150324,The Cheetah Girls: One World (2008),Children|Comedy|Drama
+150354,Girl vs. Monster (2012),Children|Comedy|Sci-Fi
+150554,The Love Bug (1997),Adventure|Children|Comedy|Fantasy
+150931,Bridge To Terabithia (1985),Children|Drama|Fantasy
+150954,Ko (2011),Action|Children|Thriller
+151011,The Secret of the Magic Gourd (2007),Children|Drama
+151204,"Mom, Can I Keep Her? (1998)",Children|Comedy
+151208,The Kid with X-Ray Eyes (1999),Children|Comedy
+151224,Prehysteria! (1993),Children|Comedy|Drama|Fantasy|Sci-Fi
+151273,Prehysteria! 2 (1994),Children|Comedy|Drama|Fantasy|Sci-Fi
+151275,Prehysteria! 3 (1995),Children|Comedy|Drama|Fantasy|Sci-Fi
+151313,Norm of the North (2016),Adventure|Animation|Children|Comedy
+151607,Funky Monkey (2004),Children|Comedy
+151687,Risen (2016),Children|Drama
+151707,The Eagle Huntress (2016),Adventure|Children|Documentary
+151729,Ruby Bridges (1998),Children|Drama
+151791,A Gift Wrapped Christmas (2015),Children|Drama
+151806,Mafalda - La Pelicula (1981),Animation|Children|Comedy|Fantasy
+151879,Molly Moon and the Incredible Book of Hypnotism (2015),Children|Fantasy
+151923,Transylvanian Garlic (2014),Adventure|Children|Comedy
+151991,Rugged Gold (1994),Adventure|Children|Drama
+152001,The Nanny Express (2009),Children|Drama|Romance
+152081,Zootopia (2016),Action|Adventure|Animation|Children|Comedy
+152137,Pirate's Passage (2015),Adventure|Animation|Children
+152161,What Would Jesus Do? (2010),Children
+152318,Die Blindgänger (2004),Children|Drama
+152326,Freddie as F.R.O.7. (1992),Adventure|Animation|Children|Fantasy
+152352,Makdee (2002),Children
+152435,The Boys in Blue (1982),Children|Comedy
+152455,The Cook (1972),Children|Comedy|Drama
+152503,Lockjaw: Rise of the Kulev Serpent (2008),Children|Horror|Sci-Fi
+152549,The Bear That Wasn't (1967),Animation|Children|Comedy
+152569,The Boxcar Children (2014),Adventure|Animation|Children
+152603,Cosas insignificantes (2008),Children|Drama
+152637,The Tangerine Bear: Home in Time for Christmas! (2000),Animation|Children
+152641,Pinocchio's Christmas (1980),Animation|Children
+152658,Santa's Little Helper (2015),Children
+152676,Scout (2015),Children|Drama
+152678,A Sunday Horse (2016),Children|Drama
+152737,War of the Birds (1990),Animation|Children
+152858,Flyin' Ryan (2003),Children
+152990,Vaah! Life Ho Toh Aisi! (2005),Children|Comedy|Drama|Sci-Fi
+153100,"You're Out of Your Mind, Madicken (1979)",Children
+153106,The Fool of the World and the Flying Ship (1990),Adventure|Animation|Children|Fantasy
+153148,A Humble Life (1997),Children|Documentary|Fantasy|Sci-Fi
+153206,Chronopolis (1982),Animation|Children|Sci-Fi
+153332,The Snow Maiden (1968),Children|Fantasy
+153352,The Pocket-knife (1992),Adventure|Children|Comedy|Drama
+153370,The Scarlet Flower (1977),Children|Fantasy|Romance
+153386,Long Live Ghosts! (1977),Children|Comedy|Fantasy
+153414,We Are the Pirates of the Roads (2015),Adventure|Children
+153418,Ricky Rapper and Cool Wendy (2012),Children|Comedy
+153422,Risto Räppääjä ja liukas Lennart (2014),Children|Comedy
+153426,Risto Räppääjä ja Sevillan saituri (2015),Children
+153430,Jill and Joy (2014),Children
+153432,Jill And Joy's Winter (2015),Children
+153438,Fimfárum Jana Wericha (2002),Animation|Children
+153440,Fimfarum 2 (2006),Animation|Children
+153540,Bhoot Unkle (2006),Children|Fantasy
+153588,Spoon (2005),Children|Drama
+153594,The Life & Adventures of Santa Claus (2000),Animation|Children
+153600,Man van staal (1999),Children|Drama|Fantasy
+153602,Misa mi (2003),Children|Drama
+153614,New Mischief by Emil (1972),Children|Comedy
+153630,Pyšná princezna (1952),Children|Comedy|Fantasy
+153640,The Tale of the Fox (1937),Animation|Children|Comedy|Fantasy
+153646,The Tale of Tsar Saltan (1984),Animation|Children
+153648,The Snow Queen (1957),Animation|Children|Drama|Fantasy
+153863,O Diabo a Quatro (2005),Children|Drama
+153869,Thunderclump (1974),Adventure|Animation|Children
+153899,Srimanthudu (2015),Action|Children|Drama|Romance
+153923,Race Gurram (2014),Action|Children|Comedy|Drama|Romance
+153971,Kingdom of Crooked Mirrors (1963),Adventure|Children|Fantasy
+154003,O princezně Jasněnce a létajícím ševci (1987),Children
+154011,Winky's Horse (2005),Children
+154069,Ringing Bell (1978),Animation|Children|Drama
+154079,Golmaal 3 (2010),Children|Comedy
+154194,Der Struwwelpeter (1955),Children|Fantasy
+154214,Barbara the Fair with the Silken Hair (1969),Children|Fantasy
+154222,The Wooden Camera (2004),Children|Drama
+154270,Les oiseaux de passage (2015),Children
+154368,The King's Beard (2002),Adventure|Animation|Children
+154374,The Little Polar Bear (2001),Animation|Children
+154378,Kooky (2010),Adventure|Children
+154396,Otto er et næsehorn (1983),Children|Comedy
+154400,Prince and the Evening Star (1979),Adventure|Children|Romance
+154402,Pünktchen und Anton (1999),Children
+154430,"Tjorven, Batsman, and Moses (1964)",Children|Comedy
+154432,Wolf Summer (2003),Adventure|Children|Drama
+154446,The Pirates of Tortuga: Under the Black Flag (2001),Adventure|Animation|Children|Comedy|Sci-Fi
+154516,The Little Bear Movie (2001),Animation|Children
+154524,The New Gulliver (1935),Animation|Children|Fantasy
+154526,Eye of the Eagle (1997),Adventure|Children|Drama
+154536,The Singing Ringing Tree (1957),Children|Fantasy
+154558,Sunshine Barry & the Disco Worms (2008),Animation|Children|Comedy
+154562,Father of Four - Never Gives Up! (2005),Children|Comedy
+154566,Invisible Mom (1997),Children|Comedy|Fantasy
+154616,The Shamer's Daughter (2015),Action|Adventure|Children|Fantasy
+154678,The Twelve Months (1956),Animation|Children
+154719,My Pal Wolf (1944),Children
+154721,"Nikki, Wild Dog of the North (1961)",Children
+154739,The Billion Dollar Hobo (1977),Children|Comedy
+154810,The Tale of John and Marie (1980),Adventure|Animation|Children|Fantasy
+154822,A Journey Through Fairyland (1985),Animation|Children|Fantasy
+154830,La Clé des Champs (2011),Children|Documentary
+154852,Twigson (2009),Adventure|Children|Comedy
+154917,Back To The Sea (2012),Animation|Children
+155127,Tokyo Family (2013),Children|Drama
+155162,Jack and the Beanstalk (1902),Adventure|Children|Fantasy
+155285,Dil Dhadakne Do (2015),Children|Drama|Romance
+155366,Monster High: Great Scarrier Reef (2016),Animation|Children
+155719,Das fliegende Klassenzimmer (1954),Children|Comedy|Drama
+155741,Two-Bit Waltz (2014),Children|Comedy|Drama
+156025,Ice Age: The Great Egg-Scapade (2016),Adventure|Animation|Children|Comedy
+156035,The Adventures of Huckleberry Finn (2012),Adventure|Children
+156037,Hopelessly Lost (1973),Adventure|Children
+156039,The Animated Adventures of Tom Sawyer (1998),Children
+156041,The Adventures of Tom Sawyer and Huckleberry Finn (1981),Adventure|Children
+156045,Mountain Family Robinson (1979),Adventure|Children
+156137,Jock of the Bushveld (2011),Adventure|Animation|Children|Comedy
+156206,Smoky (1946),Children|Drama
+156702,Joey (1997),Children
+156850,The Christmas Hope (2009),Children|Drama
+156940,Girl on the Edge (2015),Children|Drama
+157114,Fatty Finn (1980),Children|Comedy|Fantasy
+157132,Madly Madagascar (2013),Animation|Children|Comedy
+157134,Hammy's Boomerang Adventure (2006),Animation|Children|Comedy
+157324,The Boatniks (1970),Children|Comedy
+157363,Aladdin and His Magic Lamp (1967),Adventure|Children|Romance
+157365,Old Man Khottabych (1956),Adventure|Children|Fantasy
+157559,Vedhalam (2015),Action|Children
+157577,Deiva Thirumagal (2011),Children|Drama
+157585,Anjali (1990),Children|Drama
+157679,Alley Cats Strike (2000),Children|Comedy|Drama
+157865,Ratchet & Clank (2016),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+157867,How To Frame A Figg (1971),Children|Comedy
+157997,Tintin and the Lake of Sharks (1972),Adventure|Animation|Children|Mystery
+158105,A.R.C.H.I.E. (2016),Children
+158294,Sillunu Oru Kaadhal (2006),Children|Romance
+158330,The Secret Diaries of Miss Anne Lister (2010),Children|Drama
+158376,True Confessions of a Hollywood Starlet (2008),Children|Comedy|Drama
+158412,Zapped (2014),Children|Comedy|Fantasy|Romance
+158428,Alvin and the Chipmunks: The Road Chip (2015),Adventure|Animation|Children|Comedy
+158471,Once Upon a Time (1944),Children|Comedy|Fantasy
+158575,A Royal Christmas (2014),Children|Romance
+158631,Pero Kvrzica's Comradeship (1970),Adventure|Children
+158681,Courage (2009),Children|Drama
+158705,Paws (1997),Adventure|Children|Fantasy
+158719,Sams in Gefahr (2003),Children
+158777,A Little Game (2014),Adventure|Children
+158813,Alice Through the Looking Glass (2016),Adventure|Children|Fantasy
+158819,Debbie Macomber's Dashing Through the Snow (2015),Children
+158830,The BFG (2016),Children|Fantasy
+158878,The Letter Writer (2011),Children
+158892,Flower Shop Mystery: Mum's the Word (2016),Children|Mystery
+158920,A Lesson in Romance (2014),Children
+158924,Finding Christmas (2013),Children|Comedy|Romance
+158926,Catch a Christmas Star (2013),Children|Romance
+158930,Snow Bride (2013),Children
+158936,Help for the Holidays (2012),Children|Fantasy
+158938,Come Dance with Me (2012),Children|Romance
+158946,A Taste of Romance (2012),Children|Romance
+158950,Annie Claus is Coming to Town (2011),Children|Comedy|Romance
+158958,Pollyanna (2003),Children|Drama
+159075,Annie's Point (2005),Children|Drama
+159153,The Land Before Time XIV: Journey of the Brave (2016),Adventure|Animation|Children
+159173,Once I Was a Beehive (2015),Children|Comedy|Drama
+159255,LasseMajas detektivbyrå - Stella Nostra (2015),Children|Comedy
+159275,On Top (1982),Children|Drama
+159317,Only Clouds Move the Stars (1998),Children|Drama
+159333,The Liverpool Goalie (2010),Children|Comedy
+159339,Returning Home (2015),Children|Drama
+159361,The Olsen Gang Sees Red (1976),Children|Comedy|Crime
+159363,Harry and the Butler (1961),Children|Comedy
+159375,The Olsen Gang in Jutland (1971),Children|Comedy|Crime
+159486,Jack of the Red Hearts (2015),Children|Drama
+159628,Gooby (2009),Children
+159636,Holidaze: The Christmas That Almost Didn't Happen (2006),Animation|Children
+159692,The Good Witch (2008),Children|Drama|Fantasy
+159725,A Knight in Camelot (1998),Adventure|Children|Comedy|Fantasy|Sci-Fi
+159765,Lantern hill (1989),Children|Drama
+160104,Ribbit (2014),Adventure|Animation|Children|Comedy
+160133,Junkers Come Here (1995),Animation|Children
+160195,The Oogieloves in the Big Balloon Adventure (2012),Children
+160392,Trenchcoat (1983),Children|Comedy|Crime|Mystery
+160446,Khichdi: The Movie (2010),Children|Comedy
+160462,Stanley's Tiffin Box (2011),Children|Comedy
+160511,The Winding Stream (2014),Children|Documentary
+160519,Curious George: A Very Monkey Christmas (2009),Animation|Children
+160549,Swallows and Amazons (1974),Adventure|Children
+160569,Ice Age: Collision Course (2016),Adventure|Animation|Children|Comedy
+160573,Pete's Dragon (2016),Adventure|Children|Fantasy
+160636,Under the Blood-Red Sun (2014),Children|Drama
+160808,The Golden Arrow (1936),Children|Comedy
+160810,The Journey (2014),Children|Comedy|Drama
+160846,American Legends (2002),Animation|Children|Fantasy
+160996,Star Games (1998),Adventure|Children|Sci-Fi
+161090,Second Chances (1998),Children|Drama
+161169,Undrafted (2016),Children|Comedy|Drama
+161282,Emma's Chance (2016),Children|Drama
+161398,The Emperor's Nightingale (1949),Animation|Children|Fantasy
+161506,Greyfriars Bobby (2005),Children|Drama
+161628,Savage Sam (1963),Action|Adventure|Children|Drama|Western
+161662,Pufnstuf (1970),Children|Comedy|Fantasy
+161762,Belle and Sebastian: The Adventure Continues (2015),Adventure|Children
+161766,Sun Belt Express (2015),Children|Comedy|Drama
+161770,"Splash, Too (1988)",Children|Comedy|Romance
+161786,VeggieTales: Where's God When I'm Scared (1993),Animation|Children
+161794,VeggieTales: Dave and the Giant Pickle (1996),Adventure|Animation|Children|Comedy
+161796,VeggieTales: Very Silly Songs (1997),Animation|Children
+161798,VeggieTales: Josh and the Big Wall (1997),Animation|Children
+161802,VeggieTales: The End of Silliness? More Really Silly Songs! (1998),Animation|Children
+161810,VeggieTales: The Ultimate Silly Song Countdown (2001),Animation|Children
+161812,VeggieTales: The Ballad of Little Joe (2003),Animation|Children
+161814,VeggieTales: Lord of the Beans (2005),Animation|Children
+161816,VeggieTales: Minnesota Cuke and the Search for Samson's Hairbrush (2005),Animation|Children
+161818,VeggieTales: Duke and the Great Pie War (2005),Animation|Children
+161820,VeggieTales: LarryBoy & The Bad Apple (2006),Adventure|Children
+161822,VeggieTales: Sheerluck Holmes and the Golden Ruler (2006),Adventure|Animation|Children
+161824,VeggieTales: The Wonderful Wizard of Ha's (2007),Adventure|Children
+161826,VeggieTales: Tomato Sawyer & Huckleberry Larry's Big River Rescue (2008),Adventure|Animation|Children|Comedy
+161962,Snowtime! (2015),Animation|Children
+161970,The Little House (2014),Children|Drama
+161972,Lucy Maud Montgomery's Anne of Green Gables (2016),Children|Drama
+162070,3 Days of Normal (2012),Children|Comedy|Romance
+162134,The Water Babies (1978),Children
+162272,Sara (1997),Action|Children|Crime|Drama|Romance
+162384,Love's Unfolding Dream (2007),Children|Drama|Romance|Western
+162388,Love Finds A Home (2009),Action|Children|Drama|Western
+162390,Love Begins (2011),Children|Drama|Romance
+162394,Starchaser: The Legend of Orin (1985),Adventure|Animation|Children|Sci-Fi
+162484,Cop Dog (2008),Action|Adventure|Children
+162546,Tiny Giants (2014),Children|Documentary
+162578,Kubo and the Two Strings (2016),Adventure|Animation|Children|Fantasy
+162792,Principal Takes a Holiday (1998),Children|Comedy
+163014,Uncle P (2007),Children|Comedy
+163052,Cool Kids Don't Cry (2012),Children|Drama|Romance
+163066,Rabbit Seasoning (1952),Animation|Children|Comedy
+163072,Winnie Pooh (1969),Animation|Children
+163140,My Babysitter's a Vampire (2010),Adventure|Children|Comedy|Fantasy
+163188,Challenge to be Free (1975),Children|Drama
+163194,Davy Crockett and the River Pirates (1956),Action|Adventure|Children
+163344,East Side of Heaven (1939),Children|Comedy
+163593,Where the Road Runs Out (2014),Children|Drama|Romance
+163681,Mostly Ghostly 3: One Night in Doom House (2016),Children|Fantasy|Horror
+163745,The Kid (1997),Action|Children|Drama
+163751,Shiloh 2: Shiloh Season (1999),Children|Drama
+163761,John Henry (2000),Animation|Children|Drama
+163763,Lorenzo (2004),Animation|Children|Comedy
+163941,The Hollars (2016),Children|Comedy|Drama
+163969,Broken Hill (2009),Children|Drama
+163987,Fan Girl (2015),Children|Comedy
+163995,The Adventures of Scamper the Penguin (1986),Animation|Children
+164047,Horton Hears a Who! (1970),Animation|Children
+164137,My Girl (2003),Children|Comedy|Romance
+164163,Twitches (2005),Children|Comedy|Drama|Fantasy
+164165,Three Days (2001),Children
+164198,Really Rosie (1975),Animation|Children|Fantasy
+164200,Storks (2016),Animation|Children|Comedy
+164204,After the Storm (2016),Children|Drama
+164278,Going Attractions: The Definitive Story of the American Drive-in Movie (2013),Children|Documentary
+164411,My Life as a Courgette (2016),Animation|Children|Drama
+164449,Teens in the Universe (1975),Adventure|Children|Comedy|Sci-Fi
+164455,Tschick (2016),Children
+164707,Go Figure (2005),Children|Comedy|Drama
+164721,"Signed, Sealed, Delivered: From Paris With Love (2015)",Children
+164725,The Cheetah Girls 2 (2006),Children|Comedy|Drama
+164731,Secret Summer (2016),Children|Romance
+164735,The Cheetah Girls (2003),Children|Comedy|Drama
+164747,Jesus Christ Superstar - Live Arena Tour (2012),Children
+164765,Love Finds You In Sugarcreek (2014),Children|Drama|Mystery
+164767,Princess of Thieves (2001),Action|Adventure|Children|Romance
+164779,Parent Trap III (1989),Action|Children|Comedy|Drama
+164781,The Cookie Mobster (2014),Children
+164785,Annie: A Royal Adventure (1995),Children
+164793,Raising the Bar (2016),Children
+164797,Harriet the Spy: Blog Wars (2010),Children|Comedy|Drama
+164837,A Heartland Christmas (2010),Children
+164839,Moondance Alexander (2007),Children|Drama
+164841,Flicka: Country Pride (2012),Children|Drama
+164843,The Wild Stallion (2009),Action|Adventure|Children|Drama|Western
+164851,Felicity: An American Girl Adventure (2005),Action|Children|Drama|Thriller
+164853,An American Girl: Chrissa Stands Strong (2009),Children|Drama
+164855,Samantha: An American Girl Holiday (2004),Children|Drama
+164857,Minor Details (2009),Children|Drama|Mystery
+164859,Escape to Witch Mountain (1995),Adventure|Children|Fantasy
+164861,Isabelle Dances Into the Spotlight (2014),Children|Drama
+164863,Molly: An American Girl on the Home Front (2006),Children|Drama
+164867,Au Pair 3: Adventure in Paradise (2009),Children
+164871,Lover of Loser (2009),Children|Drama
+164895,You Are Umasou (2010),Adventure|Animation|Children
+164929,Air Mater (2011),Animation|Children
+164957,Barbie in Rock 'N Royals (2015),Animation|Children
+164959,Barbie: Spy Squad (2016),Action|Animation|Children
+165129,What a Wonderful Family! (2016),Children|Drama
+165141,Trolls (2016),Adventure|Animation|Children
+165153,LEGO DC Comics Super Heroes: Batman: Be-Leaguered (2014),Action|Adventure|Animation|Children
+165177,The Girl and The Echo (1964),Children|Drama
+165297,The Twelve Trees of Christmas (2013),Children
+165309,A Kiss at Midnight (2008),Children|Romance
+165313,Jessica Darling's It List (2016),Children
+165323,Romantically Speaking (2015),Children|Romance
+165367,Bling (2016),Animation|Children
+165389,Christmas Magic (2011),Children
+165391,Trading Christmas (2011),Children
+165397,Cinderella (1899),Children|Fantasy|Horror|Sci-Fi
+165405,Aschenputtel (1955),Children|Comedy|Fantasy
+165437,Island of Lost Souls (2007),Action|Adventure|Children
+165497,Single Santa Seeks Mrs. Claus (2004),Children|Comedy|Fantasy
+165499,Moonlight & Mistletoe (2008),Children|Comedy|Drama|Romance
+165501,Christmas Do-Over (2006),Children|Comedy|Fantasy
+165637,Captain Sindbad (1963),Action|Adventure|Children|Fantasy
+165743,Bound & Babysitting (2015),Children
+165749,Little Longnose (2003),Adventure|Animation|Children
+165805,The Christmas Dragon (2014),Adventure|Children|Fantasy
+165927,Ivan Tsarevich & the Grey Wolf (2011),Animation|Children
+165929,Ivan Tsarevich & the Grey Wolf 2 (2013),Adventure|Animation|Children
+165931,Ivan Tsarevich & the Grey Wolf 3 (2016),Adventure|Animation|Children
+166042,Riley's First Date? (2015),Animation|Children
+166046,A Christmas Romance (1994),Children|Drama|Romance
+166179,The Secret Garden (1987),Children|Drama
+166183,Junior and Karlson (1968),Adventure|Animation|Children
+166191,All Hallow's Eve (2016),Children
+166193,All She Wishes (2015),Children|Comedy|Fantasy
+166197,Race to Win (2016),Children|Drama
+166199,Coming Home for Christmas (2013),Children
+166203,Sapphire Blue (2014),Adventure|Children|Fantasy|Sci-Fi
+166209,Die Schöne und das Biest (2012),Children|Fantasy
+166211,Aschenputtel (2011),Children|Fantasy
+166217,Christmas with Holly (2012),Children|Drama
+166221,The Princess with the Golden Star (1959),Children|Fantasy
+166223,"Von einem, der auszog, das Fürchten zu lernen (2014)",Children|Fantasy|Horror
+166225,Prinzessin Maleen (2015),Children
+166227,Der Teufel mit den drei goldenen Haaren (2013),Children|Fantasy
+166229,Allerleirauh (2012),Children|Fantasy
+166231,Die Salzprinzessin (2015),Children|Fantasy
+166385,God's Country (2012),Children|Comedy|Drama
+166401,The Adventures of the American Rabbit (1986),Animation|Children|Fantasy|Sci-Fi
+166461,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy
+166508,Logan (2010),Children|Comedy|Drama
+166556,Pojken med guldbyxorna (2014),Adventure|Children|Fantasy
+166765,Tri bogatyrya i Shamakhanskaya tsaritsa (2010),Adventure|Animation|Children|Comedy
+166852,The Dog Who Saved the Holidays (2012),Children|Comedy
+167036,Sing (2016),Animation|Children|Comedy
+167042,My Family and Other Animals (2005),Children|Comedy|Drama
+167116,Miss India America (2016),Children|Comedy|Drama
+167132,Perri (1957),Adventure|Children|Fantasy
+167134,Thread of Lies (2014),Children|Drama
+167260,Krummerne (1991),Children|Comedy
+167278,The Ugly Duckling (2010),Animation|Children
+167288,Rodeo and Juliet (2015),Children|Romance
+167304,A Tale of Two Critters (1977),Adventure|Children
+167318,The Littlest Outlaw (1955),Children
+167378,Greater (2016),Children|Drama
+167418,Jingle Bells (1999),Children
+167444,The Witching of Ben Wagner (1990),Adventure|Children|Drama|Romance
+167454,A Christmas Eve Miracle (2015),Children|Comedy
+167476,Rara (2016),Children|Drama
+167536,"Good Luck Charlie, It's Christmas! (2011)",Children|Comedy
+167580,Adventures in Dinosaur City (1991),Adventure|Children|Fantasy
+167582,Dexter's Laboratory: Ego Trip (1999),Animation|Children|Comedy|Sci-Fi
+167584,Scary Godmother The Halloween Spooktakular (2003),Animation|Children|Comedy
+167610,Why Blame It on the Child? (2016),Children|Comedy
+167618,Munchie Strikes Back (1994),Children|Comedy|Fantasy
+167620,Leap! (2016),Animation|Children|Comedy
+167636,Monster Trucks (2016),Action|Animation|Children|Comedy|Sci-Fi
+167652,Red Dog: True Blue (2016),Children|Comedy|Drama
+167726,Sheep & Wolves (2016),Adventure|Animation|Children|Comedy
+167790,The Good Boy (2016),Children|Comedy|Drama
+167792,"What's Opera, Doc? (1957)",Animation|Children|Comedy
+167866,Homerun (2003),Children|Drama
+167880,The Adventures of Rex and Rinty (1935),Adventure|Children
+167954,Vulcan (1999),Children|Fantasy
+167970,Mama (1976),Adventure|Children|Fantasy
+168002,Christmas Land (2015),Children
+168004,Die goldene Gans (2013),Children|Fantasy
+168006,The Watermill Princess (1994),Children|Comedy|Fantasy
+168010,A Christmas Wish (2011),Children|Comedy|Drama
+168016,The Third Prince (1982),Children|Fantasy|Romance
+168018,The Salt Prince (1983),Children|Fantasy
+168032,Lea to the Rescue (2016),Children
+168034,The Good Witch's Garden (2009),Children|Comedy|Fantasy|Romance
+168036,The Good Witch's Gift (2010),Children|Drama|Fantasy
+168046,A Nutcracker Christmas (2016),Children|Drama|Romance
+168076,We Can Be Heroes! (2002),Children|Drama
+168082,Bejewelled (1991),Action|Adventure|Children
+168150,Legends of the Hidden Temple (2016),Adventure|Children
+168222,Promise (1986),Children|Drama
+168272,Every Second Counts (2009),Children|Documentary|Drama
+168336,George's Island (1989),Adventure|Children|Drama
+168418,The Boss Baby (2017),Animation|Children|Comedy
+168558,Finding Rin Tin Tin (2007),Children|Drama
+168638,Stick Man (2016),Animation|Children
+168684,Rabbit Heart (1987),Adventure|Children
+168688,Rascals on the Road (2006),Children|Comedy
+168702,The Lion Child (1993),Adventure|Children
+168720,Lost & Found (2017),Adventure|Children|Mystery
+168792,The Great Gilly Hopkins (2016),Children|Comedy|Drama
+168812,Lift me up (2015),Children
+168816,Different Drummers (2013),Children|Drama
+168824,Ozzy (2016),Animation|Children
+168910,Come Together (2016),Children|Comedy|Drama
+168918,Old Partner (2008),Children|Documentary|Drama
+168924,Take Me Far Away (2009),Children|Drama
+169002,Plane Crazy (1928),Animation|Children
+169092,The Story of the Voyages (1983),Adventure|Children|Fantasy
+169118,Tamako in Moratorium (2013),Children|Comedy|Drama
+169122,Mukhsin (2006),Children|Comedy|Drama
+169130,The Blue Bird (2008),Children|Drama
+169144,Village of Dreams (1996),Children
+169174,Higglety Pigglety Pop! or There Must Be More to Life (2010),Children|Fantasy
+169234,White Wolves - A Cry in the Wild II (1993),Action|Adventure|Children
+169476,Departure (2016),Children|Drama|Romance
+169478,Fair Haven (2017),Children|Drama
+169708,The Birch Wood (1970),Children|Drama|Romance
+169846,Sword of D'Artagnan (2015),Adventure|Children
+169858,Kings of Kallstadt (2014),Children|Comedy|Documentary
+169874,Foster (2011),Children|Comedy|Drama
+170028,Canola (2016),Children|Drama
+170036,Milton's Secret (2016),Children|Drama
+170137,John and Julie (1955),Children|Comedy
+170217,Rad (1986),Children|Drama
+170275,Jumping Ship (2001),Children|Drama
+170277,Jason and the Argonauts (2000),Action|Children|Fantasy
+170285,Inspector Gadget 2 (2003),Action|Adventure|Children|Comedy
+170293,Lilo & Stitch 2: Stitch has a Glitch (2005),Animation|Children|Comedy
+170305,The Sandlot 2 (2005),Children|Comedy
+170319,The Blue Butterfly (2004),Adventure|Children|Drama
+170435,The Incredible Adventures Of Professor Branestawm (2014),Children|Fantasy
+170485,O Kadhal Kanmani (2015),Children|Drama|Romance
+170507,You Should Meet My Son (2010),Children|Comedy
+170627,Smurfs: The Lost Village (2017),Adventure|Animation|Children|Comedy
+170777,There Once Was a Dog (1982),Animation|Children|Comedy
+170785,Spark: A Space Tail (2017),Animation|Children
+170789,Diary of a Wimpy Kid: The Long Haul (2017),Children|Comedy
+170797,"Dr. Syn, Alias the Scarecrow (1963)",Adventure|Children
+170837,Life-Size (2000),Children|Comedy|Fantasy
+170939,Captain Underpants: The First Epic Movie (2017),Action|Animation|Children|Comedy
+170975,The Ten Lives of Titanics the Cat (2007),Action|Children|Drama|Mystery|Thriller
+171003,Rufus (2016),Children|Comedy
+171005,Rufus 2 (2017),Children|Comedy|Fantasy
+171191,Frankenweenie (1984),Children|Comedy
+171215,Cry Wilderness (1987),Adventure|Children|Fantasy
+171229,Re-Animated (2006),Children|Comedy
+171361,Godspell: A Musical Based on the Gospel According to St. Matthew (1973),Children
+171385,Bizim Aile (1975),Children|Comedy|Drama
+171395,Sultan (1978),Children|Comedy|Romance
+171397,Gülen Gözler (1977),Children|Comedy|Drama
+171411,Oh Olsun (1970),Children|Comedy
+171459,Lost in the Barrens (1990),Children|Drama
+171567,Perfect Harmony (1991),Children|Drama
+171591,You're So Cupid (2010),Children|Drama|Fantasy|Romance|Sci-Fi
+171635,Gnomes and Trolls: The Secret Chamber (2008),Animation|Children
+171731,Practical Joke (2008),Children|Drama|Romance
+171839,Breakfast on the Grass (1979),Adventure|Children|Comedy
+171849,Without Family (1984),Children|Drama
+171903,Love and Lies (1980),Children|Romance
+171937,Monster High: Electrified (2017),Animation|Children
+171939,"Monster High: Boo York, Boo York (2015)",Animation|Children
+171941,Monster High: 13 Wishes (2013),Animation|Children|Fantasy
+171943,Monster High: Welcome to Monster High (2016),Animation|Children
+171945,Monster High: Haunted (2015),Animation|Children|Fantasy
+171947,Monster High: Fright On! (2011),Animation|Children|Fantasy
+171951,Monster High: Friday Night Frights (2013),Animation|Children
+171953,"Monster High: Frights, Camera, Action! (2014)",Animation|Children|Fantasy
+171955,Monster High: Escape from Skull Shores (2012),Animation|Children|Fantasy
+171959,Monster High: Ghouls Rule (2012),Animation|Children
+171993,Angels and Ornaments (2014),Children|Romance
+172029,Dolly Parton's Christmas of Many Colors: Circle of Love (2016),Children|Drama
+172085,A Gift with a Character (2014),Children|Comedy
+172099,The Republic of ShKID (1966),Children|Comedy
+172121,After the Reality (2016),Children|Comedy|Drama
+172189,Snow (2004),Children|Comedy
+172201,Take Away (2003),Children|Comedy
+172205,Somebody's Hero (2011),Children|Comedy|Romance
+172217,Project: ALF (1996),Children|Comedy|Sci-Fi
+172223,School Of Life (2005),Children|Comedy|Drama
+172241,Secret Santa (2003),Children|Romance
+172279,Meet The Santas (2005),Children|Comedy|Fantasy
+172289,George of the Jungle 2 (2003),Adventure|Children|Comedy
+172307,Family Ties Vacation (1985),Children|Comedy
+172313,Fast Girl (2008),Children|Drama
+172315,Justin Time (2010),Action|Adventure|Children|Fantasy|Sci-Fi
+172329,Cheats (2002),Children|Comedy
+172345,Dolphins (2007),Action|Children|Thriller
+172347,Christmas Mail (2010),Children|Comedy
+172357,Deal of a Lifetime (1999),Children|Comedy|Drama|Fantasy|Romance|Sci-Fi
+172407,A Tale of Lost Times (1964),Children|Comedy|Fantasy
+172421,Ghost (2015),Children|Comedy
+172489,Casper: A Spirited Beginning (1997),Children|Comedy
+172495,Mia and the Migoo (2008),Animation|Children
+172547,Despicable Me 3 (2017),Adventure|Animation|Children|Comedy
+172573,Rock Dog (2016),Adventure|Animation|Children|Comedy
+172577,Last Year's Snow Was Falling (1983),Animation|Children|Comedy|Fantasy
+172585,Karlson Returns (1970),Adventure|Animation|Children
+172597,The Adventures of Buratino (1959),Adventure|Animation|Children|Fantasy
+172607,Jasmine Women (2004),Children|Drama|Romance
+172669,Karlsson on the Roof (2002),Animation|Children
+172733,Cancel Christmas (2011),Children|Fantasy
+172763,The Adventures of the Electronic (1979),Adventure|Children|Sci-Fi
+172793,Vovka in the Kingdom of Far Far Away (1965),Adventure|Animation|Children|Fantasy
+172799,"Mary Poppins, Goodbye (1983)",Children|Fantasy
+172815,The Diaries of a School Principal (1975),Children|Drama
+172825,Adventures of Mowgli: The Kidnapping (1968),Adventure|Animation|Children
+172885,That still Karloson! (2012),Children|Comedy|Fantasy
+172911,Botsman i Popugay (1982),Animation|Children|Comedy
+173031,Manhunt in Space (1956),Adventure|Children|Sci-Fi
+173093,Father Frost (1964),Children|Comedy|Fantasy|Romance
+173167,Ustad Hotel (2012),Children|Drama
+173271,The Hunchback of Notre-Dame (1986),Animation|Children
+173337,Willy The Sparrow (1988),Animation|Children
+173345,Cat City (1986),Animation|Children
+173351,Wow! A Talking Fish! (1983),Animation|Children|Comedy|Fantasy
+173431,The Wild Country (1970),Adventure|Children|Western
+173489,The Magic Roundabout (2005),Animation|Children
+173631,The Giant King (2012),Animation|Children|Comedy|Fantasy|Sci-Fi
+173641,The Cutlass (1973),Adventure|Children
+173703,Courage (2011),Children|Drama
+173807,The Whiskered Nanny (1977),Children|Comedy
+173857,Growing Up Smith (2017),Children|Comedy|Drama
+173873,Gulliver's Travels (1996),Adventure|Children|Fantasy
+173913,Center of My World (2016),Children|Drama
+173933,The Son of Bigfoot (2017),Animation|Children
+173947,The Great Piggy Bank Robbery (1946),Animation|Children|Comedy
+173957,Ali Baba Bunny (1957),Animation|Children|Comedy
+174047,Tubby the Tuba (1975),Animation|Children
+174085,Fast and Furry-Ous (1949),Animation|Children|Comedy
+174087,Feed the Kitty (1952),Animation|Children|Comedy
+174095,Devil May Hare (1954),Animation|Children|Comedy
+174235,A Little Princess (1986),Children|Drama
+174255,The Night Before Christmas (1905),Children|Fantasy
+174405,Gold (2014),Children|Comedy|Drama
+174455,Poor Sasha (1997),Adventure|Children|Comedy
+174507,Scandalous John (1971),Children|Comedy|Drama|Western
+174521,"Why, Charlie Brown, Why? (1990)",Animation|Children|Comedy|Drama
+174529,The Easter Bunny Is Comin' to Town (1977),Animation|Children|Fantasy|Sci-Fi
+174533,Pokémon: Spell of the Unown (2000),Action|Adventure|Animation|Children|Fantasy
+174535,Mickey's House of Villains (2001),Animation|Children
+174537,Air Bud: Spikes Back (2003),Children|Comedy
+174539,Air Bud 3: World Pup (2001),Children|Comedy|Drama
+174541,Tarzan & Jane (2002),Animation|Children|Comedy
+174543,Pokémon 4Ever: Celebi - Voice of the Forest (2001),Adventure|Animation|Children|Fantasy|Sci-Fi
+174545,Pokémon: Destiny Deoxys (2004),Adventure|Animation|Children|Fantasy
+174547,The Christmas Tree (1991),Animation|Children
+174693,Home (2016),Children|Drama|Horror
+174811,Nukie (1988),Children|Sci-Fi
+174831,Summer 1993 (2017),Children|Drama
+174913,Keet & Koen: The Treasure Hunt (2015),Children|Comedy
+174957,Batman Beyond: The Movie (1999),Action|Animation|Children
+174959,50 Kilo Albaloo (2016),Children|Comedy|Drama
+175189,Swim Team (2016),Children|Documentary|Drama
+175229,Tommy and the Wildcat (1998),Adventure|Children|Drama
+175231,Annie (1999),Children|Comedy
+175237,The Gnomes' Great Adventure (1987),Animation|Children
+175263,Snow White: The Fairest of Them All (2001),Adventure|Children|Fantasy
+175293,Gena the Crocodile (1969),Animation|Children
+175313,My Good Enemy (2010),Children|Drama
+175317,When I Will Become a Giant (1978),Children|Romance
+175319,George ! (1972),Children|Comedy
+175361,Tatu and Patu (2016),Children|Comedy
+175387,On the Trail of the Bremen Town Musicians (1973),Adventure|Animation|Children
+175397,"In the blue sea, in the white foam. (1984)",Animation|Children|Fantasy
+175469,Minions: Banana (2010),Animation|Children|Comedy
+175475,The Emoji Movie (2017),Animation|Children|Comedy
+175479,Detective Conan: Crimson Love Letter (2017),Action|Adventure|Animation|Children|Crime|Mystery
+175625,The Dragon Spell (2016),Adventure|Animation|Children|Comedy|Fantasy
+175753,Sahara (2017),Adventure|Animation|Children|Comedy
+175765,Pippi Longstocking (1969),Adventure|Children
+175787,Minions: Orientation Day (2010),Animation|Children|Comedy
+175795,Descendants 2 (2017),Action|Adventure|Children|Comedy
+175835,Hemo The Magnificent (1957),Animation|Children
+175875,Siv Sleeps Astray (2016),Adventure|Children
+175901,Mister Blot's Academy (1984),Children|Fantasy
+175925,Mr. Blot in Space (1988),Children|Fantasy
+175927,Friend of the Jolly Devil (1987),Adventure|Children|Fantasy
+176165,Cop and a Half: New Recruit (2017),Action|Children|Comedy|Crime
+176171,Arabian Nights (2000),Children|Drama|Fantasy
+176201,Šíleně smutná princezna (1968),Children|Comedy
+176217,To Be Fat Like Me (2007),Children|Drama
+176235,Pooh's Heffalump Halloween Movie (2005),Animation|Children
+176269,Subdue,Children|Drama
+176295,Scooby-Doo! Shaggy's Showdown (2017),Animation|Children|Comedy|Mystery|Western
+176299,Tom and Jerry: Willy Wonka and the Chocolate Factory (2017),Adventure|Animation|Children|Comedy
+176301,DC Super Hero Girls: Intergalactic Games (2017),Animation|Children
+176341,Albion: The Enchanted Stallion (2016),Adventure|Children|Comedy|Fantasy
+176389,The Nut Job 2: Nutty by Nature (2017),Adventure|Animation|Children|Comedy
+176455,Dubravka (1967),Children|Drama|Romance
+176523,Goodbye Christopher Robin (2017),Children
+176621,Boniface's Holiday (1965),Animation|Children|Comedy|Romance
+176651,Time Toys (2017),Children|Sci-Fi
+176661,What Taiga Was Silent About (1965),Adventure|Children
+176683,The Jetsons & WWE: Robo-WrestleMania! (2017),Animation|Children|Comedy
+176733,The Original Latin Kings of Comedy (2002),Children|Comedy|Thriller
+176867,Raggedy Ann and Raggedy Andy in the Pumpkin Who Couldn't Smile (1979),Animation|Children
+176881,The Small One (1978),Animation|Children
+176885,The Hoboken Chicken Emergency (1984),Children|Fantasy
+177027,Amanda (1996),Adventure|Children
+177037,Puss in Book: Trapped in an Epic Tale (2017),Adventure|Animation|Children|Comedy|Fantasy
+177079,The Little Princess (1997),Children|Drama
+177083,Suddenly Twenty (2016),Children|Comedy|Romance
+177091,Surf's Up 2: WaveMania (2017),Animation|Children|Comedy
+177137,Walking Across Egypt (1999),Children|Comedy|Drama
+177241,My Little Pony: The Movie (2017),Adventure|Animation|Children|Fantasy
+177263,Heartland (2016),Children|Drama|Romance
+177295,Jesús (2016),Children|Drama
+177369,Three Fat Men (1966),Adventure|Children|Fantasy
+177371,"After the Rain, on Thursday (1985)",Adventure|Children|Fantasy|Romance
+177429,A Puppy for Christmas (2016),Children
+177511,I Give You My Word (2013),Adventure|Children
+177629,"Adventures of Petrov and Vasechkin, Both Usual and Unbelieveable (1983)",Children|Comedy
+177685,Aviya's Summer (1988),Children|Drama
+177723,Jonny's Golden Quest (1993),Adventure|Animation|Children|Mystery
+177765,Coco (2017),Adventure|Animation|Children
+177793,Little Door Gods (2016),Animation|Children|Fantasy
+177803,The School Waltz (1977),Children|Drama|Romance
+178067,We Don't Belong Here (2017),Children|Drama
+178285,Rotor DR1 (2015),Children|Sci-Fi
+178367,My Best Friend Is a Vampire (1987),Children|Comedy|Horror
+178369,Brothers of the Wind (2015),Adventure|Children|Drama
+178391,When Elephants Were Young (2016),Adventure|Children|Documentary|Drama
+178635,Alice in Wonderland (1949),Children|Fantasy
+178681,Brødrene Dal og vikingsverdets forbannelse (2010),Adventure|Children|Comedy
+178783,"Marecek, Pass Me the Pen! (1976)",Children|Comedy
+178827,Paddington 2 (2017),Adventure|Animation|Children|Comedy
+178967,"The Lion, the Witch and the Wardrobe (1979)",Animation|Children
+179083,Nussknacker und Mausekönig (2015),Children
+179093,The Stray (2017),Children|Drama
+179107,The Legend of the Titanic (1999),Animation|Children
+179113,Close-Knit (2017),Children|Drama
+179203,The Puppetoon Movie (1987),Animation|Children|Fantasy
+179263,Fidgety Bram (2012),Children|Comedy
+179265,Siberians (1940),Adventure|Children
+179389,Chef (2017),Children|Comedy|Drama
+179401,Jumanji: Welcome to the Jungle (2017),Action|Adventure|Children
+179433,"Our Friend, Martin (1999)",Animation|Children
+179513,Lucky's Treasure (2017),Adventure|Children
+179515,A Horse Tail (2015),Children|Drama|Romance
+179519,Spirit Riders (2015),Children
+179521,Free Willy: Escape From Pirate's Cove (2010),Action|Adventure|Children|Drama
+179525,Gibby (2016),Children
+179527,Annabelle Hooper and the Ghosts of Nantucket (2016),Children|Mystery
+179533,Puppy Love (2012),Children|Comedy|Drama
+179535,12 Dogs of Christmas: Great Puppy Rescue (2012),Children|Comedy
+179545,Der Froschkönig (2008),Children|Fantasy
+179547,Die Gänsemagd (2009),Children|Fantasy
+179549,Prinz Himmelblau und Fee Lupine (2016),Children|Fantasy|Mystery
+179551,Der Prinz im Bärenfell (2015),Children|Fantasy
+179567,Change of Plans (2011),Children|Comedy|Drama
+179589,Windstorm 2 (2015),Adventure|Children|Drama|Romance
+179593,Passport to Paris (1999),Children|Comedy|Drama
+179599,Getting There (2002),Children
+179603,A Boyfriend for Christmas (2004),Children|Comedy|Drama|Romance
+179617,Dornröschen (2009),Children|Fantasy
+179621,Frau Holle (2008),Children
+179623,Die zertanzten Schuhe (2011),Children|Fantasy
+179625,Die Sterntaler (2011),Children|Fantasy
+179627,Die kluge Bauerntochter (2009),Children|Fantasy
+179629,Tischlein deck dich (2008),Children|Fantasy
+179631,The girl With the Sulfur (2013),Children|Fantasy
+179633,Das tapfere Schneiderlein (2008),Children|Fantasy
+179635,Sechse kommen durch die ganze Welt (2014),Children|Fantasy
+179639,Die Bremer Stadtmusikanten (2009),Children|Fantasy
+179641,Der Meisterdieb (2010),Children|Fantasy
+179643,Brüderchen und Schwesterchen (2008),Children|Fantasy
+179649,Horse Crazy (2001),Children|Drama
+179705,Pinocchio 3000 (2004),Animation|Children|Sci-Fi
+179725,Princess (2008),Children|Fantasy
+179729,Prince Charming (2001),Adventure|Children|Comedy|Fantasy|Romance|Sci-Fi
+179853,Sedmero krkavců (2015),Children|Fantasy
+179895,Hats Off to Christmas! (2013),Children|Drama|Romance
+179947,Yogi and the Invasion of the Space Bears (1988),Animation|Children
+179979,Heroes Above All (2017),Adventure|Children
+180013,Wee Sing in Sillyville (1989),Children
+180091,Pokémon the Movie: I Choose You! (2017),Adventure|Animation|Children|Comedy|Drama|Fantasy
+180099,The Big Bad Fox and Other Tales (2017),Animation|Children
+180111,David Copperfield (1993),Animation|Children
+180171,The Incredible Mrs. Ritchie (2004),Children|Drama
+180247,Where's Willie? (1978),Children|Comedy
+180309,My Pet Dinosaur (2017),Action|Adventure|Children
+180343,A Connecticut Yankee in King Arthur's Court (1949),Children|Comedy|Fantasy
+180357,Anita and Me (2002),Children|Comedy|Drama
+180393,Tower of Terror (1997),Children|Comedy|Horror|Thriller
+180429,Bitch (2017),Children|Comedy|Drama|Thriller
+180467,L'île de Black Mór (2004),Adventure|Animation|Children
+180537,Barbie: Dolphin Magic (2017),Adventure|Animation|Children|Fantasy
+180843,Schreckenstein Castle (2016),Adventure|Children|Comedy
+180965,The Healer (2017),Children|Comedy|Drama
+180987,Ferdinand (2017),Animation|Children|Comedy
+181073,Mariah Carey's All I Want for Christmas Is You (2017),Animation|Children
+181081,"Strawberry Shortcake: Berry, Merry Christmas (2003)",Animation|Children
+181085,They Shall Have Music (1939),Children|Drama
+181089,This Is Not a Love Song (2002),Children|Mystery|Thriller
+181189,Grandmother (1989),Children|Drama
+181217,Doctor Who: The Return Of Doctor Mysterio (2016),Adventure|Children|Drama|Sci-Fi
+181221,About the Little Red Riding Hood (1977),Adventure|Children|Fantasy
+181421,"Careful, He Might Hear You (1983)",Children|Drama
+181491,Little Gray Neck (1948),Animation|Children
+181529,Angels in the Snow (2015),Children|Drama
+181551,"Point, Point, Comma... (1972)",Children|Comedy|Romance
+181581,Godless (2015),Children|Drama
+181595,Sara and Ayda (2017),Children|Drama
+181601,Olaf's Frozen Adventure (2017),Adventure|Animation|Children|Comedy|Fantasy
+181625,The Pee Wee 3D: The Winter That Changed My Life (2012),Children|Comedy|Drama
+181631,Bruno & Boots: Go Jump in the Pool (2016),Children
+181633,Bruno & Boots: This Can't Be Happening at Macdonald Hall (2017),Children
+181687,The Wednesday (2016),Children|Crime|Drama
+181713,The Electric Grandmother (1982),Children|Sci-Fi
+181771,Uncle Donald's Ants (1952),Animation|Children
+181773,Drip Dippy Donald (1948),Animation|Children|Comedy
+181779,Three Little Bops (1957),Animation|Children|Comedy
+181789,Up a Tree (1955),Animation|Children|Comedy
+181791,Grin and Bear It (1954),Animation|Children
+181793,Dragon Around (1954),Animation|Children
+181797,Spare the Rod (1954),Animation|Children|Comedy
+181839,Corn Chips (1951),Animation|Children
+181849,Working for Peanuts (1953),Animation|Children
+181863,Plutopia (1951),Animation|Children|Comedy
+181889,Chicken in the Rough (1951),Animation|Children
+181891,Slide Donald Slide (1949),Animation|Children|Comedy
+181895,The Simple Things (1953),Animation|Children|Comedy
+181919,Cold Storage (1951),Animation|Children|Comedy
+181921,Pluto and the Gopher (1950),Animation|Children
+181927,Chip an' Dale (1947),Animation|Children
+181945,Wet Paint (1946),Animation|Children
+181959,Sleepy Time Donald (1947),Animation|Children|Comedy
+181999,Mickey's Birthday Party (1942),Animation|Children|Comedy
+182009,The Nifty Nineties (1941),Animation|Children|Comedy
+182017,Figaro and Cleo (1943),Animation|Children
+182021,Symphony Hour (1942),Animation|Children|Comedy
+182037,Tea for Two Hundred (1948),Animation|Children|Comedy
+182047,Mickey Down Under (1948),Animation|Children
+182069,Window Cleaners (1940),Animation|Children
+182077,Pluto's Dream House (1940),Animation|Children
+182081,Modern Inventions (1937),Animation|Children
+182133,Mickey and the Seal (1948),Animation|Children|Comedy
+182135,Little Red Riding Hood (1922),Animation|Children|Comedy
+182137,Peter and the Wolf (1946),Animation|Children
+182143,Goofy's Glider (1940),Animation|Children|Comedy
+182179,Old King Cole (1933),Animation|Children
+182189,The Pied Piper (1933),Animation|Children
+182235,The Bears and Bees (1932),Animation|Children|Comedy
+182265,Pigs in a Polka (1943),Animation|Children|Comedy
+182287,Porky in Egypt (1938),Animation|Children|Comedy
+182289,Page Miss Glory (1936),Animation|Children|Comedy
+182293,Hare-um Scare-um (1939),Animation|Children|Comedy
+182295,Prest-O Change-O (1939),Animation|Children|Comedy
+182299,Porky's Hare Hunt (1938),Animation|Children|Comedy
+182301,Tortoise Beats Hare (1941),Animation|Children|Comedy
+182309,Springtime (1929),Animation|Children|Comedy
+182555,LEGO Jurassic World: Indominus Escape (2016),Animation|Children|Comedy
+182557,Psych: The Movie (2017),Children|Comedy|Crime
+182567,Requiem for a Robot (2013),Children|Comedy|Sci-Fi
+182633,Kilukkam (1991),Children|Comedy
+182661,I'll Be Home for Christmas (2016),Children|Drama
+182689,Cek Toko Sebelah (2016),Children|Comedy
+182697,Hysterical (1983),Children|Comedy|Fantasy|Horror
+182729,The Proud Family Movie (2005),Animation|Children|Comedy
+182731,Pixel Perfect (2004),Children|Comedy|Sci-Fi
+182837,Hey Bunny (2017),Children|Comedy
+182847,Butterfly (2004),Children|Drama
+182897,Peter Bell (2002),Children
+182937,Peter Bell II: The Hunt for the Czar Crown (2003),Children
+183051,I am Diego Maradona (2015),Children|Crime|Drama
+183121,Rapsittie Street Kids: Believe in Santa (2002),Animation|Children|Comedy|Drama
+183219,The Christmas Train (2017),Children|Drama|Romance
+183255,The Magic Cloak of Oz (1914),Adventure|Children|Fantasy
+183301,The Tale of the Bunny Picnic (1986),Children
+183309,Every Day (2018),Children|Drama|Fantasy|Romance
+183373,The Patchwork Girl of Oz (1914),Adventure|Children|Comedy|Fantasy
+183387,Sorochinskaya yarmarka (Sorochintsi Fair) (2004),Children
+183399,"His Majesty, the Scarecrow of Oz (1914)",Adventure|Children|Comedy|Fantasy
+183415,A Fox's Tale (2008),Adventure|Animation|Children
+183445,Aile Arasında (2017),Children|Comedy
+183447,Land of No Return (1978),Adventure|Children
+183453,The Dreamer of Oz (1990),Children|Drama|Fantasy
+183467,Treasure Hounds (2017),Children|Fantasy
+183471,Correcting Christmas (2014),Children|Drama|Fantasy
+183561,The Good Witch's Wonder (2014),Children|Drama|Fantasy
+183595,Meow (2017),Children|Comedy|Drama|Fantasy|Sci-Fi
+183643,The Big Space Travel (1975),Adventure|Children|Romance|Sci-Fi
+183649,Momo (1986),Children|Comedy|Fantasy|Mystery|Sci-Fi
+183705,Green Grass of Wyoming (1948),Children|Drama|Western
+183759,Just Before Losing Everything (2013),Children|Drama
+183807,Tree Man (2016),Children|Documentary|Drama
+183833,Early Man (2018),Animation|Children|Comedy
+183933,Hans Christian Anderson's The Little Mermaid (1975),Animation|Children|Drama
+183975,Family Party (2015),Children|Drama
+184049,The Mystery of Green Hill (2017),Adventure|Children|Mystery
+184057,The Feather Fairy (1985),Children|Fantasy
+184139,I Downloaded a Ghost (2004),Children|Comedy|Fantasy
+184141,Roxy Hunter and the Mystery of the Moody Ghost (2007),Children|Mystery
+184143,Roxy Hunter and the Myth of the Mermaid (2008),Children|Comedy|Mystery
+184145,Roxy Hunter and the Secret of the Shaman (2008),Children|Mystery
+184173,Crossing the Line (2002),Children|Comedy|Drama
+184211,Shaadi Mein Zaroor Aana (2017),Children|Drama|Romance
+184261,The Night They Saved Christmas (1984),Children|Drama
+184277,"Sabine Kleist, Aged Seven (1982)",Children|Drama
+184287,Woody Woodpecker (2017),Animation|Children|Comedy
+184365,Lego Scooby-Doo!: Haunted Hollywood (2016),Animation|Children
+184461,Lego DC Comics Super Heroes: The Flash (2018),Animation|Children
+184523,Time at the Top (1999),Adventure|Children|Fantasy|Mystery|Sci-Fi
+184663,Rosa: The Movie (2007),Children|Comedy
+184745,Alamara (2017),Children|Comedy
+184767,Jacobinte Swargarajyam (2016),Children|Drama
+184835,Lu Over the Wall (2017),Animation|Children|Fantasy
+184849,Time to Run (1974),Children|Drama
+184865,Sherlock Gnomes (2018),Animation|Children|Comedy|Fantasy|Mystery|Romance
+184947,Chatterbox (2009),Children|Comedy
+184961,In Search of Dr. Seuss (1994),Animation|Children|Comedy
+184963,Taking Flight (2015),Adventure|Animation|Children
+184971,The Miracle Maker (2000),Animation|Children
+184973,Buster & Chauncey's Silent Night (1998),Animation|Children
+184987,A Wrinkle in Time (2018),Adventure|Children|Fantasy|Sci-Fi
+185065,Best Player (2011),Children|Comedy
+185081,Annabelle's Wish (1997),Animation|Children
+185147,Julianne (1988),Children|Drama
+185187,Cirque du Soleil: Journey of Man (2000),Children|Drama
+185205,Free to Be… You and Me (1974),Animation|Children
+185213,Cirque du Soleil: Alegría (2001),Children|Documentary
+185215,iCarly: iGo to Japan (2008),Children|Comedy
+185231,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (1988)",Adventure|Children|Fantasy
+185313,Я худею (2018),Children|Comedy
+185433,Benji (2018),Children
+185571,I Can Only Imagine (2018),Children|Drama
+185605,LEGO DC Comics Super Heroes: Justice League: Cosmic Clash (2016),Action|Adventure|Animation|Children|Comedy
+185681,Bruno & Boots: The Wizzle War (2017),Children|Comedy
+185823,The Exciled Cow (2014),Children|Comedy|Drama
+185859,Ruben's Place (2012),Children|Drama
+186015,Anne of Green Gables: A New Beginning (2008),Children|Drama
+186027,The Wiggles Movie (1997),Children
+186097,A Talking Pony!?! (2013),Children
+186111,Thomas & Friends: Tale of the Brave: The Movie (2014),Animation|Children
+186113,A Tiger's Tail (2014),Children
+186119,A Gift Horse (2015),Children
+186137,Choose Your Own Adventure - The Abominable Snowman (2006),Children
+186139,Gamba (2015),Animation|Children
+186155,LEGO Friends: Girlz 4 Life (2016),Animation|Children
+186159,Tangled: Before Ever After (2017),Adventure|Animation|Children|Comedy|Fantasy
+186165,Barbie & Her Sisters in a Puppy Chase (2016),Animation|Children
+186169,Jurassic School (2017),Adventure|Children
+186177,Trolls Holiday (2017),Adventure|Animation|Children|Comedy|Fantasy
+186179,Peppa Pig: My First Cinema Experience (2017),Children
+186197,The BFG (1989),Animation|Children|Fantasy
+186217,Hyper Hamster (2018),Children|Fantasy
+186397,Surviving The Wild (2018),Action|Adventure|Children
+186455,The Colt (2005),Children|Drama|War
+186495,Jesus Christ Superstar Live in Concert (2018),Children
+186579,Rip Tide (2017),Children|Drama
+186651,Pranchiyettan & The Saint (2010),Children|Comedy
+186663,Njandukalude Naattil Oridavela (2017),Children|Comedy|Drama
+186677,Thenmavin Kombath (1994),Children|Comedy
+186705,Ann Maria Kalippilaanu (2016),Children|Drama
+186719,Oru Muthassi Gadha (2016),Adventure|Children|Comedy
+186729,C/O Saira Banu (2017),Children|Drama
+186731,How Old Are You (2014),Children|Drama
+186741,Immanuel (2013),Children|Drama
+186743,North 24 Kaatham (2013),Adventure|Children|Comedy
+186747,5 Sundarikal (2013),Children|Romance
+186767,"Well, Come On, Smile (1985)",Children|Drama
+186793,Out of Scale (1951),Animation|Children
+186935,Gnome Alone (2017),Adventure|Animation|Children
+186945,Shaggy Christmas Trees (2014),Children|Comedy
+187047,Blinky Bill (1992),Animation|Children
+187159,Helium (2013),Children|Drama
+187173,Adventure In The Hopfields (1954),Adventure|Children
+187245,Sgt. Stubby: An American Hero (2018),Adventure|Animation|Children
+187261,Knight-Mare Hare (1955),Animation|Children
+187281,The Dover Boys at Pimento University (1942),Animation|Children|Comedy
+187287,Happy Go Ducky (1958),Animation|Children|Comedy
+187289,Hare-Breadth Hurry (1963),Animation|Children
+187325,Tweety Pie (1947),Animation|Children|Comedy
+187333,Christmas in the Clouds (2001),Children|Comedy|Romance
+187353,Mad as a Mars Hare (1963),Animation|Children|Comedy
+187389,The House of Tomorrow (1949),Animation|Children|Comedy
+187499,Last Train Home (1989),Adventure|Children|Drama
+187539,Aniki Bóbó (1942),Children|Drama
+187541,Incredibles 2 (2018),Action|Adventure|Animation|Children
+187551,Bille (2018),Children
+187579,A Kid Like Jake (2018),Children|Drama
+187595,Solo: A Star Wars Story (2018),Action|Adventure|Children|Sci-Fi
+187617,LEGO DC Super Hero Girls: Super-Villain High (2018),Action|Animation|Children
+187629,The Legend of Johnny Lingo (2003),Action|Adventure|Children
+187631,Johnny Lingo (1969),Children|Drama
+187667,The Skipper 2 (1989),Children|Comedy|Drama
+187669,The Skipper (1987),Children|Comedy|Drama
+187677,An Elephant and a Rope (1945),Children|Fantasy
+187701,Onni von Sopanen (2006),Children
+187705,Mystery of the Wolf (2006),Adventure|Children|Drama
+187707,Hayflower and Quiltshoe (2002),Adventure|Children|Comedy
+187715,Zoo (2018),Children|War
+187731,Day-O (1992),Children|Comedy|Fantasy
+187837,Veera (1994),Children|Comedy
+187841,Dharmathin Thalaivan (1988),Children
+187851,Rolli - Amazing Tales (1991),Children|Fantasy
+187895,Ananda Thandavam (2009),Children|Drama|Romance
+187911,Kaavalan (2011),Children|Drama|Romance
+187921,Ghilli (2004),Action|Adventure|Children|Comedy|Romance
+187979,Thumbelina (1964),Adventure|Animation|Children|Romance
+187987,"Pro Fedota-streltsa, udalogo molodtsa (2008)",Adventure|Animation|Children
+187989,About Sidorov Vova (1985),Animation|Children|Comedy
+187995,Cat house (1958),Animation|Children
+188031,Petia and Little Red Riding Hood (1958),Animation|Children|Comedy
+188059,Kashtanka (1952),Animation|Children|Fantasy
+188075,The Frog Princess (1954),Animation|Children
+188077,Shapoklyak (1974),Animation|Children
+188079,Skazka o zolotom petushke (1967),Animation|Children
+188081,"Vacation of Petrov and Vasechkin, Usual and Incredible (1984)",Children|Comedy
+188099,Little Boat (1970),Animation|Children
+188101,Magic Power (1970),Children|Comedy
+188107,Blue Puppy (1976),Animation|Children
+188109,Cheburashka Goes to School (1983),Animation|Children
+188113,A Very Old Story (1968),Children|Fantasy
+188121,The Snow Queen (1966),Adventure|Children|Fantasy
+188133,The Adventures of the Yellow Suitcase (1970),Children|Comedy|Fantasy
+188195,Saturday's Warrior (1989),Children|Drama
+188197,Saturday's Warrior (2016),Children|Drama
+188221,Bigger Fatter Liar (2017),Adventure|Children|Comedy
+188251,Adventures of Vasia Kurolesov (1981),Animation|Children|Comedy|Mystery
+188277,The Tale of Tsar Saltan (1966),Children|Fantasy
+188279,New Year Adventures of Masha and Vitya (1975),Children|Fantasy
+188283,The Dog In Boots (1981),Adventure|Animation|Children
+188287,The Brave Tin Soldier (1976),Animation|Children|Fantasy
+188307,Hotel Transylvania 3: Summer Vacation (2018),Animation|Children|Comedy|Fantasy
+188313,Black and White Magic (1983),Children|Comedy
+188347,The Girl and the Bugler (1965),Adventure|Children|Drama
+188353,Tiger on the Sunflower (1981),Animation|Children
+188355,Cheburashka (2014),Animation|Children
+188363,Маленькие комедии большого дома (1974),Children|Comedy|Drama|Romance
+188371,Cinderella (1979),Animation|Children|Fantasy
+188385,Annamayya (1997),Children|Drama
+188497,Ramayanam (1996),Children|Drama
+188581,Las furias (2016),Children|Drama
+188747,The Adventure Club (2017),Children
+188851,Chandrettan Evideya (2015),Children|Comedy|Drama
+188883,Shapeshifter (1999),Children|Fantasy|Thriller
+188937,Mad World (2016),Children|Drama
+189059,Des Kaisers neue Kleider (2010),Children|Fantasy
+189075,Timetrip: The Curse of the Viking Witch (2009),Adventure|Children
+189165,The Real Tale (2011),Children|Comedy|Fantasy
+189187,Where Is Winky's Horse? (2007),Children
+189441,The Skippers of the Cameleon (2003),Children
+189473,"Red, Honest, in Love (1984)",Adventure|Children|Fantasy
+189479,The Swan Princess: Royally Undercover (2017),Animation|Children
+189591,Jungle Emperor Leo (1997),Adventure|Animation|Children|Comedy
+189671,Big Red (1962),Action|Adventure|Children|Drama
+189677,Monster High: New Ghoul at School (2010),Animation|Children
+189807,Millionaire Dogs (1999),Animation|Children
+189857,The Little Girl Who Sold the Sun (1999),Children|Drama
+189941,Camp Cool Kids (2017),Children
+190303,The O'Briens (2013),Children|Comedy|Drama|Romance
+190571,Sunday Morning (2017),Children|Drama|Thriller
+190575,A Wrinkle in Time (2003),Children|Drama|Sci-Fi
+190667,Kuch Khatti Kuch Meethi (2001),Children|Drama
+190673,Hum Aapke Dil Mein Rehte Hain (1999),Children|Drama|Romance
+190699,Katy Caterpillar (1984),Adventure|Animation|Children
+190709,"Through Fire, Water and... Brass Pipes (1968)",Children|Fantasy
+190737,Running for Grace (2018),Children|Romance
+190879,Kikoriki. Deja Vu (2018),Animation|Children|Comedy
+190905,Give the Devil His Due (1984),Children|Fantasy
+190907,Snowdrops and Aces (1983),Children|Comedy
+190909,"Once Upon a Time, There Was a King... (1955)",Children|Comedy
+190911,Ruffiano and Sweeteeth (1997),Children|Fantasy
+190915,Angel (2005),Children|Comedy|Fantasy
+190917,Angel 2 (2016),Children|Comedy|Fantasy
+190919,The Girl on the Broomstick (1972),Children|Comedy
+190921,The Silver Chair (1990),Adventure|Children|Fantasy
+191017,Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five (2014),Adventure|Animation|Children
+191099,Ratatoing (2007),Animation|Children|Comedy
+191119,Juggernaut (2017),Children|Crime|Drama
+191135,The Great Land of Small (1987),Adventure|Children|Fantasy|Sci-Fi
+191183,Prince Caspian and the Voyage of the Dawn Treader (1989),Adventure|Children|Fantasy
+191257,Treasure of the Hidden Planet (1997),Adventure|Animation|Children|Sci-Fi
+191271,Underdogs (2013),Children|Drama
+191329,A Mile in His Shoes (2011),Children|Drama
+191345,I'll Believe You (2007),Children|Comedy|Sci-Fi
+191401,Buzz Lightyear of Star Command: The Adventure Begins (2000),Adventure|Animation|Children|Comedy|Sci-Fi
+191419,Tottoi (1992),Adventure|Animation|Children
+191471,The Singles Ward (2002),Children|Comedy|Drama|Romance
+191473,The Singles 2nd Ward (2007),Children|Comedy|Drama|Romance
+191477,The R.M. (2003),Children|Comedy|Crime
+191647,El Chanfle (1979),Children|Comedy
+191687,Teen Titans Go! To the Movies (2018),Animation|Children
+191703,The Muppets' Wizard of Oz (2005),Adventure|Children|Comedy|Fantasy
+191773,Up in the Sky (2016),Adventure|Children|Fantasy
+191833,Den Brother (2010),Children
+192117,Life's a Jungle (2012),Animation|Children
+192131,36 Vayadhinile (2015),Children|Drama
+192225,Redwall The Movie (2000),Animation|Children|Comedy|Fantasy
+192305,Walter Vetrivel (1993),Action|Children|Crime|Drama
+192349,Horrid Henry: The Movie (2011),Adventure|Children|Comedy
+192377,Goosebumps: Haunted Halloween (2018),Adventure|Children|Comedy|Fantasy|Horror
+192395,Stepsister from Planet Weird (2000),Children|Sci-Fi
+192397,Rip Girls (2000),Children|Drama|Romance
+192399,Under Wraps (1997),Children|Comedy|Horror
+192401,The Westing Game (1997),Children|Horror|Mystery
+192411,Freaky Friday (2018),Children|Fantasy
+192453,A Dog and Pony Show (2018),Children|Comedy
+192457,Angels in the Infield (2000),Children|Comedy|Fantasy|Sci-Fi
+192459,Angels in the Endzone (1997),Children|Drama
+192559,The House with a Clock in Its Walls (2018),Children|Fantasy|Horror|Mystery|Sci-Fi|Thriller
+192579,Johnny English Strikes Again (2018),Action|Adventure|Children|Comedy
+192727,Penmani Aval Kanmani (1983),Children|Comedy|Drama
+192745,The Gnomist (2015),Children|Documentary
+192829,Parwaaz Hai Junoon,Adventure|Children|Romance
+192981,Penguin Highway (2018),Adventure|Animation|Children|Comedy|Fantasy
+192987,Storm - Letter of Fire (2017),Adventure|Children
+193011,The Bobot (2018),Adventure|Children|Sci-Fi
+193075,Woodpeckers Don't Get Headaches (1974),Children|Drama|Romance
+193203,Две сказки (1962),Animation|Children
+193205,The Cave of the Golden Rose 2 (1992),Adventure|Children|Fantasy|Romance
+193231,The Cave of the Golden Rose 3 (1993),Adventure|Children|Fantasy|Romance
+193283,102 Not Out (2018),Children|Comedy|Drama
+193325,LasseMajas detektivbyrå - Det första mysteriet (2018),Children
+193333,The Cave of the Golden Rose 4 (1994),Adventure|Children|Fantasy|Romance
+193337,Escape from the Palace (1975),Adventure|Children
+193357,Gnomes (1981),Animation|Children|Fantasy
+193403,A Talking Cat!?! (2013),Children|Comedy|Fantasy
+193487,Entre ríos: todo lo que no dijimos (2014),Children|Comedy|Drama
+193503,Redwoods (2009),Children|Drama|Romance
+193517,The Magic Treasure (1950),Animation|Children
+193535,Brothers Liu (1953),Animation|Children
+193539,The Cave of the Golden Rose 5 (1996),Adventure|Children|Fantasy
+193569,Enchanted Princess (2018),Animation|Children|Fantasy
+193617,Nelly & Simon:  Mission Yeti (2018),Adventure|Animation|Children
+193653,Большой Ух (1989),Animation|Children
+193926,Ormie (2010),Animation|Children
+193954,The Nutcracker and the Four Realms (2018),Adventure|Children|Fantasy
+193956,The Grinch (2018),Animation|Children|Comedy
+194016,Ralph Breaks the Internet (2018),Animation|Children
+194102,Mother Goose Rock 'N Rhyme (1990),Adventure|Children|Fantasy
+194218,Wickie the Viking (2009),Action|Adventure|Children|Comedy
+194220,Wickie and the Treasure of the Gods (2011),Action|Adventure|Children|Comedy
+194256,A Charlie Brown Thanksgiving (1973),Animation|Children|Comedy
+194258,Charlie Brown's All-Stars (1966),Animation|Children|Comedy
+194262,"It's Magic, Charlie Brown (1981)",Animation|Children
+194318,My Little Pony: The Movie (1986),Animation|Children
+194610,Dead Pigs (2018),Children|Comedy|Drama
+194752,Ready to Run (2000),Children
+194760,You Wish! (2003),Children
+194787,Undercover Grandpa (2017),Children|Comedy
+194795,Middle Class Abbayi (2017),Action|Children|Comedy
+194855,First-Year Student (1948),Adventure|Children|Comedy
+195031,Emil and the Detectives (2001),Children|Comedy
+195077,Halvdan Viking (2018),Children
+195161,Mary Poppins Returns (2018),Children|Fantasy
+195251,The Holiday Calendar (2018),Children|Comedy|Romance
+195271,Believe in Me (2006),Children|Drama
+195363,Room to Move (1987),Children|Drama
+195403,The Little Prince (1966),Children|Fantasy
+195515,The Ghost of Lord Farquaad (2003),Animation|Children|Comedy|Fantasy|Sci-Fi
+195537,The Dandelions (2012),Children|Comedy
+195613,Recess: All Growed Down (2003),Animation|Children|Comedy
+195615,Recess: Taking the Fifth Grade (2003),Animation|Children|Comedy
+195619,Kim Possible Movie: So the Drama (2005),Action|Adventure|Animation|Children|Drama
+195633,"Veritas, Prince of Truth (2007)",Adventure|Children|Fantasy
+195693,A Lullaby for Men (1977),Children|Drama|Romance
+195819,Abulele (2015),Adventure|Children|Fantasy
+195823,The Christmas Chronicles (2018),Adventure|Children|Comedy|Fantasy
+195881,LEGO DC Super Heroes - Aquaman: Rage Of Atlantis (2018),Action|Animation|Children
+195901,Дом для Кузьки (1984),Animation|Children
+195903,Kitten from Lizyukova Street (1988),Animation|Children
+196017,Satellite Boy (2012),Adventure|Children|Drama
+196071,"Bah, Humduck!: A Looney Tunes Christmas (2006)",Animation|Children|Comedy
+196181,The Wacky Wabbit (1942),Animation|Children|Comedy
+196215,Rabbit's Feat (1960),Animation|Children|Comedy
+196237,Aziris Nuna (2006),Adventure|Children|Sci-Fi
+196297,Dolphins (2018),Children|Documentary
+196369,Pixie Hollow Games (2011),Animation|Children
+196377,Robinson Crusoe (2003),Adventure|Children|Drama
+196417,How to Train Your Dragon: The Hidden World (2019),Adventure|Animation|Children
+196439,"How to Drown Dr. Mracek, the Lawyer (1975)",Children|Comedy
+196445,Island of Rusty General (1988),Children|Sci-Fi
+196455,Moomintroll and the Comet (1978),Animation|Children
+196457,"Tomorrow, on April 3rd... (1969)",Children|Drama
+196459,I Loved You... (1967),Children|Comedy|Romance
+196461,Once Upon a Girl (1944),Children|Drama|War
+196479,Wildwitch (2018),Adventure|Children|Fantasy|Sci-Fi
+196507,"Finest, the Brave Falcon (1975)",Children|Fantasy
+196519,A Winter Morning (1967),Children|Drama|War
+196541,Makar - Pathfinder (1984),Adventure|Children
+196545,The Bronze Bird (1974),Adventure|Children
+196557,Adventures of Mowgli: Return to Mankind (1971),Adventure|Animation|Children
+196559,Adventures of Mowgli: Akela's Last Hunt (1969),Adventure|Animation|Children
+196561,Adventures of Mowgli: The Fight (1970),Adventure|Animation|Children
+196565,Clara's Ghost (2018),Children|Comedy|Drama|Thriller
+196587,Sophia Grace & Rosie's Royal Adventure (2014),Adventure|Children|Comedy
+196613,Party Central (2014),Animation|Children|Comedy|Fantasy
+196683,Pet Shop (1995),Children|Comedy|Sci-Fi
+196691,Rabarber (2014),Children|Drama
+196693,Dragons: Dawn Of The Dragon Racers (2014),Adventure|Animation|Children|Comedy|Fantasy
+196719,An American Christmas Carol (1979),Children|Drama
+196725,My Santa (2013),Children|Fantasy|Romance
+196729,A Christmas Carol (1954),Children
+196755,A Flintstone Christmas (1977),Animation|Children|Comedy
+196845,Journey to the Christmas Star (2012),Adventure|Children|Fantasy
+196851,A Christmas Tree Miracle (2013),Children|Drama
+196855,Christmas All Over Again (2016),Children|Comedy
+196891,The Lego Movie 2: The Second Part (2019),Action|Adventure|Animation|Children|Comedy
+196899,Tortured for Christ (2018),Children|Documentary
+196903,Angela's Christmas (2018),Animation|Children
+197031,The Shanty Where Santy Claus Lives (1933),Animation|Children|Comedy|Fantasy
+197047,F.R.E.D.I. (2018),Adventure|Children|Sci-Fi
+197075,Kadaikutty Singam (2018),Action|Children|Comedy|Romance
+197105,Vechera na khutore bliz Dikanki (2001),Children
+197147,Israfil (2017),Children|Drama
+197149,Aba Jan (2017),Children|Drama
+197269,With You The World Is Fun (1982),Children|Comedy
+197273,Ghost Patrol (2016),Animation|Children
+197277,Bilby (2019),Animation|Children|Comedy
+197369,Golden Shoes (2015),Children
+197409,Please Accuse Klava K. of My Death (1979),Children|Drama|Romance
+197449,Tea Pets (2017),Adventure|Animation|Children
+197457,The Wind in the Willows (2006),Children|Drama
+197463,The Blue Bird (1976),Adventure|Children|Drama|Fantasy
+197471,Journey Back to Oz (1974),Animation|Children|Fantasy
+197539,Wheely (2018),Adventure|Animation|Children|Comedy
+197551,Mail Order Monster (2018),Children|Drama|Sci-Fi
+197591,A Dog's Way Home (2019),Children|Drama
+197743,Here Comes the Grump (2018),Adventure|Animation|Children|Comedy|Fantasy
+197761,"Beep, Beep (1952)",Animation|Children|Comedy
+197763,"Water, Water Every Hare (1952)",Animation|Children|Comedy
+197771,Long-Haired Hare (1949),Animation|Children|Comedy
+197779,What's Up Doc? (1950),Animation|Children|Comedy|Romance
+197781,Homeless Hare (1950),Animation|Children
+197785,Rabbit Hood (1949),Animation|Children|Comedy
+197787,Heavenly Puss (1949),Animation|Children
+197801,Rabbit Punch (1948),Animation|Children
+197805,Rhapsody Rabbit (1946),Animation|Children|Comedy
+197815,Baseball Bugs (1946),Animation|Children|Comedy
+197823,The Old Grey Hare (1944),Animation|Children|Comedy|Sci-Fi
+197827,Chicken Little (1943),Animation|Children
+197839,A Tale of Two Kitties (1942),Animation|Children|Comedy
+197843,A Wild Hare (1940),Animation|Children|Comedy
+197845,You Ought to Be in Pictures (1940),Animation|Children|Comedy
+197849,I Love to Singa (1936),Animation|Children|Comedy
+197857,The Growing Pains Movie (2000),Children|Comedy
+197861,The Secret Life of Kyle (2017),Animation|Children|Comedy
+197917,Sui Dhaaga (2018),Children|Comedy|Drama
+197955,Storm Boy (2019),Children|Drama
+197993,Orphan Horse (2018),Children|Drama
+198085,Train in the Snow (1976),Adventure|Children
+198129,The Kid Who Would Be King (2019),Action|Adventure|Children|Fantasy
+198131,The Prince and the Pauper (1942),Adventure|Children
+198249,Sune vs Sune (2018),Children|Comedy
+198259,Bon Voyage! (1962),Children|Comedy
+198303,An Ant's Life (1998),Children
+198305,The 3 Little Pigs: The Movie (1996),Children
+198309,Scrub Me Mama with a Boogie Beat (1941),Animation|Children|Comedy
+198403,Beauty and the Beast (1934),Animation|Children|Comedy
+198407,Pettin' in the Park (1934),Animation|Children|Comedy
+198419,Three's a Crowd (1932),Animation|Children|Comedy
+198469,The Little Witch (2018),Children|Comedy|Drama
+198471,Designs on Jerry (1955),Animation|Children|Comedy
+198591,Yellow Is the New Black (2018),Animation|Children|Comedy|Crime
+198641,Assault and Flattery (1956),Animation|Children|Comedy
+198791,The Queen's Corgi (2019),Animation|Children|Comedy
+198819,Friends: Naki on Monster Island (2011),Animation|Children|Comedy
+198909,After Darkness (2019),Children|Drama|Sci-Fi|Thriller
+199061,Ruslan and Ludmila (1972),Adventure|Children|Fantasy
+199201,Kids on the Slope (2018),Children|Comedy|Drama|Romance
+199285,Viswasam (2019),Action|Children|Romance
+199309,The Great Adventure of Zorro (1976),Action|Adventure|Children
+199350,Kitbull (2019),Animation|Children
+199440,Sandakozhi 2 (2018),Action|Children|Romance
+199542,Bad Apple (2016),Children|Drama
+199552,The New Adventures of Pinocchio (1999),Children
+199622,Scooby-Doo! and the Curse of the 13th Ghost (2019),Adventure|Animation|Children|Comedy|Mystery
+199648,Kim Possible (2019),Action|Adventure|Children|Comedy
+199664,Wabbit Twouble (1941),Animation|Children|Comedy
+199668,Brave Little Tailor (1938),Animation|Children|Fantasy
+199686,Panic in the Mailroom (2013),Animation|Children|Comedy|Sci-Fi
+199688,Puppy (2013),Animation|Children|Comedy|Sci-Fi
+199690,Minions: Training Wheels (2013),Adventure|Animation|Children|Comedy|Sci-Fi
+199692,Home Makeover (2010),Animation|Children|Comedy
+199694,Despicable Me Presents: Minion Madness (2010),Adventure|Animation|Children|Comedy
+199696,Competition (2015),Animation|Children
+199698,Cro Minion (2015),Animation|Children
+199802,"Yes, Virginia (2009)",Animation|Children
+199822,Belle's Magical World (1998),Animation|Children
+199828,The Bear Who Slept Through Christmas (1973),Animation|Children
+199832,How to Train Your Dragon - Legends (2010),Adventure|Animation|Children
+199834,Room on the Broom (2012),Animation|Children
+199836,Dear Dracula (2012),Animation|Children
+199842,Stellaluna (2004),Animation|Children
+199892,The Three Heroes: The Heiress to the Throne (2018),Animation|Children
+199918,Rainbow Magic: Return to Rainspell Island (2010),Adventure|Animation|Children
+199926,Bobby en de Geestenjagers (2013),Children|Fantasy
+199928,My Extraordinary Summer with Tess (2019),Children
+199932,Vechtmeisje (2018),Action|Children|Drama
+200026,Home Run Showdown (2012),Children
+200052,Pokémon the Movie: The Power of Us (2018),Adventure|Animation|Children|Fantasy
+200150,El mejor verano de mi vida (2018),Children|Comedy
+200156,Eva & Adam: Four Birthdays and a Fiasco (2004),Children|Romance
+200160,Kidz in da Hood (2006),Children|Comedy|Drama
+200238,Love at First Sight (2017),Animation|Children|Comedy|Romance
+200256,Dumbo (2019),Adventure|Children|Fantasy
+200270,Luis and the Aliens (2018),Adventure|Animation|Children|Comedy|Sci-Fi
+200272,Nancy Drew and the Hidden Staircase (2019),Children|Comedy|Crime|Mystery
+200614,Wonder Park (2019),Adventure|Animation|Children|Comedy|Fantasy
+200630,Missing Link (2019),Adventure|Animation|Children|Comedy|Fantasy
+200634,Eddie's Life Coach (2017),Animation|Children
+200684,The Land of Good Little Kids (2013),Adventure|Children
+200726,The Graduates (1995),Children|Drama
+200770,İksir (2014),Animation|Children|Comedy
+200802,Norm of the North: Keys to the Kingdom (2018),Animation|Children|Comedy
+200824,The Secret Life of Pets 2 (2019),Adventure|Animation|Children|Comedy
+200828,Life-Size 2 (2018),Children|Fantasy
+200838,Pokémon: Detective Pikachu (2019),Action|Children|Crime|Fantasy|Mystery
+200842,A Dog's Journey (2019),Children
+200908,The Adventures of Pinocchio (1975),Children|Fantasy
+200910,Tintin and the Blue Oranges (1964),Adventure|Children|Comedy
+200940,Strong as a Lion (2003),Adventure|Children|Drama
+201030,The Stone Flower (1946),Children|Fantasy
+201194,Penguins (2019),Children|Documentary
+201268,Mary Christmas (2002),Children|Drama
+201276,Jim Button and Luke the Engine Driver (2018),Adventure|Children|Fantasy
+201352,Patrick (2018),Children|Comedy
+201544,Timid Tabby (1957),Animation|Children|Comedy
+201588,Toy Story 4 (2019),Adventure|Animation|Children|Comedy
+201596,Tabasco Road (1957),Animation|Children|Comedy
+201674,Wot a Night (1931),Animation|Children
+201680,Stepan's Remembrance (1976),Children|Fantasy
+201805,The Legend of Timm Thaler or The Boy Who Sold His Laughter (2017),Adventure|Children|Drama
+201979,Little House: Bless All the Dear Children (1984),Children|Drama
+201981,Little House: Look Back to Yesterday (1983),Children|Drama|Romance|Western
+202099,Batman vs. Teenage Mutant Ninja Turtles (2019),Action|Animation|Children
+202153,In Family I Trust (2019),Children|Comedy
+202199,An Angel for May (2002),Children|Drama
+202235,Kidnep (2015),Adventure|Children
+202289,Space Chicken (2017),Action|Adventure|Animation|Children|Comedy|Sci-Fi
+202341,Einstein and Einstein (2013),Children|Drama
+202379,Spring Transformations (1974),Children|Drama|Romance
+202391,Malibu Rescue (2019),Children|Comedy
+202513,Winnie the Pooh: A Very Merry Pooh Year (2002),Animation|Children
+202517,Kung Fu Panda: Secrets of the Scroll (2016),Action|Adventure|Animation|Children|Comedy
+202539,Cinderella and the Secret Prince (2018),Adventure|Animation|Children|Fantasy
+202543,Little Bee (2007),Animation|Children|Comedy
+202619,Lucky Loser (2012),Children|Comedy|Fantasy
+202671,How to Wake a Princess (1978),Children|Fantasy
+202673,The Three Veterans (1984),Children
+202852,Home for Christmas (1990),Children|Drama|Fantasy
+202878,The Prize Fighter (1979),Children|Comedy|Crime
+202932,The Big Trip (2019),Adventure|Animation|Children|Comedy
+202942,Tadpole and the Whale (1987),Adventure|Children
+202958,I Believe in Santa Claus (1984),Children|Fantasy
+203040,Pachamama (2018),Adventure|Animation|Children|Fantasy
+203050,Get Squirrely (2015),Animation|Children|Comedy
+203062,Babes In Toyland (1987),Adventure|Children|Drama|Fantasy
+203166,Dog and Cat (1955),Animation|Children
+203222,The Lion King (2019),Adventure|Animation|Children|Drama
+203224,Dora and the Lost City of Gold (2019),Adventure|Children|Comedy
+203316,My Brother the Time Traveler (2017),Children|Comedy
+203371,Christmas with a View (2018),Children|Romance
+203401,Fred 2: Night of the Living Fred (2011),Adventure|Children|Comedy|Horror
+203403,Fred 3: Camp Fred (2012),Children
+203517,The Angry Birds Movie 2 (2019),Action|Adventure|Animation|Children|Comedy
+203649,Beats (2019),Children|Drama
+203657,The Butt (1974),Children|Comedy|Drama
+203703,Mr. Rossi Looks for Happiness (1976),Animation|Children
+203745,Turma da Mônica: Laços (2019),Adventure|Children|Comedy
+203757,"So Long, My Son (2019)",Children|Drama
+203894,The African Lion (1955),Children|Documentary
+203948,Kayak to Klemtu (2018),Adventure|Children
+204004,Jomonte Suvisheshangal (2017),Children|Comedy|Drama
+204086,Early Spring (1963),Children|Drama|Romance
+204110,Miracles of Thursday (1957),Children|Comedy|Fantasy
+204146,A Peacock's Tail (1946),Animation|Children
+204162,Little Ghost (1997),Adventure|Children|Fantasy
+204188,UglyDolls (2019),Adventure|Animation|Children|Comedy|Fantasy
+204372,The Olsen Gang in a Fix (1969),Children|Comedy|Crime
+204374,The Olsen Gang's Big Score (1972),Children|Comedy|Crime
+204376,The Olsen Gang Goes Crazy (1973),Children|Comedy|Crime
+204380,The Olsen Gang Outta Sight (1977),Children|Comedy|Crime
+204384,The Olsen Gang Goes to War (1978),Children|Comedy|Crime
+204386,The Last Exploits of the Olsen Gang (1974),Children|Comedy|Crime
+204450,Strawinsky and the Mysterious House (2012),Animation|Children
+204528,All Summer in a Day (1982),Children|Sci-Fi
+204578,The Green Book: Guide to Freedom (2019),Children|Drama
+204614,The Kindly Lion (1970),Animation|Children
+204644,Mikhael (2019),Action|Children|Thriller
+204842,Jinxed (2013),Children|Comedy|Fantasy
+205008,All Stars (2013),Children|Comedy
+205082,Invader ZIM: Enter the Florpus (2019),Animation|Children|Comedy|Sci-Fi
+205094,El Americano: The Movie (2016),Animation|Children
+205148,Blurt! (2018),Children|Comedy
+205198,Horrible Histories: The Movie - Rotten Romans (2019),Children|Comedy
+205200,Master Spy (2016),Adventure|Children
+205635,El Chanfle 2 (1982),Children|Comedy
+205657,Hula Girls (2006),Children|Comedy|Drama
+205663,Rocket-bye Baby (1956),Animation|Children|Comedy|Sci-Fi
+205697,The Nutty Boy: A Film (1995),Adventure|Children|Comedy
+205873,Cinderella (1922),Animation|Children|Fantasy
+205945,Steven Universe: The Movie (2019),Adventure|Animation|Children|Comedy
+206282,Rocca verändert die Welt (2019),Children
+206714,Abominable (2019),Adventure|Animation|Children|Comedy
+206737,Trouble (2019),Animation|Children|Comedy
+206769,Operation Christmas List (2015),Children|Comedy
+206901,Garfield Goes Hollywood (1987),Animation|Children|Comedy
+206905,Garfield on the Town (1983),Animation|Children
+206909,Garfield in the Rough (1984),Animation|Children
+206959,Frozen II (2019),Adventure|Animation|Children|Comedy|Fantasy
+207065,Minuscule 2: Mandibles From Far Away (2019),Adventure|Animation|Children|Comedy
+207079,The Prince and the Pauper (1972),Adventure|Children|Comedy
+207189,The Addams Family (2019),Animation|Children|Comedy|Fantasy|Horror
+207347,Spread Your Wings (2019),Adventure|Children
+207371,La leyenda de la Nahuala (2007),Animation|Children|Fantasy
+207457,LEGO DC: Batman - Family Matters (2019),Animation|Children
+207483,The Secret of a Leader (2019),Children|Crime|Drama
+207499,The Winter Stallion (1992),Children
+207518,The Immortal Woman (1993),Children|Comedy|Fantasy
+207530,Boys Will Be Boys (1976),Adventure|Children|Comedy
+207556,Krakonoš a lyžníci (1981),Adventure|Children|Comedy
+207588,The Magic Quill (2018),Children|Fantasy
+207614,Os Saltimbancos Trapalhões (1981),Adventure|Children|Comedy
+207616,Os Trapalhões no Reino da Fantasia (1985),Adventure|Children|Comedy|Fantasy
+207618,Os Fantasmas Trapalhões (1987),Children|Comedy
+207620,O Casamento dos Trapalhões (1988),Children|Comedy
+207622,A Princesa Xuxa e os Trapalhões (1989),Adventure|Children|Comedy|Sci-Fi
+207624,O Noviço Rebelde (1997),Children|Comedy
+207626,"Simão, o Fantasma Trapalhão (1998)",Children|Comedy|Fantasy|Mystery
+207680,My Best Holidays (2012),Children|Comedy
+207706,Little Miss Dolittle (2018),Children|Comedy|Crime|Fantasy
+207898,The Useless Girl (1982),Children|Drama
+208014,The Wonderland (2016),Children|Comedy
+208076,Hana's Miso Soup (2015),Children|Drama
+208110,A Shaun the Sheep Movie: Farmageddon (2019),Animation|Children|Comedy
+208112,Rudolph the Red-Nosed Reindeer & the Island of Misfit Toys (2001),Animation|Children
+208114,Cricket on the Hearth (1967),Animation|Children
+208267,Ella and Friends (2012),Adventure|Children|Comedy
+208269,Princess Lillifee (2009),Children
+208271,Princess Lillifee and the Little Unicorn (2011),Animation|Children
+208273,JerryMaja's Detective Agency - Shadows of Valleby (2014),Children
+208275,Ella and Friends 2 - Paterock (2013),Children|Comedy
+208277,Kadonnut: Joulupukki (2014),Children|Fantasy
+208279,"Mayflower, Quiltshoe & The Rubens Brothers (2017)",Children|Comedy
+208565,St. Roz (2010),Children|Comedy|Drama
+208693,Pippi Longstocking (1997),Adventure|Animation|Children|Comedy
+208695,Vi på Saltkråkan (1968),Children
+208697,Tjorven and Skrallan (1965),Children
+208699,Tjorven and Mysak (1966),Children
+208701,Pippi i Söderhavet (1999),Animation|Children
+208779,Emu Runner (2018),Children|Drama
+208813,Noelle (2019),Children
+208909,Super Xuxa Contra o Baixo Astral (1988),Children|Comedy|Fantasy
+208939,Klaus (2019),Adventure|Animation|Children|Comedy
+208941,"Maria, Mirabella (1981)",Animation|Children|Comedy
