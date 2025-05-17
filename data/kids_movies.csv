@@ -1,4 +1,4 @@
-movieId,title,genres
+movie_id,movie_title,genres
 1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 2,Jumanji (1995),Adventure|Children|Fantasy
 8,Tom and Huck (1995),Adventure|Children
