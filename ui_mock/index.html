@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .movie-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 15px 0;
+            width: 300px;
+            text-align: center;
+        }
+        .movie-poster {
+            width: 200px;
+            height: 300px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        .rating-buttons {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+        button {
+            padding: 8px 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+        .thumbs-up {
+            background-color: #e6f7e6;
+        }
+        .thumbs-down {
+            background-color: #f7e6e6;
+        }
+        .skip {
+            background-color: #f2f2f2;
+        }
+        .recommendations {
+            display: none;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .recommendation-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 15px;
+            width: 200px;
+            text-align: center;
+        }
+        .status {
+            margin: 10px 0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Movie Recommendation System</h1>
+
+        <div class="status" id="status">
+            Please rate 5 movies to get recommendations
+        </div>
+
+        <div id="rating-section">
+            <div class="movie-card" id="current-movie">
+                <h2 id="movie-title">Loading...</h2>
+                <img id="movie-poster" class="movie-poster" src="" alt="Movie poster">
+                <div class="rating-buttons">
+                    <button class="thumbs-up" onclick="rateMovie('thumbs_up')">👍 Like</button>
+                    <button class="thumbs-down" onclick="rateMovie('thumbs_down')">👎 Dislike</button>
+                    <button class="skip" onclick="rateMovie('skip')">⏭️ Skip</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="recommendations" id="recommendations-section">
+            <h2>Your Recommendations</h2>
+            <div id="recommendations-container"></div>
+        </div>
+    </div>
+
+    <script>
+        // WebSocket connection
+        const socket = new WebSocket(`ws://${window.location.hostname}:8765`);
+
+        // Movie queue and ratings counter
+        let movieQueue = [];
+        let ratingsCount = 0;
+        const REQUIRED_RATINGS = 5;
+
+        // Current movie being rated
+        let currentMovie = null;
+
+        // Connect to WebSocket
+        socket.onopen = function(e) {
+            console.log("WebSocket connection established");
+            document.getElementById('status').textContent = "Connected! Please rate 5 movies.";
+        };
+
+        // Handle messages from server
+        socket.onmessage = function(event) {
+            const data = JSON.parse(event.data);
+            console.log("Received:", data);
+
+            if (data.type === "films_to_rate") {
+                // Add films to our queue
+                movieQueue = movieQueue.concat(data.films);
+
+                // If we don't have a current movie, show the first one
+                if (!currentMovie) {
+                    showNextMovie();
+                }
+            }
+            else if (data.type === "additional_film") {
+                // Add a single new film to our queue (after skipping)
+                movieQueue.push(data.film);
+            }
+            else if (data.type === "recommendations") {
+                // Show recommendations
+                showRecommendations(data.films);
+            }
+        };
+
+        // Handle WebSocket errors
+        socket.onerror = function(error) {
+            console.error("WebSocket error:", error);
+            document.getElementById('status').textContent = "Error connecting to server!";
+        };
+
+        // Handle WebSocket disconnection
+        socket.onclose = function(event) {
+            console.log("WebSocket connection closed");
+            document.getElementById('status').textContent = "Disconnected from server!";
+        };
+
+        // Show the next movie from the queue
+        function showNextMovie() {
+            if (movieQueue.length === 0) {
+                document.getElementById('movie-title').textContent = "No more movies to rate!";
+                document.getElementById('movie-poster').src = "";
+                document.getElementById('current-movie').style.display = "none";
+                return;
+            }
+
+            currentMovie = movieQueue.shift();
+            document.getElementById('movie-title').textContent = currentMovie.title;
+            document.getElementById('movie-poster').src = currentMovie.poster_url;
+            document.getElementById('movie-poster').alt = `${currentMovie.title} poster`;
+        }
+
+        // Rate the current movie
+        function rateMovie(rating) {
+            if (!currentMovie) return;
+
+            // Send rating to server
+            socket.send(JSON.stringify({
+                type: "rating",
+                film_id: currentMovie.film_id,
+                rating: rating
+            }));
+
+            // Update ratings count if not skipped
+            if (rating !== "skip") {
+                ratingsCount++;
+                document.getElementById('status').textContent =
+                    `Rated ${ratingsCount} of ${REQUIRED_RATINGS} movies`;
+            }
+
+            // Show next movie
+            showNextMovie();
+
+            // If queue is empty and we haven't rated enough, request more
+            if (movieQueue.length === 0 && ratingsCount < REQUIRED_RATINGS) {
+                socket.send(JSON.stringify({
+                    type: "get_more_films"
+                }));
+            }
+        }
+
+        // Show recommendations
+        function showRecommendations(recommendations) {
+            // Hide rating section
+            document.getElementById('rating-section').style.display = "none";
+
+            // Update status
+            document.getElementById('status').textContent = "Here are your recommendations!";
+
+            // Show recommendations section
+            const recommendationsSection = document.getElementById('recommendations-section');
+            recommendationsSection.style.display = "flex";
+
+            // Clear previous recommendations
+            const container = document.getElementById('recommendations-container');
+            container.innerHTML = "";
+
+            // Add each recommendation
+            recommendations.forEach(movie => {
+                const card = document.createElement('div');
+                card.className = "recommendation-card";
+
+                const title = document.createElement('h3');
+                title.textContent = movie.title;
+
+                const poster = document.createElement('img');
+                poster.src = movie.poster_url;
+                poster.alt = `${movie.title} poster`;
+                poster.className = "movie-poster";
+
+                card.appendChild(title);
+                card.appendChild(poster);
+                container.appendChild(card);
+            });
+        }
+    </script>
+</body>
+</html>
